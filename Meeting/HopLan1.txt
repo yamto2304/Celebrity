@@ -1,0 +1,12 @@
+Sat, October 10 2020
+1. Công việc : Chuẩn bị file text với form dữ liệu như sau:
+	Name - Location - URI(wiki, maxreading)
+2. Phân công
+- Tuấn : Lễ hội
+- Tú : Di tích lịch sử, danh lam thắng cảnh
+- Huy: Danh nhân văn hóa
+3. Dự kiến luồng công việc:
+ a. Chuẩn bị nguồn dữ liệu, URI,...
+ b. Sử dụng mã (Python) crawl dữ liệu về ở dạng text
+ c. Gán nhãn thủ công cho dữ liệu
+ d. Xây dựng Ontology
