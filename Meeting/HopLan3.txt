@@ -1,0 +1,3 @@
+Sun,October, 25 2020
+Mỗi thành viên hoàn thành code spider, crawl dữ liệu
+Mục bonus : danh nhân văn hóa - tìm thêm dữ liệu từ nguồn thầy đưa
