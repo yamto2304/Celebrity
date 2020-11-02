@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Meeting"
+    "\\DataCrawled",
+    "\\DataCrawled\\DataCrawled",
+    "\\DataCrawled\\DataCrawled\\DiTich",
+    "\\DataCrawled\\DataCrawled\\spiders"
   ],
-  "SelectedNode": "\\Meeting\\HopLan2.txt",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

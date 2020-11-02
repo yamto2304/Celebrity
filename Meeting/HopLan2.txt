@@ -1,8 +1,0 @@
-Sat, October 17 2020
-1. Công việc đã làm:
-- Tìm hiểu cách crawl dữ liệu bằng scrapy
-- Crawl dữ liệu (50%) - gộp file text chứa tổng hợp tên và URL
-2. Dự kiến
-- Crawl được phần dữ liệu còn lại(chia ra từng file text)
-
-3. Phân công: toàn bộ

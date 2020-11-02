@@ -1,2 +1,2 @@
-# Celebrity
-Project III
+﻿# Celebrity
+Hoàng Đình Tuấn - Project III
