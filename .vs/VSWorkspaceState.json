@@ -3,9 +3,12 @@
     "",
     "\\DataCrawled",
     "\\DataCrawled\\DataCrawled",
-    "\\DataCrawled\\DataCrawled\\DiTich",
+    "\\DataCrawled\\DataCrawled\\DanhNhan",
+    "\\DataCrawled\\DataCrawled\\DanhNhanMax",
+    "\\DataCrawled\\DataCrawled\\LeHoi",
+    "\\DataCrawled\\DataCrawled\\LeHoi2",
     "\\DataCrawled\\DataCrawled\\spiders"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\DataCrawled\\DataCrawled\\LeHoi\\Cà Mau - Nét đẹp trong lễ hội Nghinh Ông sông Đốc.txt",
   "PreviewInSolutionExplorer": false
 }
