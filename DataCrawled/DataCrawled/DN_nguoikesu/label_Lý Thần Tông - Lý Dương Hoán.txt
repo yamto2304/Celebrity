@@ -1,0 +1,65 @@
+Lý Thần Tông Np B-NP 
+( CH O 
+1128 M B-NP 
+- CH O 
+1138 N B-NP 
+) CH O 
+Vua Np B-NP 
+Lý Nhân Tông Np I-NP 
+không R O 
+có V B-VP 
+con Nc B-NP 
+trai N B-NP 
+, CH O 
+lập V B-VP 
+con N B-NP 
+của E B-PP 
+em trai N B-NP 
+là C O 
+Sùng Np B-NP 
+Hiền Np B-NP 
+Hầu Dương Hoán Np B-NP 
+lên V B-VP 
+làm V B-VP 
+Thái tử N B-NP 
+, CH O 
+kế vị Hoàng đế N B-NP 
+là V B-VP 
+vua N B-NP 
+Lý Thần Tông Np B-NP 
+. CH O 
+Vua Np B-NP 
+Lý Thần Tông Np I-NP 
+khuyến khích V B-VP 
+phát triển V B-VP 
+nông nghiệp N B-NP 
+, CH O 
+thực hiện V B-VP 
+chính sách N B-NP 
+" CH O 
+ngụ V B-VP 
+binh N B-NP 
+ư T O 
+nông N B-NP 
+" CH O 
+, CH O 
+cho E B-PP 
+binh lính N B-NP 
+đổi phiên V B-VP 
+, CH O 
+cứ R O 
+lần lượt R O 
+6 M B-NP 
+tháng N B-NP 
+một M B-NP 
+được R O 
+về V B-VP 
+làm ruộng V B-VP 
+, CH O 
+do vậy C O 
+nhân dân N B-NP 
+no đủ A B-AP 
+, CH O 
+an cư V B-VP 
+lạc nghiệp N B-NP 
+. CH O 

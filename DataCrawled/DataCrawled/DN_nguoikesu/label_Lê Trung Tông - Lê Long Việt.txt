@@ -1,0 +1,74 @@
+Lê Trung Tông Np B-NP 
+( CH O 
+1005 N B-NP 
+) CH O 
+Vua Np B-NP 
+Lê Đại Hành Np I-NP 
+có V B-VP 
+4 M B-NP 
+hoàng tử N B-NP 
+: CH O 
+Long Du Np B-NP 
+, CH O 
+Ngân Trích Np B-NP 
+, CH O 
+Long Việt Np B-NP 
+và C O 
+Long Đĩnh Np B-NP 
+. CH O 
+Lê Đại Hành Np B-NP 
+đã R O 
+cho V B-VP 
+con N B-NP 
+thứ N B-NP 
+ba M B-NP 
+là V B-VP 
+Long Việt Np B-NP 
+làm V B-VP 
+Thái tử N B-NP 
+. CH O 
+Khi N B-NP 
+vua N B-NP 
+Lê Đại Hành Np B-NP 
+băng hà V B-VP 
+, CH O 
+các L B-NP 
+hoàng tử N B-NP 
+tranh N B-NP 
+ngôi N B-NP 
+, CH O 
+đánh V B-VP 
+nhau N B-NP 
+7 M B-NP 
+tháng N B-NP 
+, CH O 
+đến E B-PP 
+khi N B-NP 
+Long Np B-NP 
+Việt Np B-NP 
+lên ngôi V B-VP 
+làm V B-VP 
+vua N B-NP 
+là V B-VP 
+Lê Trung Tông Np B-NP 
+được V B-VP 
+3 M B-NP 
+ngày N B-NP 
+thì C O 
+bị V B-VP 
+em N B-NP 
+cùng C O 
+mẹ N B-NP 
+là V B-VP 
+Long Đĩnh Np B-NP 
+giết V B-VP 
+chết V B-VP 
+lúc N B-NP 
+23 M B-NP 
+tuổi N B-NP 
+( CH O 
+983 M B-NP 
+- CH O 
+1005 M B-NP 
+) CH O 
+. CH O 

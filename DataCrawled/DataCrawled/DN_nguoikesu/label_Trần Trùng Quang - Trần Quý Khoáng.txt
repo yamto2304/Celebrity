@@ -1,0 +1,124 @@
+Trùng Np B-NP 
+Quang Đế Np B-NP 
+( CH O 
+1409 M B-NP 
+- CH O 
+1414 N B-NP 
+) CH O 
+Trần Quý Khoáng Np B-NP 
+là V B-VP 
+con thứ N B-NP 
+của E B-PP 
+Mẫn Np B-NP 
+Vương Ngạc Np I-NP 
+, CH O 
+cháu Nc B-NP 
+nội A B-AP 
+của E B-PP 
+vua N B-NP 
+Trần Nghệ Tông Np B-NP 
+, CH O 
+gọi V B-VP 
+Giản Định Np B-NP 
+đế V B-VP 
+bằng E B-PP 
+chú Nc B-NP 
+ruột N B-NP 
+. CH O 
+Đặng Dung Np B-NP 
+là V B-VP 
+con N B-NP 
+Quốc công N B-NP 
+Đặng Tất Np B-NP 
+, CH O 
+Nguyễn Cảnh Dị Np B-NP 
+là V B-VP 
+con N B-NP 
+Tham mưu V B-VP 
+quân sự N B-NP 
+Nguyễn Cảnh Chân Np B-NP 
+căm giận V B-VP 
+vì E B-PP 
+cha N B-NP 
+bị V B-VP 
+giết oan V B-VP 
+, CH O 
+mới R O 
+đem V B-VP 
+quân N B-NP 
+Thuận Hoá Np B-NP 
+về E B-PP 
+Thanh Hoá Np B-NP 
+đón V B-VP 
+Trần Quý Khoáng Np B-NP 
+đến E B-PP 
+Nghệ An Np B-NP 
+làm V B-VP 
+vua N B-NP 
+là V B-VP 
+Trùng Quang Đế Np B-NP 
+để E B-PP 
+lãnh đạo V B-VP 
+cuộc N B-NP 
+kháng chiến V B-VP 
+chống V B-VP 
+quân Minh N B-NP 
+. CH O 
+Tháng N B-NP 
+4 M B-NP 
+năm N B-NP 
+Giáp Ngọ Np B-NP 
+- CH O 
+1414 N B-NP 
+, CH O 
+do E B-PP 
+quân N B-NP 
+ít A B-AP 
+không thể R O 
+chống V B-VP 
+lại V B-VP 
+được R O 
+với E B-PP 
+quân Minh N B-NP 
+, CH O 
+Trương Phụ Np B-NP 
+, CH O 
+Mộc Thạch Np B-NP 
+cho E B-PP 
+quân N B-NP 
+bao vây N B-NP 
+đã R O 
+bắt V B-VP 
+được R O 
+Trùng Quang Đế Np B-NP 
+, CH O 
+Đặng Dung Np B-NP 
+, CH O 
+Nguyễn Suý Np B-NP 
+giải V B-VP 
+về E B-PP 
+Trung Quốc Np B-NP 
+, CH O 
+trên E B-PP 
+đường N B-NP 
+đi V B-VP 
+vua N B-NP 
+tôi P B-NP 
+nhà N B-NP 
+Hậu Trần Np B-NP 
+đã R O 
+nhảy V B-VP 
+xuống V B-VP 
+biển N B-NP 
+tự tử N B-NP 
+để E B-PP 
+tỏ V B-VP 
+rõ A B-AP 
+khí phách A B-AP 
+, CH O 
+nhà N B-NP 
+Hậu Trần Np B-NP 
+chấm dứt V B-VP 
+từ E B-PP 
+đó P B-NP 
+. CH O 

@@ -1,0 +1,156 @@
+Lê Đại Hành Np B-NP 
+( CH O 
+980 M B-NP 
+- CH O 
+1005 N B-NP 
+) CH O 
+Lê Hoàn sinh V B-VP 
+năm N B-NP 
+941 M B-NP 
+ở E B-PP 
+Xuân Lập Np B-NP 
+, CH O 
+Thọ Xuân Np B-NP 
+, CH O 
+Thanh Hoá Np B-NP 
+( CH O 
+có V B-VP 
+thuyết N B-NP 
+nói V B-VP 
+: CH O 
+Lê Hoàn sinh N B-NP 
+ở E B-PP 
+Thanh Liêm Np B-NP 
+, CH O 
+Hà Nam Np B-NP 
+) CH O 
+trong E B-PP 
+một M B-NP 
+gia đình N B-NP 
+nghèo khổ A B-AP 
+, CH O 
+bố N B-NP 
+là V B-VP 
+Lê Mịch Np B-NP 
+, CH O 
+mẹ N B-NP 
+là V B-VP 
+Đặng Thị Sen Np B-NP 
+. CH O 
+Cha mẹ N B-NP 
+mất V B-VP 
+sớm A B-AP 
+, CH O 
+Lê Hoàn Np B-NP 
+phải V B-VP 
+đi V B-VP 
+làm V B-VP 
+con nuôi N B-NP 
+cho E B-PP 
+một M B-NP 
+vị Nc B-NP 
+quan N B-NP 
+nhỏ A B-AP 
+. CH O 
+Lớn lên N B-NP 
+, CH O 
+ông Nc B-NP 
+đi V B-VP 
+theo V B-VP 
+Nam Np B-NP 
+Việt Np B-NP 
+Vương Np B-NP 
+Đinh Liễn Np B-NP 
+và C O 
+lập V B-VP 
+được V B-VP 
+nhiều A B-AP 
+chiến công N B-NP 
+khi N B-NP 
+Đinh Np B-NP 
+Tiên Hoàng Np B-NP 
+dẹp loạn V B-VP 
+12 M B-NP 
+sứ quân N B-NP 
+, CH O 
+thống nhất V B-VP 
+đất nước N B-NP 
+, CH O 
+lập V B-VP 
+nên C O 
+cơ nghiệp N B-NP 
+Nhà Đinh Np B-NP 
+. Ông V B-VP 
+được V B-VP 
+Đinh Np B-NP 
+Tiên Hoàng Np I-NP 
+phong V B-VP 
+làm V B-VP 
+Thập Đạo Np B-NP 
+tướng quân V B-VP 
+lúc N B-NP 
+vừa R O 
+tròn A B-AP 
+30 M B-NP 
+tuổi N B-NP 
+. CH O 
+Khi N B-NP 
+cha N B-NP 
+con N B-NP 
+Đinh Np B-NP 
+Tiên Hoàng Np B-NP 
+bị V B-VP 
+Đỗ Thích Np B-NP 
+giết hại V B-VP 
+, CH O 
+Đinh Toàn Np B-NP 
+mới R O 
+6 M B-NP 
+tuổi N B-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+. Nhân V B-VP 
+cơ hội N B-NP 
+đó P B-NP 
+, CH O 
+Nhà Tống Np B-NP 
+cho E B-PP 
+quân N B-NP 
+sang V B-VP 
+xâm lược V B-VP 
+nước N B-NP 
+ta P B-NP 
+. CH O 
+Vì E B-PP 
+lợi ích N B-NP 
+của E B-PP 
+dân tộc N B-NP 
+, CH O 
+Thái hậu N B-NP 
+Dương Vân Nga Np B-NP 
+đã R O 
+trao V B-VP 
+ngôi vua V B-VP 
+cho E B-PP 
+Lê Hoàn . N B-NP 
+Lê Hoàn Np B-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+lấy V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Lê Đại Hành Np B-NP 
+. CH O 
+Vẫn R O 
+lấy V B-VP 
+tên N B-NP 
+nước N B-NP 
+là V B-VP 
+Đại Cồ Việt Np B-NP 
+, CH O 
+đóng đô V B-VP 
+tại E B-PP 
+Hoa Lư Np B-NP 
+. CH O 

@@ -1,0 +1,52 @@
+Giản Định Đế Np B-NP 
+( CH O 
+1407 M B-NP 
+- CH O 
+1409 N B-NP 
+) CH O 
+Trần Ngỗi Np B-NP 
+là V B-VP 
+con thứ N B-NP 
+của E B-PP 
+Trần Nghệ Tông Np B-NP 
+, CH O 
+cuối N B-NP 
+thời N B-NP 
+Hồ Np B-NP 
+đã R O 
+khởi binh V B-VP 
+khôi phục V B-VP 
+nhà N B-NP 
+Trần Np B-NP 
+, CH O 
+ở E B-PP 
+ngôi N B-NP 
+được R O 
+2 M B-NP 
+năm N B-NP 
+. Vua M B-NP 
+không R O 
+có V B-VP 
+tài N B-NP 
+dẹp loạn N B-NP 
+, CH O 
+lại R O 
+nghe V B-VP 
+gian thần N B-NP 
+giết V B-VP 
+oan A B-AP 
+2 M B-NP 
+vị Nc B-NP 
+trung thần N B-NP 
+là V B-VP 
+Đặng Tất Np B-NP 
+và C O 
+Nguyễn Cảnh Chân Np B-NP 
+, CH O 
+nên C O 
+tự P B-NP 
+chuốc V B-VP 
+lấy V B-VP 
+hoạ N B-NP 
+diệt vong N B-NP 
+. CH O 

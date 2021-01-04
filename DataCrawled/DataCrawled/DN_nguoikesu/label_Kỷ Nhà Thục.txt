@@ -1,0 +1,264 @@
+Thục Np B-NP 
+Phán Np B-NP 
+thủ lĩnh V B-VP 
+của E B-PP 
+người N B-NP 
+Âu Việt Np B-NP 
+( CH O 
+phía N B-NP 
+Bắc Np B-NP 
+nước N B-NP 
+Văn Lang Np B-NP 
+) CH O 
+hợp nhất V B-VP 
+với E B-PP 
+nước N B-NP 
+Văn Lang Np B-NP 
+của E B-PP 
+người N B-NP 
+Lạc Việt Np B-NP 
+, CH O 
+xưng V B-VP 
+là C O 
+An Dương Vương Np B-NP 
+đặt V B-VP 
+quốc hiệu N B-NP 
+là V B-VP 
+nước N B-NP 
+Âu Lạc Np B-NP 
+, CH O 
+đóng đô V B-VP 
+tại E B-PP 
+Cổ Loa Np B-NP 
+( CH O 
+Đông Anh Np B-NP 
+, CH O 
+Hà Nội Np B-NP 
+) CH O 
+. CH O 
+Năm N B-NP 
+218 M B-NP 
+TCN Np B-NP 
+, CH O 
+Tần Thủy Hoàng huy động N B-NP 
+50 M B-NP 
+vạn M B-NP 
+quân N B-NP 
+, CH O 
+chia V B-VP 
+làm V B-VP 
+5 M B-NP 
+đạo N B-NP 
+, CH O 
+đi V B-VP 
+chinh phục V B-VP 
+Bách Np B-NP 
+Việt Np I-NP 
+, CH O 
+chỉ huy V B-VP 
+đạo quân N B-NP 
+Tần Np B-NP 
+là C O 
+viên Nc B-NP 
+tướng N B-NP 
+lừng danh N B-NP 
+Đồ Thư Np B-NP 
+. CH O 
+Các L B-NP 
+Lạc Tướng Np B-NP 
+đã R O 
+suy tôn V B-VP 
+Thục Np B-NP 
+Phán Np I-NP 
+là V B-VP 
+lãnh tụ N B-NP 
+chung A B-AP 
+để E B-PP 
+chỉ huy V B-VP 
+cuộc N B-NP 
+kháng chiến V B-VP 
+chống V B-VP 
+quân N B-NP 
+Tần Np B-NP 
+. CH O 
+Người Nc B-NP 
+Việt Np B-NP 
+làm V B-VP 
+chiến tranh N B-NP 
+du kích N B-NP 
+, CH O 
+vườn N B-NP 
+không R O 
+nhà N B-NP 
+trống A B-AP 
+, CH O 
+bền bỉ N B-NP 
+kháng chiến V B-VP 
+suốt A B-AP 
+gần A B-AP 
+10 M B-NP 
+năm N B-NP 
+, CH O 
+đợi V B-VP 
+khi N B-NP 
+quân N B-NP 
+Tần Np B-NP 
+lâm V B-VP 
+vào E B-PP 
+tình trạng N B-NP 
+mệt mỏi A B-AP 
+, CH O 
+chán nản N B-NP 
+và C O 
+khổ sở A B-AP 
+vì E B-PP 
+thiếu V B-VP 
+lương thực N B-NP 
+và C O 
+ốm đau V B-VP 
+nhiều A B-AP 
+vì E B-PP 
+không R O 
+hợp V B-VP 
+thủy thổ N B-NP 
+, CH O 
+lúc N B-NP 
+đó P B-NP 
+Thục Phán Np B-NP 
+mới R O 
+tổ chức V B-VP 
+phản công V B-VP 
+quân N B-NP 
+Tần Np B-NP 
+, CH O 
+bắn V B-VP 
+chết V B-VP 
+Đồ Thư Np B-NP 
+. CH O 
+Mất V B-VP 
+tướng N B-NP 
+chỉ huy V B-VP 
+, CH O 
+quân N B-NP 
+Tần Np B-NP 
+mở đường máu V B-VP 
+tháo chạy N B-NP 
+về V B-VP 
+nước N B-NP 
+. CH O 
+Sau N B-NP 
+chiến công N B-NP 
+vĩ đại A B-AP 
+đánh thắng N B-NP 
+50 M B-NP 
+vạn M B-NP 
+quân N B-NP 
+Tần Np B-NP 
+, CH O 
+An Dương Vương Np B-NP 
+tổ chức V B-VP 
+xây V B-VP 
+thành V B-VP 
+Cổ Loa Np B-NP 
+. Thành V B-VP 
+có V B-VP 
+9 M B-NP 
+vòng N B-NP 
+, CH O 
+chu vi V B-VP 
+vòng N B-NP 
+ngoài N B-NP 
+8 M B-NP 
+km Nu B-NP 
+, CH O 
+vòng N B-NP 
+giữa N B-NP 
+6,5 M B-NP 
+km Nu B-NP 
+, CH O 
+vòng N B-NP 
+trong E B-PP 
+cùng A B-AP 
+1,6 M B-NP 
+km Nu B-NP 
+. CH O 
+Với E B-PP 
+vị trí N B-NP 
+thuận lợi A B-AP 
+, CH O 
+với E B-PP 
+cách N B-NP 
+bố trí V B-VP 
+thành V B-VP 
+có V B-VP 
+9 M B-NP 
+lớp N B-NP 
+, CH O 
+xoáy trôn ốc N B-NP 
+, CH O 
+thành V B-VP 
+cao A B-AP 
+, CH O 
+hào V B-VP 
+sâu A B-AP 
+, CH O 
+có V B-VP 
+các L B-NP 
+ụ N B-NP 
+cao A B-AP 
+khô A B-AP 
+vượt V B-VP 
+ra V B-VP 
+ngoài E B-PP 
+lũy N B-NP 
+để E B-PP 
+có thể A B-AP 
+từ E B-PP 
+cao A B-AP 
+bắn V B-VP 
+xuống V B-VP 
+, CH O 
+với E B-PP 
+vũ khí N B-NP 
+nỏ N B-NP 
+thần N B-NP 
+và C O 
+những L B-NP 
+mũi N B-NP 
+tên N B-NP 
+đồng N B-NP 
+lợi hại N B-NP 
+, CH O 
+sức mạnh N B-NP 
+quân sự N B-NP 
+tổng hợp A B-AP 
+của E B-PP 
+thành N B-NP 
+Cổ Loa Np B-NP 
+làm V B-VP 
+cho E B-PP 
+quân thù N B-NP 
+khiếp sợ N B-NP 
+thể hiện V B-VP 
+trí tuệ N B-NP 
+quân sự N B-NP 
+tuyệt vời A B-AP 
+của E B-PP 
+tổ tiên N B-NP 
+ta P B-NP 
+. CH O 
+Ở E B-PP 
+ngoại thành N B-NP 
+Hà Nội Np B-NP 
+ngày nay N B-NP 
+, CH O 
+vẫn R O 
+còn R O 
+thấy V B-VP 
+dấu tích N B-NP 
+3 M B-NP 
+lớp N B-NP 
+thành V B-VP 
+Cổ Loa Np B-NP 
+thời N B-NP 
+An Dương Vương Np B-NP 

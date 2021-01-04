@@ -1,0 +1,1664 @@
+Giáp Np B-NP 
+Ngọ Np I-NP 
+, CH O 
+[ N B-NP 
+1414 V B-VP 
+] N B-NP 
+, CH O 
+( CH O 
+Minh Np B-NP 
+Vĩnh Lạc Np I-NP 
+năm N B-NP 
+thứ N B-NP 
+12 M B-NP 
+) CH O 
+. CH O 
+Mùa Nc B-NP 
+xuân N B-NP 
+, CH O 
+tháng N B-NP 
+giêng M B-NP 
+, CH O 
+Trương Phụ Np B-NP 
+và C O 
+Mộc Thạnh Np B-NP 
+nhà N B-NP 
+Minh Np B-NP 
+chiêu dụ V B-VP 
+, CH O 
+vỗ về N B-NP 
+Tân Bình Np B-NP 
+, CH O 
+Thuận Hóa Np B-NP 
+, CH O 
+chia V B-VP 
+đặt V B-VP 
+quan N B-NP 
+cai trị N B-NP 
+để E B-PP 
+cùng A B-AP 
+làm việc V B-VP 
+với E B-PP 
+thổ quan N B-NP 
+, CH O 
+khám xét V B-VP 
+nhân khẩu N B-NP 
+, CH O 
+gộp V B-VP 
+làm V B-VP 
+sổ N B-NP 
+hộ V B-VP 
+. CH O 
+[ N B-NP 
+25 M B-NP 
+a N B-NP 
+] CH O 
+Phủ Np B-NP 
+Thăng Hoa Np B-NP 
+tuy C O 
+có V B-VP 
+đặt V B-VP 
+quan N B-NP 
+, CH O 
+nhưng C O 
+Chiêm Thành Np B-NP 
+vẫn R O 
+có V B-VP 
+trưởng N B-NP 
+lộ N B-NP 
+chiếm giữ N B-NP 
+cai trị N B-NP 
+, CH O 
+nên C O 
+nhà N B-NP 
+Minh Np B-NP 
+chỉ R O 
+ghi V B-VP 
+tên N B-NP 
+không R O 
+mà T O 
+thôi T O 
+. CH O 
+Quan lại V B-VP 
+ở E B-PP 
+kinh N B-NP 
+lộ V B-VP 
+, CH O 
+những L B-NP 
+ai P B-NP 
+lánh V B-VP 
+giặc N B-NP 
+đi V B-VP 
+theo V B-VP 
+Trùng Quang Đế Np B-NP 
+đến E B-PP 
+Hóa Châu Np B-NP 
+, CH O 
+đến V B-VP 
+đây P B-NP 
+người N B-NP 
+thì C O 
+mang V B-VP 
+cả P B-NP 
+nhà N B-NP 
+chạy V B-VP 
+sang V B-VP 
+nước N B-NP 
+Lão Np B-NP 
+Qua Np B-NP 
+, CH O 
+người N B-NP 
+thì C O 
+chạy V B-VP 
+sang V B-VP 
+Chiêm Thành Np B-NP 
+, CH O 
+còn C O 
+người N B-NP 
+trong E B-PP 
+nước N B-NP 
+từ E B-PP 
+đấy P B-NP 
+đều R O 
+làm V B-VP 
+thần N B-NP 
+thiếp V B-VP 
+cho E B-PP 
+người N B-NP 
+Minh Np B-NP 
+cả T O 
+. CH O 
+Mùa hạ N B-NP 
+, CH O 
+tháng N B-NP 
+4 M B-NP 
+, CH O 
+tổng binh N B-NP 
+Trương Phụ Np B-NP 
+, CH O 
+Mộc Thạnh Np B-NP 
+, CH O 
+Binh bộ V B-VP 
+thị lang N B-NP 
+Trần Hiệp Np B-NP 
+của E B-PP 
+nhà Minh N B-NP 
+đem V B-VP 
+trùng N B-NP 
+Quang Đế Np B-NP 
+, CH O 
+Nguyễn Súy Np B-NP 
+và C O 
+Đặng Dung Np B-NP 
+về V B-VP 
+Đông Quan Np B-NP 
+. CH O 
+Quan lại V B-VP 
+các L B-NP 
+phủ N B-NP 
+, CH O 
+châu N B-NP 
+, CH O 
+huyện N B-NP 
+sắm V B-VP 
+lễ vật N B-NP 
+cùng A B-AP 
+trướng N B-NP 
+vẽ V B-VP 
+cờ N B-NP 
+thêu V B-VP 
+đến E B-PP 
+mừng V B-VP 
+. CH O 
+Sai Np B-NP 
+người N B-NP 
+giải V B-VP 
+về E B-PP 
+Yên Kinh Np B-NP 
+. CH O 
+Trùng Quang Đế Np B-NP 
+đ V B-VP 
+đến E B-PP 
+nửa L B-NP 
+đường N B-NP 
+nhảy V B-VP 
+xuống V B-VP 
+nước N B-NP 
+chết V B-VP 
+. CH O 
+Súy Np B-NP 
+thấy V B-VP 
+Trùng Quang Đế Np B-NP 
+đã R O 
+nhảy V B-VP 
+xuống V B-VP 
+nước N B-NP 
+chết V B-VP 
+, CH O 
+ngày ngày N B-NP 
+chơi V B-VP 
+cờ N B-NP 
+với E B-PP 
+viên Nc B-NP 
+chỉ huy N B-NP 
+coi V B-VP 
+giữ V B-VP 
+mình P B-NP 
+, CH O 
+thành V B-VP 
+quen V B-VP 
+, CH O 
+mới R O 
+lấy V B-VP 
+bàn cờ N B-NP 
+đánh V B-VP 
+hắn P B-NP 
+ngã V B-VP 
+xuống V B-VP 
+nước N B-NP 
+chết V B-VP 
+, CH O 
+Súy Np B-NP 
+cũng R O 
+nhảy V B-VP 
+xuống V B-VP 
+nước N B-NP 
+chết V B-VP 
+. Quốc V B-VP 
+thống N B-NP 
+từ E B-PP 
+đấy P B-NP 
+thuộc V B-VP 
+về E B-PP 
+nhà N B-NP 
+Minh Np B-NP 
+. CH O 
+Mùa thu V B-VP 
+, CH O 
+tháng N B-NP 
+7 M B-NP 
+, CH O 
+[ N B-NP 
+25 M B-NP 
+b N B-NP 
+] CH O 
+Trương Phụ Np B-NP 
+nhà Minh V B-VP 
+ra lệnh V B-VP 
+cho E B-PP 
+các L B-NP 
+phủ N B-NP 
+, CH O 
+châu N B-NP 
+, CH O 
+huyện N B-NP 
+, CH O 
+phàn N B-NP 
+quân nhân V B-VP 
+bắt V B-VP 
+được R O 
+tôi tớ V B-VP 
+, CH O 
+cùng A B-AP 
+đàn bà con N B-NP 
+gái N B-NP 
+trốn V B-VP 
+đi V B-VP 
+xứ N B-NP 
+khác A B-AP 
+thì C O 
+giải V B-VP 
+về E B-PP 
+cửa N B-NP 
+quân N B-NP 
+. Bọn N B-NP 
+quan lại V B-VP 
+chìu N B-NP 
+ý N B-NP 
+cấp N B-NP 
+trên N B-NP 
+bắt V B-VP 
+nhiều A B-AP 
+dân nghèo N B-NP 
+xiêu tán V B-VP 
+giải N B-NP 
+nộp V B-VP 
+. CH O 
+Tháng N B-NP 
+8 M B-NP 
+, CH O 
+Trương Phụ Np B-NP 
+, CH O 
+Mộc Thạnh Np B-NP 
+và C O 
+Trần Hiệp Np B-NP 
+trở về V B-VP 
+bắc N B-NP 
+, CH O 
+chia V B-VP 
+quân N B-NP 
+trấn giữ N B-NP 
+. Tháng N B-NP 
+9 M B-NP 
+, CH O 
+Hoàng Phúc Np B-NP 
+nhà N B-NP 
+Minh Np B-NP 
+truyền V B-VP 
+bảng N B-NP 
+cho E B-PP 
+các L B-NP 
+phủ N B-NP 
+, CH O 
+châu N B-NP 
+, CH O 
+huyện N B-NP 
+dựng V B-VP 
+Văn Miếu Np B-NP 
+và C O 
+các L B-NP 
+đàn Nc B-NP 
+thờ N B-NP 
+thần N B-NP 
+xã tắc V B-VP 
+, CH O 
+thần N B-NP 
+gió N B-NP 
+, CH O 
+thần N B-NP 
+mây N B-NP 
+, CH O 
+thần N B-NP 
+núi N B-NP 
+, CH O 
+thần N B-NP 
+sông N B-NP 
+và C O 
+những L B-NP 
+thần N B-NP 
+không R O 
+ai P B-NP 
+thờ cúng V B-VP 
+để E B-PP 
+tế lễ V B-VP 
+thường xuyên A B-AP 
+. CH O 
+Nhà Minh Np B-NP 
+cấm V B-VP 
+con trai N B-NP 
+, CH O 
+con gái N B-NP 
+không R O 
+được V B-VP 
+cắt V B-VP 
+tóc N B-NP 
+; CH O 
+phụ nữ N B-NP 
+mặc V B-VP 
+áo N B-NP 
+ngắn A B-AP 
+, CH O 
+quần V B-VP 
+dài A B-AP 
+, CH O 
+đồng hóa V B-VP 
+theo V B-VP 
+phong tục N B-NP 
+phương N B-NP 
+bắc N B-NP 
+. CH O 
+Mùa đông N B-NP 
+, CH O 
+tháng N B-NP 
+10 M B-NP 
+, CH O 
+nhà Minh mở V B-VP 
+học hiệu N B-NP 
+và C O 
+sức N B-NP 
+tìm tòi V B-VP 
+những L B-NP 
+người Nc B-NP 
+nho học V B-VP 
+, CH O 
+thầy thuốc N B-NP 
+, CH O 
+thầy tướng số N B-NP 
+, CH O 
+nhà sư N B-NP 
+, CH O 
+đạo sĩ N B-NP 
+, CH O 
+hạ lệnh V B-VP 
+cho E B-PP 
+các L B-NP 
+phủ N B-NP 
+, CH O 
+châu N B-NP 
+, CH O 
+huyện N B-NP 
+lấy V B-VP 
+lễ N B-NP 
+mà C O 
+thành tân V B-VP 
+thỉnh N B-NP 
+mời V B-VP 
+. CH O 
+Đó P B-NP 
+là V B-VP 
+làm V B-VP 
+theo V B-VP 
+lời N B-NP 
+của E B-PP 
+Hữu Np B-NP 
+tham tri N B-NP 
+Bành Đạo Np B-NP 
+Trường Np B-NP 
+. CH O 
+Nhà Minh Np B-NP 
+bắt V B-VP 
+khai V B-VP 
+số N B-NP 
+ruộng N B-NP 
+và C O 
+đất N B-NP 
+trồng V B-VP 
+dâu N B-NP 
+, CH O 
+trưng thu V B-VP 
+lương thực N B-NP 
+, CH O 
+tơ tằm N B-NP 
+. CH O 
+Mỗi M B-NP 
+hộ N B-NP 
+1 M B-NP 
+mẫu Nu B-NP 
+thì C O 
+bắt V B-VP 
+khai V B-VP 
+thành V B-VP 
+3 M B-NP 
+mẫu Nu B-NP 
+. CH O 
+[ V B-VP 
+26 N B-NP 
+] CH O 
+Đến V B-VP 
+sau N B-NP 
+xét V B-VP 
+hộ khẩu N B-NP 
+tăng V B-VP 
+hàng N B-NP 
+năm N B-NP 
+, CH O 
+định V B-VP 
+số N B-NP 
+ruộng N B-NP 
+mỗi L B-NP 
+hộ N B-NP 
+là V B-VP 
+10 M B-NP 
+mẫu Nu B-NP 
+( CH O 
+nghĩa là V B-VP 
+mỗi L B-NP 
+mẫu N B-NP 
+chỉ R O 
+có V B-VP 
+3 M B-NP 
+sào Nu B-NP 
+, CH O 
+10 M B-NP 
+mẫu Nu B-NP 
+thực ra N B-NP 
+chỉ R O 
+có V B-VP 
+3 M B-NP 
+mẫu Nu B-NP 
+) CH O 
+. CH O 
+Mỗi M B-NP 
+mẫu N B-NP 
+thu V B-VP 
+5 M B-NP 
+thăng N B-NP 
+thóc N B-NP 
+, CH O 
+đất bãi N B-NP 
+mỗi L B-NP 
+hộ N B-NP 
+một M B-NP 
+mẫu N B-NP 
+thu V B-VP 
+1 M B-NP 
+lạng N B-NP 
+tơ N B-NP 
+, CH O 
+mỗi L B-NP 
+cân N B-NP 
+tơ N B-NP 
+dệt V B-VP 
+được V B-VP 
+1 M B-NP 
+tấm Nc B-NP 
+lụa N B-NP 
+. CH O 
+Ất Np B-NP 
+Mùi Np I-NP 
+, CH O 
+[ V B-VP 
+1415 N B-NP 
+] CH O 
+, CH O 
+( CH O 
+Minh Np B-NP 
+Vĩnh Lạc Np I-NP 
+năm N B-NP 
+thứ N B-NP 
+13 M B-NP 
+) CH O 
+. CH O 
+Mùa thu V B-VP 
+, CH O 
+tháng N B-NP 
+8 M B-NP 
+, CH O 
+nhà N B-NP 
+Minh khám N B-NP 
+thu V B-VP 
+các L B-NP 
+mỏ N B-NP 
+vàng N B-NP 
+, CH O 
+bạc N B-NP 
+, CH O 
+mộ N B-NP 
+phụ V B-VP 
+đãi N B-NP 
+nhặt V B-VP 
+vàng bạc N B-NP 
+và C O 
+bắt V B-VP 
+voi N B-NP 
+trắng A B-AP 
+, CH O 
+mò V B-VP 
+trân châu N B-NP 
+. CH O 
+Thuế khóa N B-NP 
+nặng A B-AP 
+, CH O 
+vơ vét V B-VP 
+nhiều A B-AP 
+, CH O 
+dân chúng N B-NP 
+điêu đứng V B-VP 
+. CH O 
+Bãi N B-NP 
+muối N B-NP 
+ven N B-NP 
+biển N B-NP 
+cấm V B-VP 
+dân N B-NP 
+mua bán V B-VP 
+riêng A B-AP 
+, CH O 
+sai A B-AP 
+nội quan N B-NP 
+coi V B-VP 
+giữ V B-VP 
+cả T O 
+. CH O 
+Lại R O 
+đặt V B-VP 
+chức N B-NP 
+cục Nc B-NP 
+sứ N B-NP 
+và C O 
+phó N B-NP 
+của E B-PP 
+từng P B-NP 
+bãi N B-NP 
+muối N B-NP 
+để E B-PP 
+chia V B-VP 
+nhau N B-NP 
+trông coi V B-VP 
+. CH O 
+Các L B-NP 
+phủ N B-NP 
+, CH O 
+châu N B-NP 
+, CH O 
+huyện N B-NP 
+đêù V B-VP 
+đặt V B-VP 
+phó sứ N B-NP 
+ty V B-VP 
+Thuế khóa N B-NP 
+và C O 
+sở Hà bạc V B-VP 
+. CH O 
+Phép Np B-NP 
+lấy V B-VP 
+muối N B-NP 
+của E B-PP 
+nhà Minh N B-NP 
+: CH O 
+Trước hết N B-NP 
+sai A B-AP 
+viên Nc B-NP 
+cục N B-NP 
+sứ V B-VP 
+và C O 
+viên Z O 
+phó Z O 
+đốc thúc N B-NP 
+dân N B-NP 
+nấu V B-VP 
+muối N B-NP 
+, CH O 
+mỗi L B-NP 
+tháng N B-NP 
+được V B-VP 
+bao nhiêu P B-NP 
+đưa V B-VP 
+tới E B-PP 
+ty N B-NP 
+Đề cử V B-VP 
+thu giữ V B-VP 
+. CH O 
+Các L B-NP 
+viên Nc B-NP 
+nội quan N B-NP 
+mộ N B-NP 
+người N B-NP 
+buôn V B-VP 
+bỏ V B-VP 
+tiền N B-NP 
+ra V B-VP 
+lĩnh V B-VP 
+giấy N B-NP 
+khám V B-VP 
+hợpcủa N B-NP 
+ty V B-VP 
+Bố chính N B-NP 
+. CH O 
+Giấy N B-NP 
+khám V B-VP 
+hợp N B-NP 
+lớn A B-AP 
+[ N B-NP 
+26 M B-NP 
+b N B-NP 
+] CH O 
+thì C O 
+lấy V B-VP 
+10 M B-NP 
+cân N B-NP 
+muối N B-NP 
+, CH O 
+giấy N B-NP 
+khám V B-VP 
+hợp N B-NP 
+nhỏ A B-AP 
+thì C O 
+lấy V B-VP 
+1 M B-NP 
+cân N B-NP 
+rồi C O 
+mới R O 
+được V B-VP 
+đem V B-VP 
+bán V B-VP 
+. CH O 
+Nếu C O 
+không R O 
+có V B-VP 
+giấy N B-NP 
+[ V B-VP 
+giấy N B-NP 
+khám V B-VP 
+hợp N B-NP 
+] N B-NP 
+thì C O 
+[ V B-VP 
+xử tội N B-NP 
+] CH O 
+như C O 
+luật N B-NP 
+nấu V B-VP 
+lậu A B-AP 
+. CH O 
+Lạ A B-AP 
+cấm V B-VP 
+người N B-NP 
+đi V B-VP 
+đường N B-NP 
+, CH O 
+lệ N B-NP 
+chỉ R O 
+được V B-VP 
+đem V B-VP 
+3 M B-NP 
+bát N B-NP 
+muối N B-NP 
+và C O 
+1 M B-NP 
+lọ N B-NP 
+nước mắm N B-NP 
+thôi T O 
+. Tháng N B-NP 
+9 M B-NP 
+, CH O 
+Hoàng Phúc Np B-NP 
+nhà N B-NP 
+Minh sai V B-VP 
+quan N B-NP 
+áp giải V B-VP 
+đích thân P B-NP 
+những L B-NP 
+bọn Nc B-NP 
+nho học N B-NP 
+, CH O 
+thầy thuốc N B-NP 
+, CH O 
+thầy tướng số N B-NP 
+, CH O 
+nhà sư N B-NP 
+, CH O 
+đạo sĩ N B-NP 
+đưa V B-VP 
+về R O 
+Yên Kinh trao V B-VP 
+cho E B-PP 
+quan chức N B-NP 
+rồi C O 
+đưa V B-VP 
+về E B-PP 
+các L B-NP 
+nha môn N B-NP 
+làm việc V B-VP 
+. CH O 
+Lại R O 
+ra lệnh V B-VP 
+cho E B-PP 
+các L B-NP 
+quan ty N B-NP 
+sở tại A B-AP 
+cấp V B-VP 
+cho E B-PP 
+tiền N B-NP 
+đi V B-VP 
+đường N B-NP 
+và C O 
+ngưoời V B-VP 
+bạn N B-NP 
+tống A B-AP 
+, CH O 
+nếu C O 
+không R O 
+sẽ R O 
+bị V B-VP 
+trừng trị V B-VP 
+; CH O 
+dọc N B-NP 
+đường N B-NP 
+phải V B-VP 
+cấp V B-VP 
+cơm N B-NP 
+ăn V B-VP 
+và C O 
+tiền N B-NP 
+đi V B-VP 
+đường N B-NP 
+. CH O 
+Mùa đông N B-NP 
+, CH O 
+tháng N B-NP 
+10 M B-NP 
+, CH O 
+Tổng binh N B-NP 
+nhà N B-NP 
+Minh Np B-NP 
+là V B-VP 
+Trương Phụ Np B-NP 
+giữ V B-VP 
+chức N B-NP 
+Chinh Np B-NP 
+lỗ V B-VP 
+phó tướng quân N B-NP 
+, CH O 
+lại R O 
+sang V B-VP 
+trấn thủ V B-VP 
+. CH O 
+Nhà Minh Np B-NP 
+mở V B-VP 
+đường thủy N B-NP 
+Vĩnh An Np B-NP 
+, CH O 
+Vạn Ninh Np B-NP 
+, CH O 
+đặt V B-VP 
+trạm N B-NP 
+đón V B-VP 
+chuyển V B-VP 
+đường thủy N B-NP 
+đến V B-VP 
+thẳng A B-AP 
+Khân Châu Np B-NP 
+. CH O 
+Lại R O 
+đặt V B-VP 
+trạm N B-NP 
+chạy V B-VP 
+ngựa N B-NP 
+đến V B-VP 
+thẳng A B-AP 
+Hoàn Châu Np B-NP 
+. CH O 
+Bính Thân Np B-NP 
+, CH O 
+[ N B-NP 
+1416 V B-VP 
+] N B-NP 
+, CH O 
+( CH O 
+Minh Np B-NP 
+Vĩnh Lạc Np I-NP 
+năm N B-NP 
+thứ N B-NP 
+14 M B-NP 
+) CH O 
+. CH O 
+Mùa Nc B-NP 
+xuân N B-NP 
+, CH O 
+tháng N B-NP 
+giêng M B-NP 
+, CH O 
+nhà Minh N B-NP 
+bắt đầu V B-VP 
+đưa V B-VP 
+những L B-NP 
+thượng quan N B-NP 
+văn võ A B-AP 
+và C O 
+kỳ N B-NP 
+lão V B-VP 
+sang V B-VP 
+Yên Np B-NP 
+[ V B-VP 
+27 N B-NP 
+a N B-NP 
+] CH O 
+Kinh Np B-NP 
+, CH O 
+đổi V B-VP 
+trát N B-NP 
+văn N B-NP 
+của E B-PP 
+Tổng binh N B-NP 
+mà C O 
+dùng V B-VP 
+giấy vàng N B-NP 
+của E B-PP 
+bộ N B-NP 
+để E B-PP 
+thực thụ V B-VP 
+quan chức N B-NP 
+. CH O 
+Thăng Tham nhgị N B-NP 
+Nguyễn Huân Np B-NP 
+làm V B-VP 
+Tả Np B-NP 
+bố chính V B-VP 
+sứ N B-NP 
+; CH O 
+Tri phủ N B-NP 
+Lương Nhữ Hốt Np B-NP 
+, CH O 
+Đỗ Duy Trung Np B-NP 
+làm V B-VP 
+Tham chính N B-NP 
+. CH O 
+Còn V B-VP 
+lại V B-VP 
+thì C O 
+thăng chức V B-VP 
+Tri phủ N B-NP 
+, CH O 
+Đồng tri phủ N B-NP 
+, CH O 
+Tri châu N B-NP 
+, CH O 
+Đồng tri châu N B-NP 
+, CH O 
+Tri huyện N B-NP 
+. Nhân N B-NP 
+đó P B-NP 
+, CH O 
+ban sắc V B-VP 
+rằng C O 
+: CH O 
+" CH O 
+Trước kia N B-NP 
+bình định N B-NP 
+Giao Chỉ Np B-NP 
+, CH O 
+các L B-NP 
+ngươi N B-NP 
+đã R O 
+tỏ V B-VP 
+lòng thành V B-VP 
+, CH O 
+làm việc V B-VP 
+nghĩa N B-NP 
+, CH O 
+lòng N B-NP 
+hướng V B-VP 
+về E B-PP 
+triều đình N B-NP 
+, CH O 
+trẫm N B-NP 
+khen ngợi V B-VP 
+lòng thành N B-NP 
+của E B-PP 
+các L B-NP 
+ngươi N B-NP 
+mà C O 
+trao V B-VP 
+cho E B-PP 
+quan chức N B-NP 
+. CH O 
+Từ E B-PP 
+khi N B-NP 
+nhận V B-VP 
+mệnh N B-NP 
+đến E B-PP 
+nay P B-NP 
+, CH O 
+đã R O 
+biết V B-VP 
+tận tâm N B-NP 
+hết sức R O 
+, CH O 
+hăng hái V B-VP 
+trung thành N B-NP 
+, CH O 
+quét V B-VP 
+diệt V B-VP 
+phản nghịch N B-NP 
+, CH O 
+vỗ yên V B-VP 
+bờ cõi N B-NP 
+, CH O 
+cố gắng V B-VP 
+làm V B-VP 
+tròn A B-AP 
+chức phận N B-NP 
+, CH O 
+đã R O 
+nhiều A B-AP 
+lần N B-NP 
+thăng thưởng V B-VP 
+để E B-PP 
+biểu dương V B-VP 
+công trạng N B-NP 
+của E B-PP 
+các L B-NP 
+ngươi N B-NP 
+. CH O 
+Nay P B-NP 
+các L B-NP 
+ngươi N B-NP 
+đến E B-PP 
+cửa khuyết N B-NP 
+triều cống N B-NP 
+, CH O 
+trẫm N B-NP 
+xét V B-VP 
+lòng thành N B-NP 
+, CH O 
+đánh V B-VP 
+nên C O 
+khuyến khích V B-VP 
+. CH O 
+Nay P B-NP 
+đặc ân V B-VP 
+thăng V B-VP 
+cho E B-PP 
+các L B-NP 
+ngươi N B-NP 
+làm V B-VP 
+chức N B-NP 
+mỗ N B-NP 
+... CH O 
+Các L B-NP 
+ngươi N B-NP 
+hãy R O 
+cố gắng V B-VP 
+trung thành A B-AP 
+, CH O 
+cần mẫn A B-AP 
+hơn A B-AP 
+nữa R O 
+, CH O 
+kính cẩn N B-NP 
+giữ V B-VP 
+khí tiết N B-NP 
+của E B-PP 
+người N B-NP 
+bề tôi V B-VP 
+, CH O 
+úy V B-VP 
+lạo N B-NP 
+, CH O 
+vỗ về N B-NP 
+, CH O 
+khiến V B-VP 
+cho E B-PP 
+dân chúng N B-NP 
+đều R O 
+được V B-VP 
+yên nghiệp V B-VP 
+sinh sống V B-VP 
+, CH O 
+cùng A B-AP 
+hưởng V B-VP 
+phúc N B-NP 
+thái bình V B-VP 
+[ N B-NP 
+27 M B-NP 
+b N B-NP 
+] CH O 
+thì C O 
+sẽ R O 
+được V B-VP 
+trời N B-NP 
+che chở V B-VP 
+, CH O 
+các L B-NP 
+ngơi N B-NP 
+sẽ R O 
+được V B-VP 
+phúc lộc V B-VP 
+dồi dào A B-AP 
+nối V B-VP 
+đến E B-PP 
+đời N B-NP 
+con N B-NP 
+đời N B-NP 
+cháu Nc B-NP 
+, CH O 
+mà C O 
+tiếng tốt N B-NP 
+của E B-PP 
+các L B-NP 
+ngươi N B-NP 
+sẽ R O 
+lưu truyền V B-VP 
+trong E B-PP 
+sử sách N B-NP 
+, CH O 
+mãi mãi R O 
+không R O 
+cùng A B-AP 
+" CH O 
+. CH O 
+Tháng N B-NP 
+2 M B-NP 
+, CH O 
+Trương Phụ Np B-NP 
+nhà Minh V B-VP 
+ra lệnh N B-NP 
+xét duyệt V B-VP 
+danh số N B-NP 
+thổ V B-VP 
+quân N B-NP 
+, CH O 
+lấy V B-VP 
+một phần ba N B-NP 
+số N B-NP 
+hộ khẩu N B-NP 
+chia V B-VP 
+về E B-PP 
+c1c vệ N B-NP 
+, CH O 
+sở N B-NP 
+. CH O 
+Mỗi M B-NP 
+hộ N B-NP 
+định mức N B-NP 
+là V B-VP 
+3 M B-NP 
+đinh N B-NP 
+. CH O 
+Từ E B-PP 
+Thanh Hóa Np B-NP 
+trở V B-VP 
+vào V B-VP 
+Nam Np B-NP 
+, CH O 
+nhân đinh N B-NP 
+thưa thớt A B-AP 
+, CH O 
+định mức N B-NP 
+là C O 
+2 M B-NP 
+đinh N B-NP 
+. Chỗ N B-NP 
+nào P B-NP 
+không R O 
+phải A B-AP 
+là C O 
+vệ V B-VP 
+, CH O 
+sở N B-NP 
+mà C O 
+là V B-VP 
+nơi N B-NP 
+quan yếu V B-VP 
+, CH O 
+cũng R O 
+lập V B-VP 
+đồn lũy N B-NP 
+, CH O 
+lấy V B-VP 
+dân binh N B-NP 
+canh giữ N B-NP 
+. CH O 
+Mùa thu N B-NP 
+, CH O 
+tháng N B-NP 
+9 M B-NP 
+, CH O 
+quân lính N B-NP 
+huyện N B-NP 
+Tân An Np I-NP 
+nổi V B-VP 
+lên V B-VP 
+, CH O 
+Trương Phụ dẹp V B-VP 
+được R O 
+. CH O 
+Nhà Minh Np B-NP 
+chiêu dụ V B-VP 
+các L B-NP 
+quan N B-NP 
+cũ A B-AP 
+của E B-PP 
+triều N B-NP 
+trước N B-NP 
+, CH O 
+giả cách N B-NP 
+bổ V B-VP 
+đi V B-VP 
+các L B-NP 
+nha môn N B-NP 
+quân N B-NP 
+, CH O 
+dân N B-NP 
+làm việc V B-VP 
+rồi C O 
+chuyển V B-VP 
+đưa V B-VP 
+về E B-PP 
+Yên Kinh Np B-NP 
+giữ V B-VP 
+lại V B-VP 
+. CH O 
+Bọn Nc B-NP 
+người N B-NP 
+bon chen V B-VP 
+, CH O 
+vốn R O 
+không R O 
+phải A B-AP 
+là C O 
+quan lại N B-NP 
+cũ A B-AP 
+, CH O 
+chưa R O 
+được V B-VP 
+thực thụ V B-VP 
+quan chức N B-NP 
+, CH O 
+cũng R O 
+hănh V B-VP 
+hái V B-VP 
+ra V B-VP 
+nhận V B-VP 
+, CH O 
+trong E B-PP 
+nước N B-NP 
+vì thế C O 
+trở nên V B-VP 
+trống rỗng A B-AP 
+. CH O 
+Ở E B-PP 
+được R O 
+vài L B-NP 
+năm N B-NP 
+, CH O 
+thấy V B-VP 
+vất vả A B-AP 
+khổ sở A B-AP 
+, CH O 
+thỉnh N B-NP 
+thoảnh V B-VP 
+họ P B-NP 
+lại R O 
+trốn V B-VP 
+về V B-VP 
+. CH O 
+Nhà Minh Np B-NP 
+bắt đầu V B-VP 
+đưa V B-VP 
+các L B-NP 
+thổ N B-NP 
+lại V B-VP 
+đi V B-VP 
+, CH O 
+[ N B-NP 
+28 M B-NP 
+a N B-NP 
+] CH O 
+người N B-NP 
+nào P B-NP 
+đủ A B-AP 
+9 M B-NP 
+năm N B-NP 
+thì C O 
+giữ V B-VP 
+lại V B-VP 
+nha môn N B-NP 
+ở E B-PP 
+Kinh Np B-NP 
+để E B-PP 
+làm việc V B-VP 
+, CH O 
+người N B-NP 
+nào P B-NP 
+chưa R O 
+đủ A B-AP 
+năm N B-NP 
+thì C O 
+cho V B-VP 
+về V B-VP 
+. CH O 
+Đinh Dậu Np B-NP 
+, CH O 
+[ N B-NP 
+1417 V B-VP 
+] N B-NP 
+, CH O 
+( CH O 
+Minh Np B-NP 
+Vĩnh Lạc Np I-NP 
+năm N B-NP 
+thứ N B-NP 
+15 M B-NP 
+) CH O 
+. CH O 
+Nội quan V B-VP 
+nhà Minh N B-NP 
+là V B-VP 
+Mã Kỳ Np B-NP 
+tâu V B-VP 
+rằng C O 
+Tổng binh N B-NP 
+Trương Phụ Np B-NP 
+ở E B-PP 
+Giao Chỉ Np B-NP 
+chọn V B-VP 
+lấy V B-VP 
+những L B-NP 
+thổ N B-NP 
+nhân V B-VP 
+mạnh khỏe N B-NP 
+can đảm A B-AP 
+làm V B-VP 
+vi N B-NP 
+tử thủ N B-NP 
+, CH O 
+vua N B-NP 
+Minh nghingờ V B-VP 
+, CH O 
+gọi V B-VP 
+Phụ Np B-NP 
+về V B-VP 
+, CH O 
+sai A B-AP 
+Phong Thành Np B-NP 
+hầu Lý Bân V B-VP 
+với E B-PP 
+chức N B-NP 
+Tổng binh N B-NP 
+Chinh Di tướng quân V B-VP 
+sang V B-VP 
+thay V B-VP 
+Phụ Np B-NP 
+trấn giữ V B-VP 
+. CH O 
+Nhà Minh Np B-NP 
+sai A B-AP 
+Giám sát N B-NP 
+ngự sử N B-NP 
+chia V B-VP 
+giữ V B-VP 
+việc N B-NP 
+tuần N B-NP 
+xét V B-VP 
+bắt đầu V B-VP 
+từ E B-PP 
+đấy P B-NP 
+. CH O 
+Binh bộ N B-NP 
+thượng thư V B-VP 
+nhà Minh N B-NP 
+là V B-VP 
+Trần Hiệp Np B-NP 
+, CH O 
+lại R O 
+giúp việc V B-VP 
+quân chính V B-VP 
+cho E B-PP 
+Tổng binh N B-NP 
+. CH O 
+Nhà N B-NP 
+Minh định lệ N B-NP 
+mỗi L B-NP 
+năm N B-NP 
+cống M B-NP 
+các L B-NP 
+nho học N B-NP 
+, CH O 
+sinh viên N B-NP 
+saung V B-VP 
+vào E B-PP 
+Quốc tử giám N B-NP 
+; CH O 
+Nhà N B-NP 
+phủ V B-VP 
+học V B-VP 
+mỗi L B-NP 
+năm N B-NP 
+2 M B-NP 
+tên N B-NP 
+, CH O 
+nhà N B-NP 
+châu N B-NP 
+học V B-VP 
+2 M B-NP 
+năm N B-NP 
+5 M B-NP 
+tên N B-NP 
+, CH O 
+nhà huyên N B-NP 
+học V B-VP 
+mỗi L B-NP 
+năm N B-NP 
+1 M B-NP 
+tên N B-NP 
+. CH O 
+Sau N B-NP 
+lại R O 
+quy định V B-VP 
+nhà N B-NP 
+phủ V B-VP 
+học V B-VP 
+mỗi L B-NP 
+năm N B-NP 
+1 M B-NP 
+tên N B-NP 
+, CH O 
+nhà N B-NP 
+châu học N B-NP 
+3 M B-NP 
+năm N B-NP 
+2 M B-NP 
+tên N B-NP 
+, CH O 
+nhà N B-NP 
+huyện N B-NP 
+học V B-VP 
+2 M B-NP 
+năm N B-NP 
+1 M B-NP 
+tên N B-NP 
+. CH O 
+Bộ Lại Np B-NP 
+khám V B-VP 
+hợp N B-NP 
+, CH O 
+lệnh N B-NP 
+cho E B-PP 
+2 M B-NP 
+ty N B-NP 
+Bố chính N B-NP 
+và C O 
+Án sát V B-VP 
+cùng A B-AP 
+[ N B-NP 
+28 M B-NP 
+b N B-NP 
+] CH O 
+các L B-NP 
+quchâu N B-NP 
+, CH O 
+huyện N B-NP 
+, CH O 
+ở E B-PP 
+Giao Chỉ Np B-NP 
+, CH O 
+hẹn V B-VP 
+đến E B-PP 
+ngày N B-NP 
+mồng N B-NP 
+1 M B-NP 
+tháng N B-NP 
+giêng M B-NP 
+sang V B-VP 
+năm N B-NP 
+đến V B-VP 
+kinh V B-VP 
+triều N B-NP 
+cận A B-AP 
+, CH O 
+không R O 
+kể V B-VP 
+là C O 
+chức N B-NP 
+chánh N B-NP 
+hay C O 
+chức N B-NP 
+tá A B-AP 
+, CH O 
+chỉ R O 
+cần V B-VP 
+người N B-NP 
+giữ V B-VP 
+chức N B-NP 
+lâu A B-AP 
+năm N B-NP 
+, CH O 
+cho E B-PP 
+dẫn đầu N B-NP 
+, CH O 
+đưa V B-VP 
+các L B-NP 
+quan lại N B-NP 
+cùng A B-AP 
+đi V B-VP 
+. CH O 
+Lại R O 
+khám V B-VP 
+các L B-NP 
+hạng mục N B-NP 
+hộ khẩu N B-NP 
+, CH O 
+ruộng đất V B-VP 
+lương thực N B-NP 
+trong E B-PP 
+3 M B-NP 
+năm N B-NP 
+, CH O 
+từ E B-PP 
+tháng N B-NP 
+7 M B-NP 
+năm N B-NP 
+Giáp Ngọ Np B-NP 
+, CH O 
+đến E B-PP 
+cuối N B-NP 
+tháng N B-NP 
+6 M B-NP 
+năm N B-NP 
+này P B-NP 
+, CH O 
+làm V B-VP 
+thành V B-VP 
+sổ N B-NP 
+" CH O 
+tu tri N B-NP 
+" CH O 
+dâng V B-VP 
+lên V B-VP 
+để E B-PP 
+kê V B-VP 
+xét V B-VP 
+. CH O 
+Hoàng Phúc V B-VP 
+sức N B-NP 
+cho E B-PP 
+các L B-NP 
+hào phú N B-NP 
+, CH O 
+thổ quan N B-NP 
+là V B-VP 
+bọn Nc B-NP 
+Nguyễn Huân Np B-NP 
+, CH O 
+Lương Nhữ Hốt Np B-NP 
+, CH O 
+Đỗ Duy Trung Np B-NP 
+, CH O 
+Đỗ Np B-NP 
+Hy Vọng Np I-NP 
+, CH O 
+Lương Sĩ Vĩnh Np B-NP 
+, CH O 
+Dương Cự Giác Np B-NP 
+đều R O 
+phải V B-VP 
+đem V B-VP 
+người nhà N B-NP 
+sang V B-VP 
+Yên Kinh Np B-NP 
+phục dịch V B-VP 
+, CH O 
+xây dựng V B-VP 
+cung điện N B-NP 
+. CH O 
+Vua Minh Np B-NP 
+nói V B-VP 
+là C O 
+làm V B-VP 
+khó A B-AP 
+nhọc V B-VP 
+người N B-NP 
+phương N B-NP 
+xa A B-AP 
+, CH O 
+ban N B-NP 
+cho E B-PP 
+ưu N B-NP 
+hậu A B-AP 
+rồi C O 
+cho V B-VP 
+về V B-VP 
+. CH O 
+Giấy N B-NP 
+khám V B-VP 
+hợo N B-NP 
+: CH O 
+giấy N B-NP 
+chứnh V B-VP 
+nhận V B-VP 
+có V B-VP 
+đónh N B-NP 
+dấu N B-NP 
+, CH O 
+được V B-VP 
+cắt V B-VP 
+làm V B-VP 
+hai M B-NP 
+nửa N B-NP 
+, CH O 
+người N B-NP 
+được V B-VP 
+phéo V B-VP 
+cầm V B-VP 
+một nửa N B-NP 
+, CH O 
+quan N B-NP 
+nhà N B-NP 
+giữ V B-VP 
+một nửa N B-NP 
+, CH O 
+để E B-PP 
+khi N B-NP 
+khám xét V B-VP 
+, CH O 
+có thể R O 
+ráp V B-VP 
+lại V B-VP 
+xem V B-VP 
+đúng A B-AP 
+con dấu N B-NP 
+hay C O 
+không R O 
+. CH O 
+Hoành Châu Np B-NP 
+: CH O 
+thuộc V B-VP 
+phủ N B-NP 
+Nam Ninh Np B-NP 
+, CH O 
+sau N B-NP 
+là C O 
+Hoành Np B-NP 
+Huyện Np I-NP 
+, CH O 
+tỉnh N B-NP 
+Quảng Tây Np B-NP 
+, CH O 
+Trung Quốc Np B-NP 
+. Vi V B-VP 
+tử thủ N B-NP 
+: CH O 
+là V B-VP 
+những L B-NP 
+người Nc B-NP 
+sung V B-VP 
+vào V B-VP 
+làm V B-VP 
+công việc N B-NP 
+ở E B-PP 
+nơi N B-NP 
+quan N B-NP 
+phủ V B-VP 
+. CH O 
+Ở E B-PP 
+đây P B-NP 
+, CH O 
+có lẽ X O 
+Phụ Np B-NP 
+chọn V B-VP 
+những L B-NP 
+người Nc B-NP 
+khỏe mạnh V B-VP 
+, CH O 
+can đảm A B-AP 
+đem V B-VP 
+vào E B-PP 
+dinh thự N B-NP 
+của E B-PP 
+mình P B-NP 
+để E B-PP 
+sai khiến V B-VP 
+và C O 
+đề phòng V B-VP 
+bất trắc A B-AP 
+. Tu tri V B-VP 
+: CH O 
+có V B-VP 
+nghĩa N B-NP 
+" CH O 
+cần V B-VP 
+biết V B-VP 
+. Sổ N B-NP 
+" CH O 
+tu tri N B-NP 
+" CH O 
+có V B-VP 
+nghĩa N B-NP 
+là C O 
+sổ N B-NP 
+ghi V B-VP 
+số N B-NP 
+hộ khẩu N B-NP 
+, CH O 
+ruộng đất N B-NP 
+, CH O 
+lương thực N B-NP 
+cần V B-VP 
+phải V B-VP 
+biết V B-VP 
+để E B-PP 
+nắm V B-VP 
+tình hình N B-NP 
+. CH O 

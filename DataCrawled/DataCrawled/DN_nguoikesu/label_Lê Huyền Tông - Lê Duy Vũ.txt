@@ -1,0 +1,53 @@
+Lê Huyền Tông Np B-NP 
+( CH O 
+1663 M B-NP 
+- CH O 
+1671 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Duy Vũ Np B-NP 
+, CH O 
+con thứ N B-NP 
+của E B-PP 
+Lê Thần Tông Np B-NP 
+, CH O 
+em N B-NP 
+của E B-PP 
+Lê Chân Tông Np B-NP 
+, CH O 
+được V B-VP 
+lập V B-VP 
+làm V B-VP 
+vua N B-NP 
+mới R O 
+9 M B-NP 
+tuổi N B-NP 
+, CH O 
+ở E B-PP 
+ngôi vua N B-NP 
+được R O 
+8 M B-NP 
+năm N B-NP 
+, CH O 
+ngày N B-NP 
+15 M B-NP 
+tháng N B-NP 
+10 M B-NP 
+năm N B-NP 
+Tân Hợi Np B-NP 
+- CH O 
+1671 N B-NP 
+, CH O 
+Lê Huyền Tông Np B-NP 
+mất V B-VP 
+mới R O 
+18 M B-NP 
+tuổi N B-NP 
+, CH O 
+chưa R O 
+có V B-VP 
+con N B-NP 
+nối V B-VP 
+. CH O 

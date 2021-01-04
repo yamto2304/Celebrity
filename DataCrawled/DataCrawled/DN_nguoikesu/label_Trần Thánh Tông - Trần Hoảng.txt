@@ -1,0 +1,127 @@
+Trần Thánh Tông Np B-NP 
+( CH O 
+1258 M B-NP 
+- CH O 
+1278 N B-NP 
+) CH O 
+Là V B-VP 
+con trưởng V B-VP 
+dòng N B-NP 
+đích N B-NP 
+của E B-PP 
+Thái Tông Np B-NP 
+, CH O 
+mẹ N B-NP 
+là V B-VP 
+Hiển Np B-NP 
+Từ E B-PP 
+Thuận Thiên Hoàng Thái hậu N B-NP 
+Lý Thị Np B-NP 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+25 M B-NP 
+tháng N B-NP 
+9 M B-NP 
+năm Canh Tý N B-NP 
+- CH O 
+1240 N B-NP 
+. CH O 
+Ngày N B-NP 
+24 M B-NP 
+tháng N B-NP 
+2 M B-NP 
+năm N B-NP 
+Mậu Ngọ Np B-NP 
+- CH O 
+1258 N B-NP 
+lên ngôi V B-VP 
+hoàng đế N B-NP 
+đổi V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Thiệu Long Np B-NP 
+năm N B-NP 
+thứ N B-NP 
+1 M B-NP 
+. CH O 
+Thánh Tông Np B-NP 
+là V B-VP 
+một M B-NP 
+vị Nc B-NP 
+vua N B-NP 
+nhân V B-VP 
+từ E B-PP 
+độ lượng N B-NP 
+, CH O 
+hết lòng N B-NP 
+chăm lo V B-VP 
+việc N B-NP 
+nước N B-NP 
+. CH O 
+Về E B-PP 
+đối nội N B-NP 
+, CH O 
+nhà vua N B-NP 
+khuyến khích V B-VP 
+khai khẩn N B-NP 
+đất hoang N B-NP 
+, CH O 
+mở mang N B-NP 
+điền trang V B-VP 
+thái ấp N B-NP 
+bằng E B-PP 
+cách N B-NP 
+chiêu tập V B-VP 
+những L B-NP 
+người Nc B-NP 
+nghèo đói V B-VP 
+lưu lạc V B-VP 
+, CH O 
+giúp V B-VP 
+họ P B-NP 
+an cư V B-VP 
+lạc nghiệp N B-NP 
+. CH O 
+Nhà vua N B-NP 
+khuyến khích V B-VP 
+việc N B-NP 
+học hành V B-VP 
+bằng E B-PP 
+cách N B-NP 
+mở V B-VP 
+các L B-NP 
+khoa thi N B-NP 
+để E B-PP 
+lựa chọn V B-VP 
+người N B-NP 
+tài A B-AP 
+mà C O 
+trọng dụng V B-VP 
+, CH O 
+thời N B-NP 
+Trần Np B-NP 
+đã R O 
+xuất hiện V B-VP 
+" CH O 
+Lưỡng quốc Trạng nguyên N B-NP 
+" CH O 
+Mạc Np B-NP 
+Đĩnh Chi Np I-NP 
+, CH O 
+nhà sử học N B-NP 
+Lê Văn Hưu Np B-NP 
+đã R O 
+viết V B-VP 
+bộ N B-NP 
+quốc sử N B-NP 
+đầu tiên A B-AP 
+của E B-PP 
+nước N B-NP 
+ta P B-NP 
+là V B-VP 
+" CH O 
+Đại Việt Np B-NP 
+sử ký V B-VP 
+" CH O 
+. CH O 

@@ -1,0 +1,141 @@
+Gia Long Np B-NP 
+( CH O 
+1802 M B-NP 
+- CH O 
+1820 N B-NP 
+) CH O 
+Nguyễn Phúc Ánh Np B-NP 
+, CH O 
+sinh V B-VP 
+nǎm N B-NP 
+Nhâm Ngọ Np B-NP 
+( CH O 
+1762 M B-NP 
+) CH O 
+, CH O 
+con N B-NP 
+thứ N B-NP 
+ba M B-NP 
+của E B-PP 
+Nguyễn Phúc Luân Np B-NP 
+. CH O 
+Mẹ N B-NP 
+Nguyễn Phúc Ánh Np B-NP 
+là V B-VP 
+Nguyễn Thị Hoàn Np B-NP 
+con gái N B-NP 
+Diễm Quốc công N B-NP 
+Nguyễn Phúc Trung Np B-NP 
+, CH O 
+người N B-NP 
+làng N B-NP 
+Minh Linh Np B-NP 
+, CH O 
+phủ Thừa Thiên N B-NP 
+. Nǎm V B-VP 
+1773 N B-NP 
+, CH O 
+Tây Sơn Np B-NP 
+khởi nghĩa V B-VP 
+, CH O 
+Nguyễn Phúc Ánh Np B-NP 
+12 M B-NP 
+tuổi N B-NP 
+, CH O 
+theo V B-VP 
+chúa N B-NP 
+Nguyễn Phúc Thuần Np B-NP 
+vào E B-PP 
+Quảng Nam Np B-NP 
+. CH O 
+Mùa Thu Np B-NP 
+nǎm N B-NP 
+Đinh Dậu Np B-NP 
+( CH O 
+1777 M B-NP 
+) CH O 
+Nguyễn Phúc Thuần Np B-NP 
+tử trận V B-VP 
+. CH O 
+Nguyễn Phúc Ánh Np B-NP 
+một mình X O 
+chạy V B-VP 
+thoát V B-VP 
+ra V B-VP 
+đảo N B-NP 
+Thổ Chu Np I-NP 
+, CH O 
+rồi C O 
+sau N B-NP 
+chạy V B-VP 
+sang V B-VP 
+ẩn náu V B-VP 
+nhờ V B-VP 
+bên N B-NP 
+đất N B-NP 
+Xiêm Np B-NP 
+. CH O 
+Tháng N B-NP 
+7/1792 M B-NP 
+, CH O 
+vua N B-NP 
+Quang Trung Np B-NP 
+bị V B-VP 
+bạo bệnh V B-VP 
+mất V B-VP 
+, CH O 
+con N B-NP 
+là C O 
+Quang Toản Np B-NP 
+còn R O 
+ít tuổi V B-VP 
+, CH O 
+nội bộ N B-NP 
+lục đục A B-AP 
+, CH O 
+không R O 
+sao P B-NP 
+chống V B-VP 
+nổi R O 
+với E B-PP 
+sức N B-NP 
+tấn công V B-VP 
+của E B-PP 
+Nguyễn Ánh Np B-NP 
+( CH O 
+có V B-VP 
+Pháp Np B-NP 
+ngoại viện M B-NP 
+) CH O 
+. Nǎm V B-VP 
+1802 N B-NP 
+, CH O 
+Nguyễn Ánh Np B-NP 
+diệt V B-VP 
+xong R O 
+nhà Tây Sơn V B-VP 
+lên V B-VP 
+ngôi Nc B-NP 
+hoàng đế N B-NP 
+, CH O 
+niên hiệu N B-NP 
+là V B-VP 
+Gia Long Np B-NP 
+đóng đô V B-VP 
+tại E B-PP 
+thành N B-NP 
+Phú Xuân Np I-NP 
+( CH O 
+Huế Np B-NP 
+) CH O 
+vào E B-PP 
+ngày N B-NP 
+1 M B-NP 
+tháng N B-NP 
+6 M B-NP 
+nǎm N B-NP 
+Nhâm Tuất Np B-NP 
+( CH O 
+1802 M B-NP 
+) CH O 
+. CH O 

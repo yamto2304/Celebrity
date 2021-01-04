@@ -1,0 +1,184 @@
+Hồ Quý Ly Np B-NP 
+( CH O 
+1400 M B-NP 
+- CH O 
+1401 M B-NP 
+) CH O 
+tự P B-NP 
+là V B-VP 
+Thánh Nguyên Np B-NP 
+, CH O 
+cháu Nc B-NP 
+16 M B-NP 
+đời N B-NP 
+của E B-PP 
+Trạng nguyên N B-NP 
+Hồ Hưng Dật Np B-NP 
+, CH O 
+vốn R O 
+gốc N B-NP 
+thuộc V B-VP 
+tộc N B-NP 
+Việt Np B-NP 
+ở E B-PP 
+Chiết Giang Np B-NP 
+, CH O 
+phương N B-NP 
+nam N B-NP 
+Trung Quốc Np B-NP 
+, CH O 
+đời N B-NP 
+Hậu Hán Np B-NP 
+( CH O 
+thời N B-NP 
+Ngũ Qúy Np B-NP 
+) CH O 
+sang V B-VP 
+làm V B-VP 
+Thái thú N B-NP 
+Diễn Châu Np B-NP 
+, CH O 
+sau N B-NP 
+định cư V B-VP 
+ở E B-PP 
+hương N B-NP 
+Bào Đột Np B-NP 
+( CH O 
+Nghĩa Đàn Np B-NP 
+, CH O 
+Nghệ An Np B-NP 
+) CH O 
+. CH O 
+Nhà Hồ Np B-NP 
+cho V B-VP 
+đo đạc V B-VP 
+lại V B-VP 
+ruộng đất N B-NP 
+, CH O 
+cải cách V B-VP 
+chế độ N B-NP 
+thi cử V B-VP 
+, CH O 
+mở mang V B-VP 
+việc N B-NP 
+giáo dục V B-VP 
+, CH O 
+tăng cường V B-VP 
+quân đội N B-NP 
+thường trực V B-VP 
+, CH O 
+xây dựng V B-VP 
+các L B-NP 
+tuyến N B-NP 
+phòng thủ V B-VP 
+, CH O 
+lập V B-VP 
+xưởng N B-NP 
+đúc V B-VP 
+binh khí N B-NP 
+kỹ thuật N B-NP 
+để E B-PP 
+chống V B-VP 
+giặc N B-NP 
+phương Np B-NP 
+Bắc Np B-NP 
+. CH O 
+Các L B-NP 
+cải cách N B-NP 
+của E B-PP 
+Hồ Quý Ly Np B-NP 
+có V B-VP 
+tính chất N B-NP 
+toàn diện A B-AP 
+, CH O 
+có V B-VP 
+những L B-NP 
+cải cách V B-VP 
+đi V B-VP 
+trước E B-PP 
+thời đại N B-NP 
+, CH O 
+giá trị N B-NP 
+thực tiễn N B-NP 
+của E B-PP 
+nó P B-NP 
+đến E B-PP 
+nay P B-NP 
+vẫn R O 
+còn R O 
+hấp dẫn V B-VP 
+, CH O 
+nhiều A B-AP 
+nhà N B-NP 
+kinh tế N B-NP 
+nước ngoài N B-NP 
+đã R O 
+ca ngợi V B-VP 
+Hồ Quý Ly Np B-NP 
+là V B-VP 
+một M B-NP 
+nhà N B-NP 
+cải cách V B-VP 
+kinh tế N B-NP 
+lớn A B-AP 
+. CH O 
+Nhưng C O 
+Hồ Quý Ly Np B-NP 
+mắc V B-VP 
+tội N B-NP 
+giết V B-VP 
+vua N B-NP 
+Thiếu Đế Np B-NP 
+cùng C O 
+tôn tộc N B-NP 
+và C O 
+quan N B-NP 
+lại V B-VP 
+nhà N B-NP 
+Trần Np B-NP 
+, CH O 
+kể cả X O 
+tướng N B-NP 
+Trần Khát Chân Np B-NP 
+, CH O 
+gồm V B-VP 
+hơn A B-AP 
+370 M B-NP 
+người N B-NP 
+để E B-PP 
+cướp V B-VP 
+ngôi Nc B-NP 
+nhà N B-NP 
+Trần . Do vậy N B-NP 
+bị V B-VP 
+nhân dân N B-NP 
+oán hận V B-VP 
+. CH O 
+Khi N B-NP 
+quân N B-NP 
+Minh Np B-NP 
+sang V B-VP 
+xâm lược V B-VP 
+nước N B-NP 
+ta P B-NP 
+, CH O 
+Hồ Qúy Ly Np B-NP 
+đã R O 
+không R O 
+tập hợp V B-VP 
+được V B-VP 
+lực lượng N B-NP 
+toàn R O 
+dân N B-NP 
+đánh V B-VP 
+giặc N B-NP 
+, CH O 
+bố N B-NP 
+con Nc B-NP 
+Hồ Qúy Ly Np B-NP 
+bị V B-VP 
+quân Minh bắt V B-VP 
+đem V B-VP 
+về E B-PP 
+Trung Quốc Np B-NP 
+. CH O 

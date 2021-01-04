@@ -1,0 +1,51 @@
+Dục Np B-NP 
+Đức Np I-NP 
+( CH O 
+1883 N B-NP 
+, CH O 
+làm V B-VP 
+vua N B-NP 
+3 M B-NP 
+ngày N B-NP 
+) CH O 
+Tự Đức Np B-NP 
+có V B-VP 
+hàng N B-NP 
+trǎm V B-VP 
+vợ N B-NP 
+nhưng C O 
+không R O 
+có V B-VP 
+con N B-NP 
+, CH O 
+phải V B-VP 
+nuôi V B-VP 
+ba M B-NP 
+người N B-NP 
+con N B-NP 
+các L B-NP 
+anh Nc B-NP 
+mình P B-NP 
+làm V B-VP 
+con nuôi N B-NP 
+: CH O 
+Ưng Chân Np B-NP 
+, CH O 
+Ưng Xuỵ Np B-NP 
+, CH O 
+Ưng Đǎng Np B-NP 
+. CH O 
+Tự Đức Np B-NP 
+chết V B-VP 
+, CH O 
+triều thần N B-NP 
+đưa V B-VP 
+Ưng Np B-NP 
+Chân Np I-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+là V B-VP 
+Dục Np B-NP 
+Đức Np I-NP 
+. CH O 

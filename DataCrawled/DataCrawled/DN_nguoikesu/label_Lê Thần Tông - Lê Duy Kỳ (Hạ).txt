@@ -1,0 +1,36 @@
+Ngày N B-NP 
+22 M B-NP 
+tháng N B-NP 
+9 M B-NP 
+năm N B-NP 
+1662 M B-NP 
+, CH O 
+Lê Thần Tông Np B-NP 
+mất V B-VP 
+thọ N B-NP 
+56 M B-NP 
+tuổi N B-NP 
+, CH O 
+ở E B-PP 
+ngôi N B-NP 
+24 M B-NP 
+năm N B-NP 
+, CH O 
+làm V B-VP 
+Thái thượng hoàng N B-NP 
+6 M B-NP 
+năm N B-NP 
+, CH O 
+lại R O 
+lên ngôi V B-VP 
+13 M B-NP 
+năm N B-NP 
+, CH O 
+tổng cộng V B-VP 
+làm V B-VP 
+vua N B-NP 
+2 M B-NP 
+lần N B-NP 
+37 M B-NP 
+năm N B-NP 
+. CH O 

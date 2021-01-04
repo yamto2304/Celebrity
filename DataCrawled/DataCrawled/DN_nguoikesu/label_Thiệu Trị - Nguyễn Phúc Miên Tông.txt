@@ -1,0 +1,77 @@
+Thiệu Trị Np B-NP 
+( CH O 
+1841 M B-NP 
+- CH O 
+1847 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là C O 
+Phúc Np B-NP 
+Tuyền Np I-NP 
+sau N B-NP 
+đổi V B-VP 
+là V B-VP 
+Miên Tông Np B-NP 
+, CH O 
+là V B-VP 
+con trưởng N B-NP 
+của E B-PP 
+Minh Mạng Np B-NP 
+và C O 
+mẹ N B-NP 
+là V B-VP 
+Thuận Np B-NP 
+Đức Np B-NP 
+Thần Np B-NP 
+Phi Hổ Thị Hoa Np B-NP 
+, CH O 
+sinh V B-VP 
+11 M B-NP 
+tháng N B-NP 
+5 M B-NP 
+Đinh Mão Np B-NP 
+( CH O 
+1807 M B-NP 
+) CH O 
+. CH O 
+Tháng Giêng Np B-NP 
+nǎm N B-NP 
+Tân Sửu Np B-NP 
+( CH O 
+1841 M B-NP 
+) CH O 
+Miên Np B-NP 
+Tông Np B-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+đặt V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Thiệu Trị Np B-NP 
+, CH O 
+lúc N B-NP 
+đó P B-NP 
+đã R O 
+34 M B-NP 
+tuổi N B-NP 
+. CH O 
+Thiệu Trị Np B-NP 
+lên V B-VP 
+ngôi N B-NP 
+cứ R O 
+theo V B-VP 
+quy chế N B-NP 
+được V B-VP 
+sắp đặt V B-VP 
+từ E B-PP 
+thời N B-NP 
+Minh Mạng Np B-NP 
+mà C O 
+làm V B-VP 
+theo V B-VP 
+di huấn N B-NP 
+của E B-PP 
+cha N B-NP 
+. CH O 

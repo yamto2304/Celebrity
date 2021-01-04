@@ -1,0 +1,309 @@
+Theo V B-VP 
+truyền thuyết N B-NP 
+thì C O 
+thủy tổ V B-VP 
+dân tộc N B-NP 
+Việt Nam Np B-NP 
+là V B-VP 
+Kinh Dương Vương Np B-NP 
+, CH O 
+hiện N B-NP 
+còn R O 
+có V B-VP 
+mộ N B-NP 
+tại E B-PP 
+làng N B-NP 
+An Lữ Np I-NP 
+, CH O 
+Thuận Thành Np B-NP 
+, CH O 
+Bắc Ninh Np B-NP 
+. CH O 
+Kinh Dương Vương Np B-NP 
+làm V B-VP 
+Vua N B-NP 
+vào E B-PP 
+khoảng N B-NP 
+năm M B-NP 
+Nhâm Tuất Np B-NP 
+( CH O 
+hơn A B-AP 
+2000 M B-NP 
+năm N B-NP 
+trước N B-NP 
+Công nguyên M B-NP 
+) CH O 
+. CH O 
+Kinh Dương Vương Np B-NP 
+lấy V B-VP 
+con gái N B-NP 
+Thần Long Np B-NP 
+là V B-VP 
+Vua N B-NP 
+hồ N B-NP 
+Động Đình sinh V B-VP 
+một M B-NP 
+con trai N B-NP 
+đặt V B-VP 
+tên N B-NP 
+là C O 
+Sùng Lãm Np B-NP 
+, CH O 
+sau N B-NP 
+nối V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+cha N B-NP 
+niên hiệu N B-NP 
+là V B-VP 
+Lạc Long Quân Np B-NP 
+. Lạc Long Quân V B-VP 
+lấy V B-VP 
+con gái N B-NP 
+Đế Lai Np B-NP 
+là V B-VP 
+Âu Cơ Np B-NP 
+sinh V B-VP 
+ra V B-VP 
+một M B-NP 
+bọc N B-NP 
+một trăm V B-VP 
+trứng N B-NP 
+, CH O 
+một M B-NP 
+trăm M B-NP 
+trứng N B-NP 
+nở V B-VP 
+ra V B-VP 
+một trăm V B-VP 
+người N B-NP 
+con trai N B-NP 
+là V B-VP 
+tổ tiên N B-NP 
+của E B-PP 
+người N B-NP 
+Bách Np B-NP 
+Việt Np B-NP 
+. CH O 
+Một M B-NP 
+hôm N B-NP 
+nhà Vua V B-VP 
+bảo V B-VP 
+bà Nc B-NP 
+Âu Cơ Np B-NP 
+: CH O 
+" CH O 
+Ta P B-NP 
+là V B-VP 
+giống N B-NP 
+Rồng Np B-NP 
+, CH O 
+nàng N B-NP 
+là V B-VP 
+giống N B-NP 
+Tiên Np B-NP 
+, CH O 
+thủy hỏa N B-NP 
+khắc V B-VP 
+nhau N B-NP 
+, CH O 
+chung V B-VP 
+hợp N B-NP 
+thật T O 
+khó A B-AP 
+" CH O 
+. Bèn V B-VP 
+từ biệt N B-NP 
+, CH O 
+chia V B-VP 
+năm N B-NP 
+chục M B-NP 
+người N B-NP 
+con N B-NP 
+theo V B-VP 
+mẹ N B-NP 
+lên V B-VP 
+núi N B-NP 
+, CH O 
+năm N B-NP 
+chục M B-NP 
+người N B-NP 
+con N B-NP 
+theo V B-VP 
+cha N B-NP 
+về E B-PP 
+phía N B-NP 
+Nam Np B-NP 
+miền N B-NP 
+biển N B-NP 
+, CH O 
+phong V B-VP 
+cho E B-PP 
+con trưởng N B-NP 
+làm V B-VP 
+Hùng Vương Np B-NP 
+nối ngôi V B-VP 
+. CH O 
+Hùng Np B-NP 
+Vương Np I-NP 
+lên V B-VP 
+ngôi Vua N B-NP 
+, CH O 
+đặt V B-VP 
+quốc hiệu N B-NP 
+là V B-VP 
+Văn Lang Np B-NP 
+, CH O 
+đóng đô N B-NP 
+ở E B-PP 
+Phong Châu Np B-NP 
+( CH O 
+Bạch Hạc Np B-NP 
+, CH O 
+Phú Thọ Np B-NP 
+) CH O 
+, CH O 
+chia V B-VP 
+nước N B-NP 
+ra V B-VP 
+làm V B-VP 
+15 M B-NP 
+bộ N B-NP 
+. CH O 
+Các L B-NP 
+đời Vua N B-NP 
+sau N B-NP 
+đều R O 
+gọi V B-VP 
+là C O 
+Hùng Vương Np B-NP 
+, CH O 
+có V B-VP 
+18 M B-NP 
+đời vua N B-NP 
+Hùng Np B-NP 
+Vương Np B-NP 
+. Đặt V B-VP 
+các L B-NP 
+tướng N B-NP 
+văn N B-NP 
+gọi V B-VP 
+là C O 
+Lạc Hầu Np B-NP 
+, CH O 
+tướng N B-NP 
+võ N B-NP 
+gọi là X O 
+Lạc Tướng Np B-NP 
+, CH O 
+con trai N B-NP 
+vua N B-NP 
+gọi V B-VP 
+là C O 
+Quan Lang Np B-NP 
+, CH O 
+con gái N B-NP 
+Vua Np B-NP 
+gọi V B-VP 
+là C O 
+Mỵ Nương Np B-NP 
+, CH O 
+các L B-NP 
+quan N B-NP 
+nhỏ A B-AP 
+gọi V B-VP 
+là C O 
+Bồ Np B-NP 
+Chính T O 
+. CH O 
+Nhà nước N B-NP 
+Văn Lang Np B-NP 
+của E B-PP 
+các L B-NP 
+Vua N B-NP 
+Hùng Np B-NP 
+là V B-VP 
+nhà nước N B-NP 
+phôi thai V B-VP 
+đầu tiên A B-AP 
+của E B-PP 
+Việt Nam Np B-NP 
+, CH O 
+còn C O 
+rất R O 
+đơn giản A B-AP 
+, CH O 
+mặc dù C O 
+mới R O 
+hình thành V B-VP 
+nhưng C O 
+đã R O 
+cố kết V B-VP 
+được R O 
+lòng N B-NP 
+người N B-NP 
+. CH O 
+Từ E B-PP 
+tình cảm N B-NP 
+cộng đồng N B-NP 
+dẫn V B-VP 
+đến E B-PP 
+ý thức V B-VP 
+cộng đồng N B-NP 
+, CH O 
+thể hiện V B-VP 
+rõ A B-AP 
+tình N B-NP 
+đồng bào N B-NP 
+ruột thịt A B-AP 
+. CH O 
+Họ P B-NP 
+bước đầu N B-NP 
+hiểu V B-VP 
+được V B-VP 
+mối N B-NP 
+quan hệ N B-NP 
+giữa E B-PP 
+thiên nhiên N B-NP 
+và C O 
+con người N B-NP 
+, CH O 
+thấy V B-VP 
+được V B-VP 
+sức mạnh N B-NP 
+của E B-PP 
+cộng đồng N B-NP 
+trong E B-PP 
+việc làm N B-NP 
+thủy lợi V B-VP 
+, CH O 
+trao đổi V B-VP 
+sản phẩm N B-NP 
+và C O 
+đấu tranh V B-VP 
+giữ gìn V B-VP 
+bản làng N B-NP 
+, CH O 
+đất nước N B-NP 
+. CH O 
+Thời đại Hùng N B-NP 
+Vương Np B-NP 
+có V B-VP 
+hai M B-NP 
+truyền thuyết N B-NP 
+được V B-VP 
+loan V B-VP 
+truyền V B-VP 
+mãi R O 
+trong E B-PP 
+dân gian N B-NP 
+thể hiện V B-VP 
+rõ A B-AP 
+tinh thần N B-NP 
+đoàn kết V B-VP 
+của E B-PP 
+cộng đồng N B-NP 
+các L B-NP 
+dân tộc N B-NP 
+Việt Np B-NP 
+. CH O 

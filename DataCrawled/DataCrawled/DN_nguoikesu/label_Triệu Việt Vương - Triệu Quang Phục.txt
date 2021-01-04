@@ -1,0 +1,131 @@
+Triệu Quang Phục Np B-NP 
+là V B-VP 
+con Nc B-NP 
+Triệu Np B-NP 
+Túc Np I-NP 
+, CH O 
+Tù trưởng N B-NP 
+ở E B-PP 
+Chu Diên Np B-NP 
+( CH O 
+Hưng Yên Np B-NP 
+) CH O 
+. CH O 
+Khi N B-NP 
+được V B-VP 
+Lý Nam Đế Np B-NP 
+trao V B-VP 
+quyền N B-NP 
+lãnh đạo N B-NP 
+cuộc N B-NP 
+kháng chiến V B-VP 
+chống V B-VP 
+quân Lương N B-NP 
+, CH O 
+ông Nc B-NP 
+đưa V B-VP 
+quân N B-NP 
+về E B-PP 
+Dạ Trạch Np B-NP 
+( CH O 
+bãi N B-NP 
+Màn Trò Np B-NP 
+, CH O 
+Hưng Yên Np B-NP 
+) CH O 
+là V B-VP 
+một M B-NP 
+vùng N B-NP 
+đồng lầy N B-NP 
+rộng A B-AP 
+mênh mông A B-AP 
+, CH O 
+lau sậy N B-NP 
+um tùm A B-AP 
+, CH O 
+ở E B-PP 
+giữa N B-NP 
+có V B-VP 
+một M B-NP 
+bãi N B-NP 
+đất N B-NP 
+cao A B-AP 
+khô ráo N B-NP 
+để E B-PP 
+đóng V B-VP 
+quân N B-NP 
+. CH O 
+Ông Nc B-NP 
+cho V B-VP 
+quân lính V B-VP 
+vừa R O 
+sản xuất V B-VP 
+lương thực N B-NP 
+, CH O 
+vừa R O 
+tiếp tục V B-VP 
+cuộc N B-NP 
+kháng chiến V B-VP 
+lâu dài A B-AP 
+. CH O 
+Đêm đêm R O 
+nghĩa quân V B-VP 
+kéo V B-VP 
+ra V B-VP 
+đánh V B-VP 
+các L B-NP 
+đồn N B-NP 
+địch N B-NP 
+, CH O 
+làm V B-VP 
+cho E B-PP 
+lực lượng N B-NP 
+địch N B-NP 
+bị V B-VP 
+tiêu hao V B-VP 
+và C O 
+mất ăn V B-VP 
+, CH O 
+mất ngủ V B-VP 
+. CH O 
+Ngày N B-NP 
+13/4/548 M B-NP 
+, CH O 
+Triệu Quang Phục Np B-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+, CH O 
+xưng V B-VP 
+là C O 
+Triệu Việt Vương Np B-NP 
+, CH O 
+dân gian N B-NP 
+gọi V B-VP 
+ông Nc B-NP 
+là C O 
+Dạ Np B-NP 
+Trạch Vương Np I-NP 
+. CH O 
+Năm N B-NP 
+550 M B-NP 
+, CH O 
+từ E B-PP 
+căn cứ N B-NP 
+Dạ Trạch Np B-NP 
+ông Nc B-NP 
+tiến quân V B-VP 
+ra V B-VP 
+đánh V B-VP 
+giết V B-VP 
+được V B-VP 
+tướng N B-NP 
+giặc N B-NP 
+là V B-VP 
+Dương San Np B-NP 
+, CH O 
+thu V B-VP 
+lại R O 
+được V B-VP 
+thành Long Biên V B-VP 
+. CH O 

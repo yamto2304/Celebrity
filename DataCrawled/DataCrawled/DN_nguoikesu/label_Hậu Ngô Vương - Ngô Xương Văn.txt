@@ -1,0 +1,157 @@
+1 M B-NP 
+. CH O 
+Nam Tấn Vương Np B-NP 
+( CH O 
+Ngô Xương Căn Ny B-NP 
+950 M B-NP 
+- CH O 
+965 N B-NP 
+) CH O 
+: CH O 
+Ngô Xương Căn Np B-NP 
+là V B-VP 
+con N B-NP 
+thứ N B-NP 
+hai M B-NP 
+của E B-PP 
+Ngô Quyền Np B-NP 
+và C O 
+Dương Thị Ngọc Np B-NP 
+, CH O 
+năm N B-NP 
+950 M B-NP 
+đã R O 
+dùng V B-VP 
+mưu N B-NP 
+lật đổ N B-NP 
+Dương Tam Kha Np B-NP 
+giành V B-VP 
+lại R O 
+ngôi Vua V B-VP 
+cho E B-PP 
+nhà N B-NP 
+Ngô Np B-NP 
+. CH O 
+Theo V B-VP 
+thỉnh cầu N B-NP 
+của E B-PP 
+các L B-NP 
+tướng lĩnh N B-NP 
+và C O 
+triều thần V B-VP 
+, CH O 
+được V B-VP 
+sự N B-NP 
+chuẩn V B-VP 
+tấu N B-NP 
+của E B-PP 
+Dương Np B-NP 
+Thái hậu V B-VP 
+, CH O 
+Ngô Xương Căn Np B-NP 
+lên V B-VP 
+ngôi Vua N B-NP 
+lấy V B-VP 
+niên hiệu N B-NP 
+là C O 
+Nam Tấn Vương Np B-NP 
+( CH O 
+950 M B-NP 
+- CH O 
+965 N B-NP 
+) CH O 
+đóng đô V B-VP 
+ở E B-PP 
+Cổ Loa Np B-NP 
+. CH O 
+Nam Np B-NP 
+Tấn Vương Np I-NP 
+cho E B-PP 
+người N B-NP 
+đi V B-VP 
+tìm V B-VP 
+anh Nc B-NP 
+là V B-VP 
+Thái Np B-NP 
+tửu N B-NP 
+Ngô Xươnng Ngập Np B-NP 
+, CH O 
+giả A B-AP 
+làm V B-VP 
+thầy N B-NP 
+đồ N B-NP 
+trốn V B-VP 
+ở E B-PP 
+Nam Sách Np B-NP 
+( CH O 
+Hải Dương Np B-NP 
+) CH O 
+lấy V B-VP 
+vợ N B-NP 
+và C O 
+có V B-VP 
+con Nc B-NP 
+trai N B-NP 
+là V B-VP 
+Ngô Xương Văn . N B-NP 
+Được Np B-NP 
+Dương Np B-NP 
+Thái Hậu Np B-NP 
+chuẩn A B-AP 
+tấu V B-VP 
+cả P B-NP 
+hai M B-NP 
+anh em N B-NP 
+đều R O 
+làm V B-VP 
+Vua Np B-NP 
+( CH O 
+như vậy X O 
+nước N B-NP 
+ta P B-NP 
+lúc N B-NP 
+đó P B-NP 
+có V B-VP 
+hai M B-NP 
+Vua Np B-NP 
+) CH O 
+. CH O 
+2 M B-NP 
+. CH O 
+Thiên Sách Vương Np B-NP 
+( CH O 
+Ngô Xương Ngập Ny B-NP 
+951 M B-NP 
+- CH O 
+959 N B-NP 
+) CH O 
+: CH O 
+Ngô Xương Ngập Np B-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+, CH O 
+đặt V B-VP 
+niên hiệu N B-NP 
+là C O 
+Thiên Sách Vương Np B-NP 
+( CH O 
+951 M B-NP 
+- CH O 
+959 M B-NP 
+) CH O 
+sau N B-NP 
+Ngô Xương Ngập Np B-NP 
+bị V B-VP 
+bệnh N B-NP 
+thượng mã V B-VP 
+phong N B-NP 
+mà C O 
+chết V B-VP 
+. CH O 
+Làm V B-VP 
+vua N B-NP 
+được V B-VP 
+8 M B-NP 
+năm N B-NP 
+. CH O 

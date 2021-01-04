@@ -1,0 +1,74 @@
+Đồng Khánh Np B-NP 
+( CH O 
+1885 M B-NP 
+- CH O 
+1888 M B-NP 
+) CH O 
+Sau N B-NP 
+khi N B-NP 
+vua N B-NP 
+Hàm Nghi bỏ V B-VP 
+kinh đô N B-NP 
+Huế Np B-NP 
+chạy V B-VP 
+ra V B-VP 
+Quảng Trị Np B-NP 
+, CH O 
+xuống V B-VP 
+Chiếu Np B-NP 
+Cần Vương Np I-NP 
+chống V B-VP 
+Pháp Np B-NP 
+, CH O 
+thực dân N B-NP 
+Pháp Np B-NP 
+bàn V B-VP 
+với E B-PP 
+các L B-NP 
+đại thần N B-NP 
+cơ mật N B-NP 
+Nguyễn Hữu Độ Np B-NP 
+và C O 
+Phan Đình Bình Np B-NP 
+đưa V B-VP 
+Ưng Np B-NP 
+Xuỵ Np I-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+, CH O 
+niên hiệu N B-NP 
+là V B-VP 
+Đồng Khánh Np B-NP 
+. CH O 
+Đồng Khánh Np B-NP 
+tên N B-NP 
+huý N B-NP 
+là V B-VP 
+Ưng Biện Np B-NP 
+, CH O 
+con trưởng N B-NP 
+của E B-PP 
+Kiên Thái vương N B-NP 
+Hồng Cai Np B-NP 
+, CH O 
+mẹ N B-NP 
+là V B-VP 
+Bùi Thị Np B-NP 
+, CH O 
+nǎm V B-VP 
+1865 V B-VP 
+lên V B-VP 
+2 M B-NP 
+tuổi N B-NP 
+, CH O 
+được V B-VP 
+đưa V B-VP 
+vào E B-PP 
+làm V B-VP 
+con nuôi N B-NP 
+thứ N B-NP 
+hai M B-NP 
+của E B-PP 
+Tự Đức Np B-NP 
+. CH O 

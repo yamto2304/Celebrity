@@ -1,0 +1,37 @@
+Dương Đình Nghệ Np PER
+( CH O 
+931 M RHB 
+- CH O 
+938 M RHD 
+) CH O 
+người N B-NP 
+Ái Châu Np B-NP 
+( CH O 
+Thanh Hoá Np B-NP 
+) CH O 
+, CH O 
+là V B-VP 
+tướng N B-NP 
+của E B-PP 
+họ P B-NP 
+Khúc Np B-NP 
+đã R O 
+khởi binh V B-VP 
+đánh đuổi N B-NP 
+Lý Khắc Chính Np B-NP 
+và C O 
+Lý Tiến Np B-NP 
+giải phóng V B-VP 
+thành V B-VP 
+Đại La Np B-NP 
+( CH O 
+Hà Nội Np B-NP 
+) CH O 
+xưng V B-VP 
+là V B-VP 
+Tiết độ N B-NP 
+sứ V B-VP 
+vào E B-PP 
+năm N B-NP 
+931 M B-NP 
+. CH O 

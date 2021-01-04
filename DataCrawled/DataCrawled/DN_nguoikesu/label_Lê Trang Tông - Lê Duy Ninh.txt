@@ -1,0 +1,112 @@
+Lê Trang Tông Np B-NP 
+( CH O 
+1533 M B-NP 
+- CH O 
+1548 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Duy Ninh Np B-NP 
+, CH O 
+là V B-VP 
+con N B-NP 
+của E B-PP 
+vua N B-NP 
+Lê Chiêu Tông Np B-NP 
+, CH O 
+mẹ N B-NP 
+là V B-VP 
+Phạm Thị Ngọc Quỳnh Np B-NP 
+, CH O 
+cháu Nc B-NP 
+năm N B-NP 
+đời N B-NP 
+của E B-PP 
+Lê Thánh Tông Np B-NP 
+. CH O 
+Khi N B-NP 
+Mạc Np B-NP 
+Đăng Dung Np B-NP 
+cướp V B-VP 
+ngôi Nc B-NP 
+nhà N B-NP 
+Lê Np B-NP 
+, CH O 
+Duy Ninh Np B-NP 
+mới R O 
+11 M B-NP 
+tuổi N B-NP 
+được R O 
+Lê Quán cõng V B-VP 
+chạy V B-VP 
+sang V B-VP 
+Ai P B-NP 
+Lao đổi V B-VP 
+tên N B-NP 
+là V B-VP 
+Huyến Np B-NP 
+. CH O 
+Đến V B-VP 
+tháng N B-NP 
+giêng M B-NP 
+năm N B-NP 
+Quý Tỵ Np B-NP 
+- CH O 
+1533 N B-NP 
+được V B-VP 
+Chiêu Np B-NP 
+huân công V B-VP 
+Nguyễn Kim đón V B-VP 
+về E B-PP 
+lập V B-VP 
+lên V B-VP 
+làm V B-VP 
+vua N B-NP 
+, CH O 
+lúc N B-NP 
+đó P B-NP 
+Duy Ninh Np B-NP 
+19 M B-NP 
+tuổi N B-NP 
+. CH O 
+Duy Ninh Np B-NP 
+lên V B-VP 
+làm V B-VP 
+vua N B-NP 
+đặt V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Nguyên Hoà Np B-NP 
+, CH O 
+tôn N B-NP 
+Nguyễn Kim Np B-NP 
+làm V B-VP 
+Thượng phụ N B-NP 
+Thái sư V B-VP 
+Hưng quốc công N B-NP 
+, CH O 
+lấy V B-VP 
+Sầm Np B-NP 
+Hà Np I-NP 
+làm V B-VP 
+nơi N B-NP 
+hành tại V B-VP 
+, CH O 
+giao kết V B-VP 
+với E B-PP 
+vua N B-NP 
+Ai P B-NP 
+Lao Np B-NP 
+là V B-VP 
+Xạ Đẩu Np B-NP 
+để E B-PP 
+nhờ V B-VP 
+quân lương N B-NP 
+, CH O 
+mưu V B-VP 
+việc N B-NP 
+lấy V B-VP 
+lại V B-VP 
+nước N B-NP 
+. CH O 

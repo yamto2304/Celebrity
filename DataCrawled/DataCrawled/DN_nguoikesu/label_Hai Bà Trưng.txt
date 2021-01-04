@@ -1,0 +1,146 @@
+Trưng Vương N B-NP 
+tên N B-NP 
+húy N B-NP 
+là V B-VP 
+Trắc Np B-NP 
+, CH O 
+họ P B-NP 
+Trưng Np B-NP 
+. CH O 
+Nguyên là V B-VP 
+họ P B-NP 
+Lạc Np B-NP 
+, CH O 
+con gái N B-NP 
+của E B-PP 
+Lạc tướng N B-NP 
+huyện N B-NP 
+Mê Linh Np I-NP 
+, CH O 
+Phong Châu Np B-NP 
+, CH O 
+vợ N B-NP 
+của E B-PP 
+Thi Sách Np B-NP 
+ở E B-PP 
+huyện N B-NP 
+Chu Diên Np I-NP 
+. CH O 
+( CH O 
+Thi Sách Np B-NP 
+cũng R O 
+là V B-VP 
+con N B-NP 
+Lạc tướng V B-VP 
+, CH O 
+con N B-NP 
+hai M B-NP 
+nhà N B-NP 
+tướng N B-NP 
+kết hôn V B-VP 
+với E B-PP 
+nhau N B-NP 
+. CH O 
+Sách N B-NP 
+Cương mục N B-NP 
+tập V B-VP 
+lãm N B-NP 
+lấy V B-VP 
+Lạc Np B-NP 
+làm V B-VP 
+họ P B-NP 
+là V B-VP 
+lầm N B-NP 
+) CH O 
+. CH O 
+Đóng đô V B-VP 
+ở E B-PP 
+Mê Linh Np B-NP 
+. CH O 
+Canh Tý Np B-NP 
+, CH O 
+năm N B-NP 
+thứ N B-NP 
+1 M B-NP 
+[ N B-NP 
+40 M B-NP 
+] CH O 
+, CH O 
+( CH O 
+Hán Kiến Vũ Ny B-NP 
+năm N B-NP 
+thứ N B-NP 
+16 M B-NP 
+) CH O 
+. CH O 
+Mùa Nc B-NP 
+xuân N B-NP 
+, CH O 
+tháng N B-NP 
+2 M B-NP 
+, CH O 
+vua N B-NP 
+khổ A B-AP 
+vì E B-PP 
+Thái thú N B-NP 
+Tô Định Np B-NP 
+dùng V B-VP 
+pháp luật N B-NP 
+trói buộc V B-VP 
+, CH O 
+lại R O 
+thù Định V B-VP 
+giết V B-VP 
+chồng N B-NP 
+mình P B-NP 
+, CH O 
+mới R O 
+cùng A B-AP 
+với E B-PP 
+em gái N B-NP 
+là C O 
+Nhị nổi N B-NP 
+binh N B-NP 
+đánh V B-VP 
+hãm N B-NP 
+trị sở A B-AP 
+ở E B-PP 
+châu N B-NP 
+. Định N B-NP 
+chạy V B-VP 
+về V B-VP 
+nước N B-NP 
+. CH O 
+Các L B-NP 
+quận N B-NP 
+Nam Hải Np B-NP 
+, CH O 
+Cửu Chân Np B-NP 
+, CH O 
+Nhật Nam Np B-NP 
+, CH O 
+Hợp Phố Np B-NP 
+đều R O 
+hưởng ứng V B-VP 
+, CH O 
+lấy V B-VP 
+được R O 
+[ V B-VP 
+2 M B-NP 
+b N B-NP 
+] CH O 
+65 V B-VP 
+thành V B-VP 
+ở E B-PP 
+Lĩnh Nam Np B-NP 
+, CH O 
+tự lập N B-NP 
+làm V B-VP 
+vua N B-NP 
+, CH O 
+mới R O 
+xưng V B-VP 
+là C O 
+họ P B-NP 
+Trưng Np B-NP 
+. CH O 

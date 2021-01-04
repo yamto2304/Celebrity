@@ -1,0 +1,260 @@
+Quý Mão Np B-NP 
+, CH O 
+[ N B-NP 
+Trưng Vương Np B-NP 
+, CH O 
+năm N B-NP 
+thứ N B-NP 
+4 M B-NP 
+] CH O 
+, CH O 
+( CH O 
+Hán Kiến Vũ Ny B-NP 
+năm N B-NP 
+thứ N B-NP 
+19 M B-NP 
+) CH O 
+. CH O 
+Mùa Nc B-NP 
+xuân N B-NP 
+, CH O 
+tháng N B-NP 
+giêng M B-NP 
+, CH O 
+Trưng Np B-NP 
+Nữ Vương Np I-NP 
+cùng A B-AP 
+em gái N B-NP 
+là V B-VP 
+Nhị Np B-NP 
+chống cự V B-VP 
+lại V B-VP 
+với E B-PP 
+quân N B-NP 
+nhà N B-NP 
+Hán Np B-NP 
+, CH O 
+thế P B-NP 
+cô Nc B-NP 
+, CH O 
+đều R O 
+thua V B-VP 
+chết V B-VP 
+. CH O 
+Mã Viện Np B-NP 
+đuổi V B-VP 
+theo V B-VP 
+đánh V B-VP 
+quân N B-NP 
+còn R O 
+sót V B-VP 
+là V B-VP 
+bọn Nc B-NP 
+Đô Dương Np B-NP 
+. Đến V B-VP 
+huyện N B-NP 
+Cư Phong Np I-NP 
+thì C O 
+[ V B-VP 
+bọn Nc B-NP 
+Đô Dương ] N B-NP 
+đầu hàng V B-VP 
+, CH O 
+[ N B-NP 
+Viện Np B-NP 
+] CH O 
+bèn R O 
+dựng V B-VP 
+cột N B-NP 
+đồng N B-NP 
+làm V B-VP 
+giới hạn N B-NP 
+cuối cùng A B-AP 
+của E B-PP 
+nhà Hán N B-NP 
+. CH O 
+( CH O 
+Cột Ny B-NP 
+đồng N B-NP 
+tương truyền V B-VP 
+ở E B-PP 
+trên E B-PP 
+động N B-NP 
+Cổ Lâu châu Khâm N B-NP 
+. Viện N B-NP 
+có V B-VP 
+câu N B-NP 
+thề V B-VP 
+: CH O 
+" CH O 
+Cột N B-NP 
+đồng N B-NP 
+gãy V B-VP 
+thì C O 
+Giao Châu diệt V B-VP 
+" CH O 
+. CH O 
+Người Nc B-NP 
+Việt Np B-NP 
+ta P B-NP 
+đi V B-VP 
+qua V B-VP 
+dưới E B-PP 
+cột N B-NP 
+ấy P B-NP 
+, CH O 
+thường R O 
+lấy V B-VP 
+đá N B-NP 
+chất V B-VP 
+vào E B-PP 
+, CH O 
+thành V B-VP 
+như C O 
+gò đống N B-NP 
+, CH O 
+vì E B-PP 
+sợ V B-VP 
+cột V B-VP 
+ấy P B-NP 
+gãy V B-VP 
+. CH O 
+Mã Tổng Np B-NP 
+nhà N B-NP 
+Đường Np B-NP 
+lại V B-VP 
+dựng V B-VP 
+hai M B-NP 
+cột N B-NP 
+đồng N B-NP 
+ở E B-PP 
+chỗ N B-NP 
+cũ A B-AP 
+của E B-PP 
+nhà N B-NP 
+Hán Np B-NP 
+ghi V B-VP 
+công đức N B-NP 
+của E B-PP 
+Mã Viện Np B-NP 
+để E B-PP 
+tỏ V B-VP 
+ra V B-VP 
+mình P B-NP 
+là V B-VP 
+dòng dõi N B-NP 
+của E B-PP 
+Phục Ba Np B-NP 
+, CH O 
+nay P B-NP 
+chưa R O 
+rõ A B-AP 
+ở E B-PP 
+chỗ N B-NP 
+nào P B-NP 
+. CH O 
+Hai M B-NP 
+sông N B-NP 
+Tả Giang Np B-NP 
+, CH O 
+Hữu Giang Np B-NP 
+mỗi L B-NP 
+nơi N B-NP 
+có V B-VP 
+một M B-NP 
+cột N B-NP 
+) CH O 
+. CH O 
+Viện N B-NP 
+thấy V B-VP 
+huyện N B-NP 
+Tây Vu Np I-NP 
+có V B-VP 
+3 M B-NP 
+vạn M B-NP 
+3 M B-NP 
+nghìn M B-NP 
+hộ N B-NP 
+, CH O 
+xin V B-VP 
+chia V B-VP 
+làm V B-VP 
+hai M B-NP 
+huyện N B-NP 
+Phong Kê Np B-NP 
+và C O 
+Vọng Np B-NP 
+Hải Np I-NP 
+, CH O 
+vua N B-NP 
+Hán Np B-NP 
+nghe V B-VP 
+theo V B-VP 
+. Viện N B-NP 
+lại V B-VP 
+đắp V B-VP 
+thành V B-VP 
+Kiển Giang Np B-NP 
+ở E B-PP 
+huyện N B-NP 
+Phong Khê Np I-NP 
+. Thành V B-VP 
+đắp V B-VP 
+tròn A B-AP 
+như C O 
+hình N B-NP 
+cái Nc B-NP 
+kén N B-NP 
+, CH O 
+cho nên C O 
+lấy V B-VP 
+[ N B-NP 
+chữ N B-NP 
+Kiển Np B-NP 
+] CH O 
+làm V B-VP 
+tên N B-NP 
+. CH O 
+Nước N B-NP 
+Việt Np B-NP 
+ta P B-NP 
+lại R O 
+thuộc V B-VP 
+vào E B-PP 
+nhà N B-NP 
+Hán Np B-NP 
+. CH O 
+Ba M B-NP 
+năm N B-NP 
+sau N B-NP 
+, CH O 
+Viện N B-NP 
+trở về V B-VP 
+. CH O 
+Người Nc B-NP 
+địa phương N B-NP 
+thương mến V B-VP 
+Trưng Np B-NP 
+Nữ Vương Np I-NP 
+, CH O 
+làm V B-VP 
+đền N B-NP 
+thờ phụng N B-NP 
+( CH O 
+đền N B-NP 
+ở E B-PP 
+xã N B-NP 
+Hát Giang Np I-NP 
+, CH O 
+huyện N B-NP 
+Phúc Lộc Np I-NP 
+, CH O 
+ở E B-PP 
+đất N B-NP 
+cũ A B-AP 
+thành V B-VP 
+Phiên Ngung Np B-NP 
+cũng R O 
+có V B-VP 
+) CH O 
+. CH O 

@@ -1,0 +1,78 @@
+Trần Minh Tông Np B-NP 
+( CH O 
+1314 M B-NP 
+- CH O 
+1329 N B-NP 
+) CH O 
+Tên huý V B-VP 
+là V B-VP 
+Mạnh Np B-NP 
+, CH O 
+con N B-NP 
+thứ N B-NP 
+tư M B-NP 
+của E B-PP 
+Trần Anh Tông Np B-NP 
+. Mẹ V B-VP 
+là C O 
+Chiêu Hiền Np B-NP 
+hoàng thái hậu Trần Thị , V B-VP 
+con gái N B-NP 
+của E B-PP 
+Bảo Nghĩa Np B-NP 
+đại vương N B-NP 
+Trần Bình Trọng Np B-NP 
+, CH O 
+sinh V B-VP 
+năm Canh Tý N B-NP 
+- CH O 
+1300 N B-NP 
+. CH O 
+Trần Minh Tông Np B-NP 
+có V B-VP 
+lòng N B-NP 
+nhân hậu A B-AP 
+, CH O 
+biết V B-VP 
+tôn trọng V B-VP 
+nhân tài N B-NP 
+nên C O 
+có V B-VP 
+nhiều A B-AP 
+hiền thần N B-NP 
+dưới trướng A B-AP 
+như C O 
+Phạm Ngũ Lão Np B-NP 
+, CH O 
+Trương Hán Siêu Np B-NP 
+, CH O 
+Chu Văn An Np B-NP 
+, CH O 
+Nguyễn Trung Ngạn Np B-NP 
+, CH O 
+Đoàn Nhữ Hài Np B-NP 
+, CH O 
+nhưng C O 
+đã R O 
+quá R O 
+tin V B-VP 
+bọn Nc B-NP 
+nịnh thần N B-NP 
+giết oan V B-VP 
+chú Nc B-NP 
+ruột N B-NP 
+, CH O 
+đồng thời C O 
+là V B-VP 
+bố vợ N B-NP 
+là V B-VP 
+Huệ Np B-NP 
+Võ Vương Np B-NP 
+Trần Quốc Chẩn Np B-NP 
+, CH O 
+một M B-NP 
+lỗi lầm N B-NP 
+lớn A B-AP 
+của E B-PP 
+Trần Minh Tông Np B-NP 
+. CH O 
