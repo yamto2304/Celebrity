@@ -1,0 +1,299 @@
+Lê Nhân Tông Np B-NP 
+( CH O 
+1442 M B-NP 
+- CH O 
+1459 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Bang Cơ Np B-NP 
+, CH O 
+con thứ N B-NP 
+của E B-PP 
+Lê Thái Tông Np B-NP 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+9 M B-NP 
+tháng N B-NP 
+6 M B-NP 
+năm N B-NP 
+Tân Dậu Np B-NP 
+- CH O 
+1441 N B-NP 
+. CH O 
+Ngày N B-NP 
+16 M B-NP 
+tháng N B-NP 
+11 M B-NP 
+năm N B-NP 
+Tân Dậu Np B-NP 
+- CH O 
+1441 N B-NP 
+được V B-VP 
+lập V B-VP 
+là V B-VP 
+Hoàng Thái tử N B-NP 
+, CH O 
+ngày N B-NP 
+12 M B-NP 
+tháng N B-NP 
+8 M B-NP 
+năm N B-NP 
+Nhâm Tuất Np B-NP 
+- CH O 
+1442 V B-VP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+đổi V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Thái Hoà Np B-NP 
+. CH O 
+Lúc N B-NP 
+đó P B-NP 
+Lê Nhân Tông Np B-NP 
+mới R O 
+2 M B-NP 
+tuổi N B-NP 
+, CH O 
+Thái hậu N B-NP 
+Tuyên Np B-NP 
+Từ Np B-NP 
+phải V B-VP 
+buông V B-VP 
+rèm N B-NP 
+nhiếp chính V B-VP 
+. Tháng N B-NP 
+11 M B-NP 
+năm N B-NP 
+Quý Dậu Np B-NP 
+- CH O 
+1453 N B-NP 
+, CH O 
+vua N B-NP 
+12 M B-NP 
+tuổi N B-NP 
+, CH O 
+Thái hậu V B-VP 
+trả V B-VP 
+quyền N B-NP 
+chính T O 
+cho E B-PP 
+vua N B-NP 
+rồi C O 
+lui V B-VP 
+về V B-VP 
+ở E B-PP 
+cung N B-NP 
+riêng A B-AP 
+. Vua đổi V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Diên Ninh Np B-NP 
+, CH O 
+đại xá V B-VP 
+cho E B-PP 
+thiên hạ N B-NP 
+. CH O 
+Người đời N B-NP 
+bấy giờ P B-NP 
+ca ngợi V B-VP 
+tài năng N B-NP 
+và C O 
+đức độ N B-NP 
+của E B-PP 
+vua N B-NP 
+. CH O 
+" CH O 
+Đại Việt Np B-NP 
+sử ký V B-VP 
+toàn thư N B-NP 
+" CH O 
+ghi V B-VP 
+: CH O 
+" CH O 
+Vua N B-NP 
+tuổi N B-NP 
+còn R O 
+thơ ấu A B-AP 
+đã R O 
+có V B-VP 
+thiên tư N B-NP 
+sáng suốt A B-AP 
+, CH O 
+vẻ người V B-VP 
+tuấn tú N B-NP 
+, CH O 
+đàng hoàng A B-AP 
+, CH O 
+dáng điệu V B-VP 
+nghiêm trang N B-NP 
+, CH O 
+sùng đạo N B-NP 
+Nho Np B-NP 
+, CH O 
+nghe V B-VP 
+can gián N B-NP 
+, CH O 
+thương V B-VP 
+người N B-NP 
+làm ruộng V B-VP 
+, CH O 
+yêu V B-VP 
+nuôi V B-VP 
+muôn dân N B-NP 
+, CH O 
+thực là V B-VP 
+bậc N B-NP 
+vua N B-NP 
+giỏi A B-AP 
+, CH O 
+biết V B-VP 
+giữ V B-VP 
+cơ đồ N B-NP 
+, CH O 
+không R O 
+may A B-AP 
+bị V B-VP 
+cướp ngôi V B-VP 
+, CH O 
+giết hại N B-NP 
+. Thương V B-VP 
+thay T O 
+! CH O 
+" CH O 
+. CH O 
+Trước kia N B-NP 
+, CH O 
+Dương Thị Bí Np B-NP 
+là V B-VP 
+mẹ N B-NP 
+Nghi Dân Np B-NP 
+có V B-VP 
+tội N B-NP 
+với E B-PP 
+Lê Thái Tông Np B-NP 
+, CH O 
+nên C O 
+Nghi Dân Np B-NP 
+không R O 
+được V B-VP 
+lập V B-VP 
+làm V B-VP 
+thái tử N B-NP 
+, CH O 
+mới R O 
+ngầm V B-VP 
+chứa V B-VP 
+mưu N B-NP 
+gian N B-NP 
+nhòm ngó V B-VP 
+ngôi báu N B-NP 
+, CH O 
+cùng A B-AP 
+bọn Nc B-NP 
+đồng đảng N B-NP 
+là V B-VP 
+Phạm Đồn Np B-NP 
+, CH O 
+Phan Ban Np B-NP 
+, CH O 
+Trần Lăng Np B-NP 
+cầm đầu V B-VP 
+bọn Nc B-NP 
+vô lại N B-NP 
+côn đồ V B-VP 
+, CH O 
+đêm N B-NP 
+ngày N B-NP 
+3 M B-NP 
+tháng N B-NP 
+10 M B-NP 
+năm N B-NP 
+Kỷ Mão Np B-NP 
+- CH O 
+1459 N B-NP 
+bắc N B-NP 
+thang N B-NP 
+chia V B-VP 
+làm V B-VP 
+ba M B-NP 
+đường N B-NP 
+, CH O 
+trèo V B-VP 
+thành V B-VP 
+cửa N B-NP 
+Đông Np B-NP 
+, CH O 
+lẻn V B-VP 
+vào E B-PP 
+cung cấm N B-NP 
+giết V B-VP 
+chết V B-VP 
+vua N B-NP 
+Lê Nhân Tông Np B-NP 
+và C O 
+Tuyên Np B-NP 
+Từ E B-PP 
+Hoàng thái hậu N B-NP 
+. CH O 
+Lê Nhân Tông Np B-NP 
+bị V B-VP 
+giết V B-VP 
+chết V B-VP 
+lúc N B-NP 
+mới R O 
+19 M B-NP 
+tuổi N B-NP 
+, CH O 
+làm V B-VP 
+vua N B-NP 
+được V B-VP 
+17 M B-NP 
+năm N B-NP 
+. CH O 
+Nghi Dân Np B-NP 
+tự lập V B-VP 
+làm V B-VP 
+vua N B-NP 
+, CH O 
+nhưng C O 
+chỉ R O 
+8 M B-NP 
+tháng N B-NP 
+sau N B-NP 
+lại R O 
+bị V B-VP 
+các L B-NP 
+đại thần N B-NP 
+là V B-VP 
+Nguyễn Xí Np B-NP 
+, CH O 
+Đinh Liệt Np B-NP 
+xướng V B-VP 
+nghĩa N B-NP 
+giết V B-VP 
+bọn Nc B-NP 
+phản nghịch N B-NP 
+, CH O 
+giáng N B-NP 
+Nghi Dân Np B-NP 
+xuống V B-VP 
+tước N B-NP 
+hầu N B-NP 
+, CH O 
+rồi C O 
+lập V B-VP 
+Hoàng tử N B-NP 
+Tư Thành Np B-NP 
+lên V B-VP 
+làm V B-VP 
+vua N B-NP 
+, CH O 
+đó P B-NP 
+là V B-VP 
+Lê Thánh Tông Np B-NP 
+. CH O 

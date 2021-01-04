@@ -1,0 +1,49 @@
+Lê Chân Tông Np B-NP 
+( CH O 
+1643 M B-NP 
+- CH O 
+1649 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Duy Hựu Np B-NP 
+, CH O 
+con trưởng N B-NP 
+của E B-PP 
+Lê Thần Tông Np B-NP 
+, CH O 
+được V B-VP 
+truyền ngôi V B-VP 
+vào E B-PP 
+năm N B-NP 
+13 M B-NP 
+tuổi N B-NP 
+, CH O 
+ở E B-PP 
+ngôi N B-NP 
+được R O 
+6 M B-NP 
+năm N B-NP 
+, CH O 
+năm N B-NP 
+1649 M B-NP 
+bị V B-VP 
+bệnh N B-NP 
+mất V B-VP 
+, CH O 
+mới R O 
+20 M B-NP 
+tuổi N B-NP 
+, CH O 
+chưa R O 
+có V B-VP 
+con N B-NP 
+nối ngôi V B-VP 
+. CH O 
+Lê Thần tông N B-NP 
+trở lại V B-VP 
+ngôi vua N B-NP 
+lần N B-NP 
+thứ N B-NP 
+2 M B-NP 

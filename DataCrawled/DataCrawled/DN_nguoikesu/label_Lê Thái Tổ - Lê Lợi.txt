@@ -1,0 +1,194 @@
+Lê Thái Tổ Np B-NP 
+( CH O 
+1428 M B-NP 
+- CH O 
+1433 N B-NP 
+) CH O 
+sinh V B-VP 
+ngày N B-NP 
+6 M B-NP 
+tháng N B-NP 
+Tám M B-NP 
+năm N B-NP 
+Ất Sửu Np B-NP 
+- CH O 
+10/9/1385 N B-NP 
+, CH O 
+là V B-VP 
+con trai N B-NP 
+thứ N B-NP 
+3 M B-NP 
+của E B-PP 
+ông Nc B-NP 
+Lê Khoáng Np B-NP 
+và C O 
+bà Nc B-NP 
+Trịnh Thị Thương Np B-NP 
+, CH O 
+người N B-NP 
+ở E B-PP 
+hương N B-NP 
+Lam Sơn Np B-NP 
+, CH O 
+huyện N B-NP 
+Lương Giang Np I-NP 
+, CH O 
+trấn V B-VP 
+Thanh Hoá Np B-NP 
+. CH O 
+Ngay T O 
+từ E B-PP 
+khi N B-NP 
+còn R O 
+trẻ A B-AP 
+, CH O 
+Lê Lợi Np B-NP 
+đã R O 
+tỏ V B-VP 
+ra V B-VP 
+là V B-VP 
+người N B-NP 
+thông minh A B-AP 
+, CH O 
+dũng V B-VP 
+lược N B-NP 
+, CH O 
+đức độ V B-VP 
+hơn A B-AP 
+người N B-NP 
+, CH O 
+dáng N B-NP 
+người hùng vĩ A B-AP 
+, CH O 
+mắt N B-NP 
+sáng A B-AP 
+, CH O 
+miệng N B-NP 
+rộng A B-AP 
+, CH O 
+mũi N B-NP 
+cao A B-AP 
+, CH O 
+trên E B-PP 
+vai N B-NP 
+phải V B-VP 
+có V B-VP 
+nốt ruồi N B-NP 
+đỏ A B-AP 
+lớn A B-AP 
+, CH O 
+tiếng nói N B-NP 
+như C O 
+chuông N B-NP 
+, CH O 
+bậc N B-NP 
+thức giả N B-NP 
+biết V B-VP 
+ngay T O 
+là V B-VP 
+người N B-NP 
+phi thường V B-VP 
+. CH O 
+Lớn lên N B-NP 
+, CH O 
+ông Nc B-NP 
+làm V B-VP 
+chức N B-NP 
+Phụ đạo N B-NP 
+ở E B-PP 
+Khả Lam Np B-NP 
+, CH O 
+ông Nc B-NP 
+chăm chỉ A B-AP 
+dùi mài V B-VP 
+đọc V B-VP 
+sách N B-NP 
+và C O 
+binh pháp N B-NP 
+, CH O 
+nghiền ngẫm N B-NP 
+thao lược V B-VP 
+, CH O 
+tìm V B-VP 
+mời V B-VP 
+những L B-NP 
+người Nc B-NP 
+mưu trí A B-AP 
+, CH O 
+chiêu tập V B-VP 
+dân N B-NP 
+lưu tán N B-NP 
+, CH O 
+hăng hái V B-VP 
+dấy nghĩa binh N B-NP 
+, CH O 
+mong V B-VP 
+trừ V B-VP 
+loạn N B-NP 
+lớn A B-AP 
+. CH O 
+Mùa Nc B-NP 
+xuân N B-NP 
+năm N B-NP 
+Mậu Tuất Np B-NP 
+- CH O 
+1418 N B-NP 
+, CH O 
+Lê Lợi Np B-NP 
+đã R O 
+cùng C O 
+những L B-NP 
+hào kiệt N B-NP 
+đồng chí hướng A B-AP 
+như C O 
+Nguyễn Trãi Np B-NP 
+, CH O 
+Trần Nguyên Hãn Np B-NP 
+, CH O 
+Lê Văn An Np B-NP 
+, CH O 
+Lê Văn Linh Np B-NP 
+, CH O 
+Bùi Quốc Hưng Np B-NP 
+, CH O 
+Lưu Nhân Chú Np B-NP 
+v.v... V B-VP 
+phất N B-NP 
+cờ N B-NP 
+khởi nghĩa V B-VP 
+ở E B-PP 
+Lam Sơn Np B-NP 
+, CH O 
+xưng V B-VP 
+là C O 
+Bình Định Vương Np B-NP 
+, CH O 
+kêu gọi V B-VP 
+nhân dân N B-NP 
+đồng lòng V B-VP 
+đứng V B-VP 
+lên V B-VP 
+đánh V B-VP 
+giặc N B-NP 
+cứu V B-VP 
+nước N B-NP 
+. CH O 
+Suốt A B-AP 
+10 M B-NP 
+năm N B-NP 
+nằm V B-VP 
+gai V B-VP 
+nếm V B-VP 
+mật N B-NP 
+, CH O 
+vào sinh ra tử X O 
+, CH O 
+Lê Lợi Np B-NP 
+đã R O 
+lãnh đạo V B-VP 
+cuộc N B-NP 
+kháng chiến V B-VP 
+chống V B-VP 
+quân Minh N B-NP 
+thắng lợi V B-VP 
+. CH O 

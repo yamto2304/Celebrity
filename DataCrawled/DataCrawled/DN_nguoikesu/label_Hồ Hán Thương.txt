@@ -1,0 +1,136 @@
+Hồ Hán Thương Np B-NP 
+( CH O 
+1401 M B-NP 
+- CH O 
+1407 N B-NP 
+) CH O 
+Cũng R O 
+như C O 
+nhà N B-NP 
+Trần Np B-NP 
+, CH O 
+ngày N B-NP 
+12/1/1401 M B-NP 
+, CH O 
+Hồ Qúy Ly Np B-NP 
+nhường ngôi V B-VP 
+cho E B-PP 
+con N B-NP 
+thứ N B-NP 
+hai M B-NP 
+là V B-VP 
+Hồ Hán Thương Np B-NP 
+, CH O 
+còn C O 
+mình P B-NP 
+thì C O 
+tự xưng V B-VP 
+là V B-VP 
+Thái Thượng hoàng N B-NP 
+cùng A B-AP 
+coi V B-VP 
+chính sự N B-NP 
+. Hồ Qúy Ly V B-VP 
+nhường ngôi V B-VP 
+cho E B-PP 
+Hồ Hán Thương Np B-NP 
+, CH O 
+nhưng C O 
+vẫn R O 
+tự P B-NP 
+mình P B-NP 
+quyết đoán V B-VP 
+mọi L B-NP 
+việc N B-NP 
+. CH O 
+Nhà Minh Np B-NP 
+lấy V B-VP 
+cớ N B-NP 
+Hồ Qúy Ly Np B-NP 
+cướp V B-VP 
+ngôi Nc B-NP 
+nhà N B-NP 
+Trần Np B-NP 
+, CH O 
+đem V B-VP 
+quân N B-NP 
+sang V B-VP 
+đánh V B-VP 
+chiếm V B-VP 
+nước N B-NP 
+ta P B-NP 
+. CH O 
+Ngày N B-NP 
+20 M B-NP 
+tháng N B-NP 
+1 M B-NP 
+năm N B-NP 
+1407 M B-NP 
+, CH O 
+quân N B-NP 
+Minh Np B-NP 
+hạ V B-VP 
+thành V B-VP 
+Đa Bang Np B-NP 
+( CH O 
+Ba Vì Np B-NP 
+) CH O 
+, CH O 
+bố N B-NP 
+con Nc B-NP 
+Hồ Quý Ly Np B-NP 
+bỏ V B-VP 
+chạy V B-VP 
+vào E B-PP 
+Thanh Hoá Np B-NP 
+, CH O 
+đến E B-PP 
+ngày N B-NP 
+17/6/1407 M B-NP 
+, CH O 
+quân Minh N B-NP 
+bắt V B-VP 
+được R O 
+cha N B-NP 
+con N B-NP 
+Hồ Qúy Ly Np B-NP 
+. CH O 
+Thế là C O 
+đất nước N B-NP 
+ta P B-NP 
+lại R O 
+bị V B-VP 
+nhà Minh V B-VP 
+đô hộ V B-VP 
+với E B-PP 
+một M B-NP 
+chính T O 
+sự N B-NP 
+vô cùng R O 
+hà khắc V B-VP 
+. CH O 
+Chúng P B-NP 
+vơ vét V B-VP 
+của cải N B-NP 
+, CH O 
+hãm hiếp V B-VP 
+đàn bà N B-NP 
+, CH O 
+con gái N B-NP 
+, CH O 
+giết V B-VP 
+đàn ông N B-NP 
+và C O 
+còn R O 
+thiến V B-VP 
+hoạn V B-VP 
+nhiều A B-AP 
+con trai N B-NP 
+nhỏ tuổi A B-AP 
+, CH O 
+để E B-PP 
+mong V B-VP 
+đồng hoá V B-VP 
+dân N B-NP 
+ta P B-NP 
+. CH O 

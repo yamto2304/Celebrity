@@ -1,0 +1,107 @@
+Lê Thần Tông Np B-NP 
+( CH O 
+1619 M B-NP 
+- CH O 
+1643 N B-NP 
+và C O 
+1649 M B-NP 
+- CH O 
+1662 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Duy Kỳ Np B-NP 
+, CH O 
+con trưởng N B-NP 
+của E B-PP 
+Lê Kính Tông Np B-NP 
+và C O 
+bà Nc B-NP 
+Trịnh Thị Ngọc Trinh Np B-NP 
+( CH O 
+con thứ N B-NP 
+của E B-PP 
+Trịnh Tùng Np B-NP 
+) CH O 
+. CH O 
+Duy Kỳ Np B-NP 
+sinh V B-VP 
+ngày N B-NP 
+19 M B-NP 
+tháng N B-NP 
+11 M B-NP 
+năm N B-NP 
+Đinh Mùi Np B-NP 
+- CH O 
+1607 N B-NP 
+, CH O 
+là V B-VP 
+cháu Nc B-NP 
+ngoại A B-AP 
+của E B-PP 
+Bình An Np B-NP 
+Vương Np B-NP 
+Trịnh Tùng Np B-NP 
+, CH O 
+tháng N B-NP 
+6 M B-NP 
+năm N B-NP 
+1619 M B-NP 
+được R O 
+lập V B-VP 
+làm V B-VP 
+vua N B-NP 
+khi N B-NP 
+đó P B-NP 
+mới R O 
+12 M B-NP 
+tuổi N B-NP 
+. Vua A B-AP 
+có V B-VP 
+sống mũi N B-NP 
+cao A B-AP 
+, CH O 
+thông minh A B-AP 
+, CH O 
+học V B-VP 
+rộng A B-AP 
+, CH O 
+mưu lược V B-VP 
+sâu A B-AP 
+, CH O 
+văn chương N B-NP 
+giỏi A B-AP 
+. CH O 
+Song Np B-NP 
+lấy V B-VP 
+Trịnh Thị Ngọc Trúc Np B-NP 
+( CH O 
+là V B-VP 
+vợ N B-NP 
+của E B-PP 
+chú N B-NP 
+họ P B-NP 
+) CH O 
+để E B-PP 
+tiếng xấu V B-VP 
+về V B-VP 
+sau N B-NP 
+. CH O 
+Tháng N B-NP 
+10/1643 M B-NP 
+, CH O 
+Lê Thần Tông Np B-NP 
+nhường ngôi V B-VP 
+cho E B-PP 
+con N B-NP 
+là C O 
+Lê Duy Hựu Np B-NP 
+( CH O 
+tức E B-PP 
+Lê Chân Tông Np B-NP 
+) CH O 
+để E B-PP 
+làm V B-VP 
+Thái thượng hoàng N B-NP 
+. CH O 

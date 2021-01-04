@@ -1,0 +1,163 @@
+Minh Mạng Np B-NP 
+( CH O 
+1820 M B-NP 
+- CH O 
+1840 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Nguyễn Phúc Đảm Np B-NP 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+23 M B-NP 
+tháng N B-NP 
+4 M B-NP 
+nǎm N B-NP 
+Tân Hợi Np B-NP 
+( CH O 
+25/5/1791 M B-NP 
+) CH O 
+, CH O 
+là V B-VP 
+con thứ N B-NP 
+4 M B-NP 
+của E B-PP 
+Gia Long Np B-NP 
+. CH O 
+Tháng N B-NP 
+giêng M B-NP 
+nǎm N B-NP 
+Canh Thìn Np B-NP 
+( CH O 
+1820 M B-NP 
+) CH O 
+, CH O 
+thái tử N B-NP 
+Đảm Np B-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+, CH O 
+niên hiệu N B-NP 
+là V B-VP 
+Minh Mạng Np B-NP 
+. Minh Mạng V B-VP 
+có V B-VP 
+tư chất N B-NP 
+thông minh A B-AP 
+, CH O 
+hiếu học N B-NP 
+, CH O 
+nǎng V B-VP 
+động N B-NP 
+và C O 
+quyết đoán V B-VP 
+. CH O 
+Minh Mạng Np B-NP 
+đặt V B-VP 
+ra V B-VP 
+lệ N B-NP 
+: CH O 
+các L B-NP 
+quan N B-NP 
+ở E B-PP 
+Thành Np B-NP 
+, CH O 
+Dinh Np B-NP 
+, CH O 
+Trấn Np B-NP 
+- CH O 
+vǎn N B-NP 
+từ E B-PP 
+Hiệp trấn N B-NP 
+, CH O 
+Cai bạ N B-NP 
+, CH O 
+Ký lục N B-NP 
+, CH O 
+Tham hiệp N B-NP 
+; CH O 
+võ N B-NP 
+từ E B-PP 
+Thống Np B-NP 
+quản cơ V B-VP 
+đến E B-PP 
+Phó Np B-NP 
+vệ uý V B-VP 
+... CH O 
+ai P B-NP 
+được V B-VP 
+thǎng V B-VP 
+điện N B-NP 
+, CH O 
+bổ nhiệm N B-NP 
+... CH O 
+đều R O 
+phải V B-VP 
+đến V B-VP 
+kinh đô V B-VP 
+gặp V B-VP 
+vua N B-NP 
+, CH O 
+để E B-PP 
+vua N B-NP 
+hỏi han V B-VP 
+công việc N B-NP 
+, CH O 
+kiểm tra V B-VP 
+nǎng N B-NP 
+lực N B-NP 
+và C O 
+khuyên bảo V B-VP 
+. CH O 
+Là V B-VP 
+người N B-NP 
+tinh V B-VP 
+thâm nho học N B-NP 
+, CH O 
+sùng đạo Khổng N B-NP 
+Mạnh Np B-NP 
+, CH O 
+Minh Mạng Np B-NP 
+rất R O 
+quan tâm V B-VP 
+đến E B-PP 
+học hành V B-VP 
+, CH O 
+khoa cử N B-NP 
+, CH O 
+tuyển chọn V B-VP 
+nhân tài N B-NP 
+. CH O 
+Nǎm Np B-NP 
+1821 V B-VP 
+cho E B-PP 
+dựng V B-VP 
+Quốc Tử Giám Np B-NP 
+, CH O 
+đặt V B-VP 
+chức N B-NP 
+Tế Tửu Np B-NP 
+và C O 
+Tư Nghiệp Np B-NP 
+, CH O 
+mở V B-VP 
+lại R O 
+thi Hội V B-VP 
+và C O 
+thi Đình V B-VP 
+, CH O 
+trước N B-NP 
+6 M B-NP 
+nǎm N B-NP 
+một M B-NP 
+khoa thi N B-NP 
+, CH O 
+nay P B-NP 
+rút V B-VP 
+xuống V B-VP 
+3 M B-NP 
+nǎm N B-NP 
+. CH O 

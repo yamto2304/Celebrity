@@ -1,0 +1,249 @@
+Lê Thánh Tông Np B-NP 
+( CH O 
+1460 M B-NP 
+- CH O 
+1497 M B-NP 
+) CH O 
+tự P B-NP 
+là V B-VP 
+Tư Thành Np B-NP 
+có V B-VP 
+tên N B-NP 
+huý N B-NP 
+là V B-VP 
+Hạo Np B-NP 
+, CH O 
+con trai N B-NP 
+út A B-AP 
+của E B-PP 
+Lê Thái Tông Np B-NP 
+và C O 
+bà Nc B-NP 
+Ngô Thị Ngọc Giao Np B-NP 
+- CH O 
+con gái N B-NP 
+Thái Bảo Np B-NP 
+Ngô Từ Np B-NP 
+. CH O 
+Sống V B-VP 
+giữa E B-PP 
+chốn N B-NP 
+dân gian N B-NP 
+từ E B-PP 
+nhỏ A B-AP 
+đến E B-PP 
+năm N B-NP 
+lên V B-VP 
+4 M B-NP 
+tuổi N B-NP 
+. CH O 
+Mẹ N B-NP 
+Nhân Tông Np B-NP 
+khi N B-NP 
+đó P B-NP 
+đang R O 
+buông V B-VP 
+rèm N B-NP 
+nghe V B-VP 
+chính sự N B-NP 
+, CH O 
+cho V B-VP 
+đón V B-VP 
+Tư Thành Np B-NP 
+về V B-VP 
+ở E B-PP 
+trong E B-PP 
+cung N B-NP 
+rồi C O 
+phong V B-VP 
+làm V B-VP 
+Bình Nguyên Np B-NP 
+vương V B-VP 
+hằng R O 
+ngày N B-NP 
+cùng A B-AP 
+vua N B-NP 
+Nhân Tông Np B-NP 
+và C O 
+các L B-NP 
+vương hầu N B-NP 
+khác A B-AP 
+học tập V B-VP 
+tại E B-PP 
+toà N B-NP 
+Kính Diên Np B-NP 
+. CH O 
+Tư Thành Np B-NP 
+chăm chỉ A B-AP 
+học tập V B-VP 
+, CH O 
+dáng dấp V B-VP 
+đoan chính N B-NP 
+, CH O 
+thông tuệ V B-VP 
+hơn A B-AP 
+người N B-NP 
+, CH O 
+được V B-VP 
+vua N B-NP 
+Nhân Tông Np B-NP 
+rất R O 
+yêu quý A B-AP 
+. CH O 
+Lê Thánh Tông sinh V B-VP 
+ngày N B-NP 
+20 M B-NP 
+tháng N B-NP 
+7 M B-NP 
+năm N B-NP 
+Nhâm Tuất Np B-NP 
+- CH O 
+1442 N B-NP 
+. CH O 
+Ngày N B-NP 
+6 M B-NP 
+tháng N B-NP 
+6 M B-NP 
+năm Canh Thìn N B-NP 
+- CH O 
+1460 N B-NP 
+, CH O 
+các L B-NP 
+quan N B-NP 
+đại thần V B-VP 
+phế truất N B-NP 
+Nghi Dân Np B-NP 
+, CH O 
+rước V B-VP 
+Tư Thành Np B-NP 
+- CH O 
+lúc N B-NP 
+đó P B-NP 
+18 M B-NP 
+tuổi N B-NP 
+- CH O 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+. CH O 
+Lê Thánh Tông Np B-NP 
+hết lòng V B-VP 
+chăm lo V B-VP 
+việc N B-NP 
+nước N B-NP 
+: CH O 
+mở V B-VP 
+khoa thi N B-NP 
+, CH O 
+kén chọn V B-VP 
+hiền tài N B-NP 
+, CH O 
+khuyến khích V B-VP 
+sản xuất V B-VP 
+nông nghiệp N B-NP 
+, CH O 
+mở mang V B-VP 
+ngành nghề N B-NP 
+, CH O 
+mở rộng V B-VP 
+giao lưu V B-VP 
+buôn bán V B-VP 
+, CH O 
+ban hành V B-VP 
+chế độ N B-NP 
+quân điền V B-VP 
+, CH O 
+coi trọng V B-VP 
+việc N B-NP 
+bảo vệ V B-VP 
+biên giới N B-NP 
+quốc gia N B-NP 
+. CH O 
+Bản đồ V B-VP 
+biên giới N B-NP 
+quốc gia N B-NP 
+Đại Việt Np B-NP 
+được R O 
+hoàn thành V B-VP 
+dưới E B-PP 
+triều N B-NP 
+Lê Thánh Tông Np B-NP 
+. CH O 
+Bộ luật N B-NP 
+Hồng Đức Np B-NP 
+nổi tiếng A B-AP 
+mang V B-VP 
+niên hiệu N B-NP 
+vua N B-NP 
+Lê Thánh Tông Np B-NP 
+còn V B-VP 
+lại V B-VP 
+cho E B-PP 
+đến E B-PP 
+nay P B-NP 
+là V B-VP 
+một M B-NP 
+trong E B-PP 
+những L B-NP 
+bộ luật N B-NP 
+hoàn chỉnh A B-AP 
+và C O 
+có V B-VP 
+nhiều A B-AP 
+điểm N B-NP 
+tiến bộ A B-AP 
+nhất A B-AP 
+dưới E B-PP 
+thời N B-NP 
+phong kiến N B-NP 
+nước N B-NP 
+ta P B-NP 
+. CH O 
+Bộ N B-NP 
+Đại việt N B-NP 
+sử ký V B-VP 
+toàn thư N B-NP 
+do E B-PP 
+sử quan N B-NP 
+Ngô Sĩ Np B-NP 
+Liên Np B-NP 
+biên soạn V B-VP 
+năm N B-NP 
+Kỷ Hợi Np B-NP 
+- CH O 
+1479 N B-NP 
+dưới E B-PP 
+sự N B-NP 
+chỉ đạo V B-VP 
+của E B-PP 
+vua N B-NP 
+Lê Thánh Tông Np B-NP 
+. CH O 
+Lê Thánh Tông Np B-NP 
+còn R O 
+lập V B-VP 
+ra V B-VP 
+Hội Np B-NP 
+Tao Đàn Np I-NP 
+gồm V B-VP 
+28 M B-NP 
+ông Nc B-NP 
+tiến sĩ N B-NP 
+giỏi A B-AP 
+văn thơ A B-AP 
+nhất R O 
+nước N B-NP 
+thời N B-NP 
+đó P B-NP 
+gọi V B-VP 
+là C O 
+" CH O 
+Tao Đàn nhị N B-NP 
+thập bát V B-VP 
+tú N B-NP 
+" CH O 
+do E B-PP 
+nhà vua N B-NP 
+làm V B-VP 
+nguyên suý N B-NP 
+. CH O 

@@ -1,0 +1,184 @@
+Lê Trung Tông Np B-NP 
+( CH O 
+1548 M B-NP 
+- CH O 
+1556 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Huyên Np B-NP 
+, CH O 
+là V B-VP 
+con N B-NP 
+của E B-PP 
+Lê Trang Tông Np B-NP 
+, CH O 
+tính tình V B-VP 
+khoan dung N B-NP 
+, CH O 
+thông tuệ N B-NP 
+, CH O 
+có V B-VP 
+tài lược N B-NP 
+đế vương V B-VP 
+. CH O 
+Năm N B-NP 
+1548 M B-NP 
+được R O 
+lập V B-VP 
+làm V B-VP 
+vua N B-NP 
+khi N B-NP 
+mới R O 
+15 M B-NP 
+tuổi N B-NP 
+, CH O 
+lấy V B-VP 
+hiệu N B-NP 
+là V B-VP 
+Trung Tông Np B-NP 
+, CH O 
+phong V B-VP 
+cho E B-PP 
+Trịnh Kiểm Np B-NP 
+là V B-VP 
+Lương Np B-NP 
+quốc công V B-VP 
+quyết định V B-VP 
+mọi L B-NP 
+việc N B-NP 
+triều chính V B-VP 
+. CH O 
+Năm N B-NP 
+1554 M B-NP 
+, CH O 
+nhà N B-NP 
+Lê mở V B-VP 
+khoa thi N B-NP 
+để E B-PP 
+chọn V B-VP 
+nhân tài N B-NP 
+, CH O 
+lấy V B-VP 
+đỗ V B-VP 
+Tiến sĩ N B-NP 
+đệ A B-AP 
+nhất R O 
+giáp N B-NP 
+5 M B-NP 
+người N B-NP 
+, CH O 
+đệ nhị giáp N B-NP 
+8 M B-NP 
+người N B-NP 
+như C O 
+Đinh Np B-NP 
+Bạt Tuỵ Np I-NP 
+, CH O 
+Chu Quang Trứ Np B-NP 
+, CH O 
+... CH O 
+một số L B-NP 
+tướng N B-NP 
+tài giỏi A B-AP 
+như C O 
+Lê Bá Ly Np B-NP 
+, CH O 
+Nguyễn Khải Khang Np B-NP 
+, CH O 
+Nguyễn Thiếu Np B-NP 
+, CH O 
+Lê Khắc Thận Np B-NP 
+... CH O 
+bỏ V B-VP 
+nhà N B-NP 
+Mạc Np B-NP 
+vào E B-PP 
+Tây Đô Np B-NP 
+phò V B-VP 
+giúp V B-VP 
+nhà N B-NP 
+Lê Trung Hưng Np B-NP 
+. CH O 
+Tháng N B-NP 
+giêng M B-NP 
+năm N B-NP 
+1556 M B-NP 
+, CH O 
+Lê Trung Tông Np B-NP 
+mất V B-VP 
+mới R O 
+22 M B-NP 
+tuổi N B-NP 
+, CH O 
+không R O 
+có V B-VP 
+con N B-NP 
+, CH O 
+ở E B-PP 
+ngôi N B-NP 
+được R O 
+8 M B-NP 
+năm N B-NP 
+. CH O 
+Trịnh Kiểm Np B-NP 
+bàn V B-VP 
+với E B-PP 
+các L B-NP 
+đại thần N B-NP 
+rằng C O 
+: CH O 
+" CH O 
+Nước N B-NP 
+không thể R O 
+một M B-NP 
+ngày N B-NP 
+không R O 
+vua N B-NP 
+" CH O 
+, CH O 
+liền R O 
+sai A B-AP 
+người N B-NP 
+đi V B-VP 
+tìm V B-VP 
+con cháu N B-NP 
+nhà N B-NP 
+Lê Np B-NP 
+, CH O 
+tìm V B-VP 
+được R O 
+Lê Duy Bang Np B-NP 
+là V B-VP 
+cháu Nc B-NP 
+sáu M B-NP 
+đời N B-NP 
+của E B-PP 
+Lam Np B-NP 
+quốc công N B-NP 
+Lê Trừ Np B-NP 
+( CH O 
+anh Nc B-NP 
+thứ N B-NP 
+hai M B-NP 
+của E B-PP 
+Lê Lợi Np B-NP 
+) CH O 
+đang R O 
+ở V B-VP 
+hương N B-NP 
+Bố Np B-NP 
+Vệ Np B-NP 
+, CH O 
+huyện N B-NP 
+Đông Sơn Np I-NP 
+, CH O 
+Thanh Hoá Np B-NP 
+, CH O 
+đón V B-VP 
+về R O 
+lập V B-VP 
+làm V B-VP 
+vua N B-NP 
+. CH O 

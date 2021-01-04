@@ -1,0 +1,114 @@
+Lý Thánh Tông Np B-NP 
+( CH O 
+1054 N B-NP 
+– CH O 
+1072 N B-NP 
+) CH O 
+Lý Thánh Tông Np B-NP 
+tên N B-NP 
+húy N B-NP 
+là V B-VP 
+Nhật Np B-NP 
+Tôn Np I-NP 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+25 M B-NP 
+tháng N B-NP 
+2 M B-NP 
+năm N B-NP 
+Quý Hợi Np B-NP 
+( CH O 
+1023 M B-NP 
+) CH O 
+, CH O 
+là V B-VP 
+con N B-NP 
+bà Nc B-NP 
+Kim Thiên Thái Hậu Np B-NP 
+họ P B-NP 
+Mai Np B-NP 
+. CH O 
+Nhà sử học N B-NP 
+Ngô Sỹ Np B-NP 
+Liên Np B-NP 
+ghi V B-VP 
+trong E B-PP 
+“ CH O 
+Đại Việt Np B-NP 
+sử ký V B-VP 
+toàn thư N B-NP 
+” CH O 
+: CH O 
+“ CH O 
+... CH O 
+Vua N B-NP 
+khéo A B-AP 
+kế thừa V B-VP 
+, CH O 
+thực lòng N B-NP 
+thương V B-VP 
+dân N B-NP 
+, CH O 
+trọng V B-VP 
+việc N B-NP 
+làm ruộng V B-VP 
+, CH O 
+thương V B-VP 
+kẻ Nc B-NP 
+bị V B-VP 
+hình N B-NP 
+, CH O 
+vỗ về N B-NP 
+thu phục V B-VP 
+người N B-NP 
+xa A B-AP 
+, CH O 
+đặt V B-VP 
+khoa N B-NP 
+bác sĩ N B-NP 
+, CH O 
+hậu A B-AP 
+lễ N B-NP 
+dưỡng liêm V B-VP 
+, CH O 
+sửa V B-VP 
+sang V B-VP 
+việc N B-NP 
+văn N B-NP 
+, CH O 
+phòng N B-NP 
+bị V B-VP 
+việc N B-NP 
+võ V B-VP 
+, CH O 
+trong E B-PP 
+nước N B-NP 
+yên tĩnh N B-NP 
+, CH O 
+đáng V B-VP 
+gọi V B-VP 
+là C O 
+bậc N B-NP 
+Vua N B-NP 
+tốt A B-AP 
+. CH O 
+Song Np B-NP 
+nhọc V B-VP 
+sức N B-NP 
+xây V B-VP 
+tháp N B-NP 
+Báo Thiên Np B-NP 
+, CH O 
+phí N B-NP 
+của E B-PP 
+dân N B-NP 
+làm V B-VP 
+cung Dâm Đàm N B-NP 
+, CH O 
+đó P B-NP 
+là V B-VP 
+chỗ N B-NP 
+kém A B-AP 
+” CH O 
+. CH O 

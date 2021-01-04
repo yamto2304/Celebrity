@@ -1,0 +1,66 @@
+Kiến Np B-NP 
+Phúc Np B-NP 
+( CH O 
+1883 M B-NP 
+- CH O 
+1884 N B-NP 
+) CH O 
+Ưng Đǎng Np B-NP 
+là V B-VP 
+con nuôi N B-NP 
+thứ N B-NP 
+3 M B-NP 
+của E B-PP 
+Tự Đức Np B-NP 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+2 M B-NP 
+tháng N B-NP 
+Giêng Np B-NP 
+nǎm V B-VP 
+1870 N B-NP 
+. CH O 
+Vì E B-PP 
+Tự Đức Np B-NP 
+không R O 
+có V B-VP 
+con N B-NP 
+, CH O 
+lúc N B-NP 
+2 M B-NP 
+tuổi N B-NP 
+được R O 
+sung V B-VP 
+làm V B-VP 
+Hoàng thiếu tử N B-NP 
+, CH O 
+do E B-PP 
+Học V B-VP 
+phi N B-NP 
+Nguyễn Thị Chuyên Np B-NP 
+nuôi dưỡng V B-VP 
+. CH O 
+Nguyễn Văn Tường Np B-NP 
+và C O 
+Tôn Thất Thuyết phế N B-NP 
+Hiệp Hoà Np B-NP 
+cho E B-PP 
+người N B-NP 
+đón V B-VP 
+Ưng Đǎng lập V B-VP 
+lên V B-VP 
+làm V B-VP 
+vua N B-NP 
+ngày N B-NP 
+1/12/1883 M B-NP 
+niên hiệu N B-NP 
+là V B-VP 
+Kiến Phúc Np B-NP 
+, CH O 
+lúc N B-NP 
+đó P B-NP 
+mới R O 
+14 M B-NP 
+tuổi N B-NP 
+. CH O 

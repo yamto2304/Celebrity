@@ -1,0 +1,109 @@
+Lê Ngọa Triều Np B-NP 
+( CH O 
+1005 M B-NP 
+- CH O 
+1009 N B-NP 
+) CH O 
+Lê Long Đĩnh Np B-NP 
+cướp ngôi V B-VP 
+của E B-PP 
+anh Nc B-NP 
+là V B-VP 
+Lê Trung Tông Np B-NP 
+, CH O 
+lên ngôi N B-NP 
+hoàng đế V B-VP 
+lấy V B-VP 
+hiệu N B-NP 
+là C O 
+Đại Thắng Np B-NP 
+Minh Quang Np B-NP 
+Hiếu Np B-NP 
+Hoàng đế N B-NP 
+vẫn R O 
+đóng đô V B-VP 
+ở E B-PP 
+Hoa Lư Np B-NP 
+. CH O 
+Lê Long Đĩnh Np B-NP 
+đã R O 
+làm việc V B-VP 
+càn V B-VP 
+dỡ N B-NP 
+giết V B-VP 
+Vua N B-NP 
+cướp ngôi N B-NP 
+, CH O 
+thích V B-VP 
+dâm đãng V B-VP 
+, CH O 
+tàn bạo N B-NP 
+, CH O 
+róc V B-VP 
+mía N B-NP 
+trên E B-PP 
+đầu N B-NP 
+nhà sư N B-NP 
+... CH O 
+Do E B-PP 
+chơi bời N B-NP 
+trác táng A B-AP 
+quá R O 
+, CH O 
+nên C O 
+khi N B-NP 
+ra V B-VP 
+thiết V B-VP 
+triều N B-NP 
+phải V B-VP 
+nằm V B-VP 
+, CH O 
+tục N B-NP 
+gọi V B-VP 
+là C O 
+Lê Ngoạ Triều Np B-NP 
+. CH O 
+Lê Ngoạ Triều Np B-NP 
+làm V B-VP 
+vua N B-NP 
+được V B-VP 
+4 M B-NP 
+năm N B-NP 
+( CH O 
+1005 M B-NP 
+- CH O 
+1009 N B-NP 
+) CH O 
+thì C O 
+mất V B-VP 
+, CH O 
+thọ N B-NP 
+24 M B-NP 
+tuổi N B-NP 
+. Long Đĩnh V B-VP 
+mất V B-VP 
+, CH O 
+con N B-NP 
+tên N B-NP 
+là C O 
+Sạ Np B-NP 
+còn R O 
+bé A B-AP 
+, CH O 
+dưới E B-PP 
+sự N B-NP 
+đạo diễn N B-NP 
+của E B-PP 
+quan N B-NP 
+Chi Np B-NP 
+Hậu Np B-NP 
+Đào Np B-NP 
+Cam Mộc Np B-NP 
+, CH O 
+triều thần N B-NP 
+đã R O 
+tôn V B-VP 
+Lý Công Uẩn Np B-NP 
+lên ngôi V B-VP 
+Hoàng đế N B-NP 
+. CH O 

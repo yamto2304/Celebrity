@@ -1,0 +1,121 @@
+Ở E B-PP 
+Đàng Np B-NP 
+Trong Np I-NP 
+, CH O 
+trong E B-PP 
+những L B-NP 
+năm N B-NP 
+cuối N B-NP 
+đời N B-NP 
+, CH O 
+Chúa Np B-NP 
+Nguyễn Phúc Khoát Np I-NP 
+đâm ra V B-VP 
+say mê V B-VP 
+tửu sắc N B-NP 
+, CH O 
+không R O 
+còn V B-VP 
+quan tâm V B-VP 
+việc nước N B-NP 
+nữa R O 
+, CH O 
+giao V B-VP 
+hết V B-VP 
+mọi L B-NP 
+việc N B-NP 
+cho E B-PP 
+quyền thần N B-NP 
+Trương Phúc Loan Np B-NP 
+. CH O 
+Chính sự V B-VP 
+họ P B-NP 
+Nguyễn ngay V B-VP 
+từ E B-PP 
+thời N B-NP 
+Nguyễn Phúc Khoát Np B-NP 
+đã R O 
+gây V B-VP 
+những L B-NP 
+ảnh hưởng N B-NP 
+tiêu cực A B-AP 
+cho E B-PP 
+dân chúng N B-NP 
+. CH O 
+Hệ thống N B-NP 
+thuế khóa N B-NP 
+phức tạp A B-AP 
+, CH O 
+cồng kềnh N B-NP 
+, CH O 
+nặng nề A B-AP 
+, CH O 
+quan N B-NP 
+dưới E B-PP 
+lạm thu N B-NP 
+khiến V B-VP 
+dân N B-NP 
+phải V B-VP 
+nộp V B-VP 
+nhiều A B-AP 
+hơn A B-AP 
+quy định M B-NP 
+. CH O 
+Năm N B-NP 
+1765 M B-NP 
+, CH O 
+Vũ Vương Np B-NP 
+Nguyễn Phúc Khoát Np I-NP 
+chết V B-VP 
+, CH O 
+chính quyền N B-NP 
+chúa V B-VP 
+Nguyễn rơi V B-VP 
+vào E B-PP 
+tay N B-NP 
+quyền thần N B-NP 
+Trương Phúc Loan Np B-NP 
+. CH O 
+Loan Np B-NP 
+thao túng V B-VP 
+triều chính N B-NP 
+, CH O 
+tự xưng N B-NP 
+là C O 
+" CH O 
+Quốc Np B-NP 
+phó Z O 
+" CH O 
+, CH O 
+giết V B-VP 
+Nguyễn Phúc Luân Np B-NP 
+( CH O 
+cha N B-NP 
+Nguyễn Phúc Ánh Np B-NP 
+) CH O 
+và C O 
+lập V B-VP 
+Nguyễn Phúc Thuần Np B-NP 
+, CH O 
+lúc N B-NP 
+đó P B-NP 
+mới R O 
+12 M B-NP 
+tuổi N B-NP 
+lên ngôi M B-NP 
+, CH O 
+tức là X O 
+Định Np B-NP 
+vương V B-VP 
+. CH O 
+Trương Phúc Loan Np B-NP 
+trở thành V B-VP 
+quyền thần N B-NP 
+lấn lướt V B-VP 
+, CH O 
+mọi L B-NP 
+quyền hành N B-NP 
+đều R O 
+bị V B-VP 
+thao túng V B-VP 
+. CH O 

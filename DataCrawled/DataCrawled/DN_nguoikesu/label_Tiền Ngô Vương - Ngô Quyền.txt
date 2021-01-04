@@ -1,0 +1,71 @@
+Ngô Vương Np B-NP 
+( CH O 
+Ngô Quyền Np B-NP 
+939 M B-NP 
+- CH O 
+944 N B-NP 
+) CH O 
+: CH O 
+Ngô Quyền sinh V B-VP 
+ngày N B-NP 
+12 M B-NP 
+tháng N B-NP 
+3 M B-NP 
+năm N B-NP 
+Đinh Tỵ Np B-NP 
+( CH O 
+897 M B-NP 
+) CH O 
+ở E B-PP 
+Đường Lâm Np B-NP 
+( CH O 
+thuộc V B-VP 
+huyện N B-NP 
+Ba Vì Np I-NP 
+, CH O 
+tỉnh N B-NP 
+Hà Tây Np B-NP 
+ngày nay N B-NP 
+) CH O 
+, CH O 
+cha N B-NP 
+là V B-VP 
+Ngô Mân Np B-NP 
+, CH O 
+một M B-NP 
+hào trưởng N B-NP 
+có V B-VP 
+tài đức N B-NP 
+. CH O 
+Ngô Quyền Np B-NP 
+thông minh A B-AP 
+, CH O 
+khôi ngô N B-NP 
+, CH O 
+mắt N B-NP 
+sáng A B-AP 
+như C O 
+chớp N B-NP 
+, CH O 
+văn võ V B-VP 
+toàn tài N B-NP 
+, CH O 
+được V B-VP 
+Dương Đình Nghệ Np B-NP 
+tin yêu V B-VP 
+, CH O 
+gả V B-VP 
+con gái N B-NP 
+là V B-VP 
+Dương Thị Ngọc Np B-NP 
+và C O 
+giao V B-VP 
+cho E B-PP 
+Ngô Quyền Np B-NP 
+cai quản V B-VP 
+đất N B-NP 
+ái Châu N B-NP 
+( CH O 
+Thanh Hóa Np B-NP 
+) CH O 
+. CH O 

@@ -1,0 +1,88 @@
+Trần Nhân Tông Np B-NP 
+( CH O 
+1279 M B-NP 
+- CH O 
+1293 N B-NP 
+) CH O 
+Con trưởng N B-NP 
+Thánh Tông Np B-NP 
+, CH O 
+mẹ N B-NP 
+là V B-VP 
+Nguyên Np B-NP 
+Thánh Np B-NP 
+Thiên Cảm Np B-NP 
+Hoàng thái hậu V B-VP 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+11 M B-NP 
+tháng N B-NP 
+11 M B-NP 
+Mậu Ngọ Np B-NP 
+- CH O 
+1258 N B-NP 
+, CH O 
+ngày N B-NP 
+mồng N B-NP 
+1 M B-NP 
+tháng N B-NP 
+Giêng M B-NP 
+năm N B-NP 
+Kỷ Mão Np B-NP 
+- CH O 
+1279 N B-NP 
+lên ngôi V B-VP 
+Hoàng đế N B-NP 
+đổi V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Thiệu Bảo Np B-NP 
+. CH O 
+Vua Np B-NP 
+Trần Nhân Tông Np I-NP 
+là V B-VP 
+một M B-NP 
+vị Nc B-NP 
+vua N B-NP 
+nhân V B-VP 
+từ E B-PP 
+, CH O 
+hoà nhã N B-NP 
+, CH O 
+cố kết V B-VP 
+lòng dân N B-NP 
+, CH O 
+quyết đoán N B-NP 
+, CH O 
+hết lòng V B-VP 
+vì E B-PP 
+dân N B-NP 
+vì E B-PP 
+nước N B-NP 
+trong E B-PP 
+thời gian N B-NP 
+14 M B-NP 
+năm N B-NP 
+ở E B-PP 
+ngôi Nc B-NP 
+khi N B-NP 
+đất nước N B-NP 
+Đại Việt Np B-NP 
+ta P B-NP 
+trải V B-VP 
+qua V B-VP 
+hai M B-NP 
+cuộc N B-NP 
+kháng chiến N B-NP 
+chống V B-VP 
+quân N B-NP 
+xâm lược V B-VP 
+Nguyên Np B-NP 
+Mông Np I-NP 
+hùng mạnh V B-VP 
+nhất A B-AP 
+thế giới N B-NP 
+thời N B-NP 
+bấy giờ P B-NP 
+. CH O 

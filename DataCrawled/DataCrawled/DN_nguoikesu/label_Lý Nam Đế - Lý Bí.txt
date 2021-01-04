@@ -1,0 +1,232 @@
+Lý Bôn tức N B-NP 
+Lý Bí Np B-NP 
+, CH O 
+quê N B-NP 
+ở E B-PP 
+Long Hưng Np B-NP 
+( CH O 
+Thái Bình Np B-NP 
+) CH O 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+12 M B-NP 
+tháng N B-NP 
+9 M B-NP 
+năm N B-NP 
+Quý Np B-NP 
+Mùi Np B-NP 
+( CH O 
+17/10/503 M B-NP 
+) CH O 
+, CH O 
+là V B-VP 
+con N B-NP 
+hào trưởng N B-NP 
+Lý Toản Np B-NP 
+, CH O 
+mẹ N B-NP 
+là C O 
+Lê Thị Oánh Np B-NP 
+người N B-NP 
+Ái Châu Np B-NP 
+( CH O 
+Thanh Hoá Np B-NP 
+) CH O 
+, CH O 
+5 M B-NP 
+tuổi N B-NP 
+bố N B-NP 
+mất V B-VP 
+, CH O 
+7 M B-NP 
+tuổi N B-NP 
+mẹ N B-NP 
+mất V B-VP 
+, CH O 
+phải V B-VP 
+ở V B-VP 
+với E B-PP 
+chú Nc B-NP 
+ruột N B-NP 
+. Vị pháp V B-VP 
+tổ N B-NP 
+thiền sư V B-VP 
+thấy V B-VP 
+khôi ngô V B-VP 
+tuấn tú N B-NP 
+xin V B-VP 
+làm V B-VP 
+con nuôi N B-NP 
+đưa V B-VP 
+về E B-PP 
+chùa N B-NP 
+Linh Np B-NP 
+Bảo Np B-NP 
+nuôi V B-VP 
+dạy V B-VP 
+. CH O 
+Hơn A B-AP 
+mười M B-NP 
+năm N B-NP 
+đèn sách M B-NP 
+chuyên cần N B-NP 
+, CH O 
+lại R O 
+được V B-VP 
+vị Nc B-NP 
+thiền sư N B-NP 
+hết lòng V B-VP 
+dạy bảo N B-NP 
+, CH O 
+Lý Bí Np B-NP 
+trở thành V B-VP 
+người N B-NP 
+học V B-VP 
+rộng A B-AP 
+hiểu V B-VP 
+sâu A B-AP 
+, CH O 
+ít A B-AP 
+người N B-NP 
+sánh V B-VP 
+kịp A B-AP 
+. CH O 
+Nhờ V B-VP 
+có V B-VP 
+tài N B-NP 
+kiêm V B-VP 
+văn võ N B-NP 
+, CH O 
+Lý Bí Np B-NP 
+được V B-VP 
+tôn N B-NP 
+làm V B-VP 
+thủ lĩnh N B-NP 
+địa phương N B-NP 
+. CH O 
+Thấy V B-VP 
+nhân dân N B-NP 
+ta P B-NP 
+vô cùng R O 
+thống khổ V B-VP 
+dưới E B-PP 
+sự N B-NP 
+đô hộ V B-VP 
+tàn ác N B-NP 
+của E B-PP 
+Tiêu Np B-NP 
+Tư Np I-NP 
+. CH O 
+Tháng N B-NP 
+1 M B-NP 
+năm N B-NP 
+542 M B-NP 
+Lý Bí Np B-NP 
+lãnh đạo nhân dân V B-VP 
+khởi binh A B-AP 
+tấn công V B-VP 
+quân Lương N B-NP 
+. CH O 
+Thứ sử N B-NP 
+Tiêu Np B-NP 
+Tư Np B-NP 
+khiếp sợ V B-VP 
+bỏ V B-VP 
+chạy V B-VP 
+về V B-VP 
+nước N B-NP 
+. CH O 
+Chưa R O 
+đầy A B-AP 
+3 M B-NP 
+tháng N B-NP 
+Lý Bí Np B-NP 
+đã R O 
+chiếm V B-VP 
+được R O 
+hầu hết X O 
+các L B-NP 
+quận N B-NP 
+, CH O 
+huyện N B-NP 
+và C O 
+thành Long N B-NP 
+Biên Np B-NP 
+. Nhà Lương V B-VP 
+sai A B-AP 
+tướng N B-NP 
+đem V B-VP 
+quân N B-NP 
+sang V B-VP 
+phản công V B-VP 
+chiếm V B-VP 
+lại V B-VP 
+, CH O 
+Lý Bí Np B-NP 
+đã R O 
+cho V B-VP 
+quân N B-NP 
+mai phục N B-NP 
+đánh tan V B-VP 
+bọn Nc B-NP 
+xâm lược V B-VP 
+. CH O 
+Đầu N B-NP 
+năm N B-NP 
+543 M B-NP 
+, CH O 
+vua N B-NP 
+Lương Np B-NP 
+lại R O 
+huy động binh mã V B-VP 
+sang V B-VP 
+xâm lược V B-VP 
+nước N B-NP 
+ta P B-NP 
+một M B-NP 
+lần N B-NP 
+nữa R O 
+. CH O 
+Lý Bí Np B-NP 
+chủ động A B-AP 
+đem V B-VP 
+quân N B-NP 
+đón V B-VP 
+đánh V B-VP 
+giặc N B-NP 
+ở E B-PP 
+bán đảo N B-NP 
+Hợp Phố Np B-NP 
+, CH O 
+quân Lương N B-NP 
+bị V B-VP 
+tiêu diệt V B-VP 
+gần A B-AP 
+hết V B-VP 
+. CH O 
+Tháng Hai Np B-NP 
+năm N B-NP 
+Giáp Tý Np B-NP 
+- CH O 
+544 N B-NP 
+, CH O 
+Lý Bí Np B-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+Hoàng đế N B-NP 
+lấy V B-VP 
+hiệu N B-NP 
+là V B-VP 
+Lý Nam Đế Np B-NP 
+, CH O 
+đặt V B-VP 
+tên N B-NP 
+nước N B-NP 
+là V B-VP 
+Vạn Xuân Np B-NP 
+, CH O 
+đóng đô N B-NP 
+ở E B-PP 
+Long Biên Np B-NP 
+. CH O 

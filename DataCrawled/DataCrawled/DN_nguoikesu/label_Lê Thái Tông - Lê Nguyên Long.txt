@@ -1,0 +1,181 @@
+Lê Thái Tông Np B-NP 
+( CH O 
+1433 M B-NP 
+- CH O 
+1442 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Nguyên Long Np B-NP 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+20 M B-NP 
+tháng N B-NP 
+11 M B-NP 
+năm N B-NP 
+Quý Mão Np B-NP 
+- CH O 
+1423 N B-NP 
+, CH O 
+là V B-VP 
+con N B-NP 
+thứ N B-NP 
+hai M B-NP 
+của E B-PP 
+Lê Lợi Np B-NP 
+và C O 
+bà Nc B-NP 
+Phạm Thị Ngọc Trần Np B-NP 
+, CH O 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+ngày N B-NP 
+8 M B-NP 
+tháng N B-NP 
+9 M B-NP 
+năm N B-NP 
+Qúy Sửu Np B-NP 
+- CH O 
+1433 N B-NP 
+, CH O 
+lấy V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Thiệu Bình Np B-NP 
+. CH O 
+" CH O 
+Đại Việt Np B-NP 
+sử ký V B-VP 
+toàn thư N B-NP 
+" CH O 
+ghi V B-VP 
+: CH O 
+" CH O 
+Vua N B-NP 
+thiên tư V B-VP 
+sáng suốt A B-AP 
+nối V B-VP 
+vận N B-NP 
+thái bình V B-VP 
+: CH O 
+bên N B-NP 
+trong N B-NP 
+ức chế V B-VP 
+quyền thần N B-NP 
+, CH O 
+bên N B-NP 
+ngoài N B-NP 
+đánh dẹp N B-NP 
+Di địch N B-NP 
+. Trọng đạo V B-VP 
+sùng N B-NP 
+Nho Np B-NP 
+, CH O 
+mở V B-VP 
+khoa thi N B-NP 
+chọn V B-VP 
+hiền sĩ N B-NP 
+, CH O 
+xử V B-VP 
+tù N B-NP 
+, CH O 
+xét V B-VP 
+án N B-NP 
+phần nhiều N B-NP 
+tha thứ V B-VP 
+khoan hồng N B-NP 
+. CH O 
+Cũng R O 
+là V B-VP 
+bậc N B-NP 
+vua N B-NP 
+tài giỏi N B-NP 
+nối V B-VP 
+giữ V B-VP 
+cơ đồ N B-NP 
+. Song N B-NP 
+đam mê V B-VP 
+tửu sắc N B-NP 
+, CH O 
+đến nỗi X O 
+thình lình V B-VP 
+băng N B-NP 
+ở E B-PP 
+bên N B-NP 
+ngoài N B-NP 
+cũng R O 
+là V B-VP 
+tự P B-NP 
+mình P B-NP 
+chuốc V B-VP 
+lấy V B-VP 
+hoạ N B-NP 
+... CH O 
+" CH O 
+Lê Thái Tông Np B-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+mới R O 
+11 M B-NP 
+tuổi N B-NP 
+, CH O 
+còn C O 
+quá R O 
+trẻ A B-AP 
+lại R O 
+phải V B-VP 
+đối phó V B-VP 
+với E B-PP 
+tình hình N B-NP 
+triều đình N B-NP 
+khá R O 
+phức tạp A B-AP 
+. CH O 
+Mâu thuẫn N B-NP 
+và C O 
+chia rẽ V B-VP 
+giữa E B-PP 
+hai M B-NP 
+lực lượng N B-NP 
+: CH O 
+một M B-NP 
+bên N B-NP 
+là V B-VP 
+các L B-NP 
+công thần N B-NP 
+khai quốc N B-NP 
+, CH O 
+đứng V B-VP 
+đầu N B-NP 
+là V B-VP 
+Đại Np B-NP 
+tư đồ V B-VP 
+Lê Sát Np B-NP 
+, CH O 
+Lê Ngân Np B-NP 
+; CH O 
+một M B-NP 
+bên N B-NP 
+là V B-VP 
+những L B-NP 
+quan lại N B-NP 
+khoa bảng A B-AP 
+. CH O 
+Mặc dù C O 
+vậy P B-NP 
+Thái Tông Np B-NP 
+vẫn R O 
+đủ A B-AP 
+bản lĩnh N B-NP 
+để E B-PP 
+không R O 
+cho V B-VP 
+các L B-NP 
+đại thần N B-NP 
+hoàn toàn A B-AP 
+thao túng V B-VP 
+. CH O 

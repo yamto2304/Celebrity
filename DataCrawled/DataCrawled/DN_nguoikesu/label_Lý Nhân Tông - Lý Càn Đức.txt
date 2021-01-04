@@ -1,0 +1,123 @@
+Lý Nhân Tông Np B-NP 
+( CH O 
+1072 N B-NP 
+– CH O 
+1128 N B-NP 
+) CH O 
+Thái tử N B-NP 
+Càn Np B-NP 
+Đức Np B-NP 
+là V B-VP 
+con trưởng N B-NP 
+của E B-PP 
+Lý Thánh Tông Np B-NP 
+, CH O 
+mẹ N B-NP 
+là V B-VP 
+bà Nc B-NP 
+Nguyên Np B-NP 
+phi N B-NP 
+Ỷ Lan Np B-NP 
+, CH O 
+sau N B-NP 
+là C O 
+Thái hậu N B-NP 
+Linh Nhân Np B-NP 
+, CH O 
+Thái tử sinh V B-VP 
+ngày N B-NP 
+25 M B-NP 
+tháng N B-NP 
+Giêng M B-NP 
+năm N B-NP 
+Bính Ngọ Np B-NP 
+( CH O 
+1066 M B-NP 
+) CH O 
+, CH O 
+khi N B-NP 
+Lý Thánh Tông Np B-NP 
+mất V B-VP 
+, CH O 
+Thái tử N B-NP 
+lên ngôi N B-NP 
+Hoàng đế N B-NP 
+( CH O 
+1072 M B-NP 
+) CH O 
+lúc N B-NP 
+mới R O 
+6 M B-NP 
+tuổi N B-NP 
+, CH O 
+Hoàng Thái hậu N B-NP 
+Ỷ Lan Np B-NP 
+phải V B-VP 
+buông V B-VP 
+rèm V B-VP 
+nhiếp chính N B-NP 
+. CH O 
+Năm N B-NP 
+1075 M B-NP 
+, CH O 
+thời N B-NP 
+Tống Thần Tông Np B-NP 
+, CH O 
+Vương Np B-NP 
+An Thạch Np I-NP 
+làm V B-VP 
+Tể tướng N B-NP 
+âm mưu N B-NP 
+xâm lược V B-VP 
+nước N B-NP 
+ta P B-NP 
+, CH O 
+Thái Np B-NP 
+úy N B-NP 
+Lý Np B-NP 
+Thường Kiệt Np B-NP 
+biết V B-VP 
+rõ A B-AP 
+âm mưu N B-NP 
+xâm lược V B-VP 
+của E B-PP 
+nhà N B-NP 
+Tống Np B-NP 
+nên C O 
+đã R O 
+đánh phá V B-VP 
+các L B-NP 
+căn cứ N B-NP 
+tập kết V B-VP 
+lương thực N B-NP 
+, CH O 
+vũ khí N B-NP 
+của E B-PP 
+chúng P B-NP 
+ở E B-PP 
+Châu Khâm Np B-NP 
+, CH O 
+Châu Liêm Np B-NP 
+, CH O 
+Châu Ung Np B-NP 
+( CH O 
+Quảng Đông Np B-NP 
+, CH O 
+Quảng Tây Np B-NP 
+) CH O 
+rồi C O 
+chủ động V B-VP 
+rút V B-VP 
+quân N B-NP 
+về V B-VP 
+nước N B-NP 
+lập V B-VP 
+phòng tuyến N B-NP 
+ở E B-PP 
+bờ N B-NP 
+nam N B-NP 
+sông Cầu N B-NP 
+để E B-PP 
+chặn V B-VP 
+giặc N B-NP 
+. CH O 

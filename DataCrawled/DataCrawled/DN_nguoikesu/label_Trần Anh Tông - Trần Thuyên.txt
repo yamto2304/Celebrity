@@ -1,0 +1,65 @@
+Trần Anh Tông Np B-NP 
+( CH O 
+1293 M B-NP 
+- CH O 
+1314 N B-NP 
+) CH O 
+Tên huý V B-VP 
+là V B-VP 
+Thuyên Np B-NP 
+, CH O 
+con trưởng N B-NP 
+của E B-PP 
+Trần Nhân Tông Np B-NP 
+và C O 
+mẹ N B-NP 
+là V B-VP 
+Khâm Np B-NP 
+Từ E B-PP 
+Bảo Khánh hoàng thái hậu N B-NP 
+, CH O 
+có V B-VP 
+hai M B-NP 
+em N B-NP 
+là V B-VP 
+Huệ Võ Np B-NP 
+Vương Quốc Np B-NP 
+Chuẩn Np B-NP 
+và C O 
+em gái N B-NP 
+là V B-VP 
+Huyền Trân Np B-NP 
+công chúa V B-VP 
+. CH O 
+Trần Anh Tông Np B-NP 
+khéo A B-AP 
+biết V B-VP 
+kế thừa V B-VP 
+sự nghiệp N B-NP 
+của E B-PP 
+tổ tiên N B-NP 
+, CH O 
+cho nên C O 
+thời cuộc V B-VP 
+đi V B-VP 
+đến E B-PP 
+thái bình N B-NP 
+, CH O 
+chính trị N B-NP 
+trở nên V B-VP 
+tốt đẹp A B-AP 
+, CH O 
+văn vật V B-VP 
+chế độ N B-NP 
+ngày càng X O 
+thịnh vượng A B-AP 
+, CH O 
+cũng R O 
+là V B-VP 
+một M B-NP 
+vua N B-NP 
+tốt A B-AP 
+của E B-PP 
+triều N B-NP 
+Trần Np B-NP 
+. CH O 

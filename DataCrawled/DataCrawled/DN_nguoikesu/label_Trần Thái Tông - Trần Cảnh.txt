@@ -1,0 +1,185 @@
+Trần Thái Tông Np B-NP 
+( CH O 
+1225 M B-NP 
+- CH O 
+1258 N B-NP 
+) CH O 
+Sinh V B-VP 
+ngày N B-NP 
+16 M B-NP 
+tháng N B-NP 
+6 M B-NP 
+năm N B-NP 
+Mậu Dần Np B-NP 
+- CH O 
+1218 N B-NP 
+, CH O 
+con thứ N B-NP 
+của E B-PP 
+ông Nc B-NP 
+Trần Thừa Np B-NP 
+và C O 
+bà Nc B-NP 
+họ P B-NP 
+Lê . V B-VP 
+Tổ tiên N B-NP 
+Nhà Trần Np B-NP 
+là V B-VP 
+Trần Kính Np B-NP 
+vốn R O 
+gốc N B-NP 
+ở E B-PP 
+Đông Triều Np B-NP 
+( CH O 
+Quảng Ninh Np B-NP 
+) CH O 
+chuyên A B-AP 
+nghề N B-NP 
+đánh cá V B-VP 
+, CH O 
+đến V B-VP 
+ở E B-PP 
+hương N B-NP 
+Tức Mạc Np B-NP 
+, CH O 
+phủ N B-NP 
+Thiên Trường Np B-NP 
+( CH O 
+nay P B-NP 
+là V B-VP 
+xã N B-NP 
+Tức Mặc Np I-NP 
+, CH O 
+huyện N B-NP 
+Mỹ Lộc Np I-NP 
+, CH O 
+tỉnh N B-NP 
+Nam Định Np B-NP 
+) CH O 
+, CH O 
+sinh V B-VP 
+ra V B-VP 
+Trần Hấp Np B-NP 
+, CH O 
+Trần Hấp Np B-NP 
+sinh V B-VP 
+ra V B-VP 
+Trần Lý Np B-NP 
+. CH O 
+Trần Lý sinh V B-VP 
+ra V B-VP 
+Trần Thừa Np B-NP 
+, CH O 
+Trần Tự Khánh Np B-NP 
+và C O 
+Trần Thị Dung Np B-NP 
+. CH O 
+Trần Thủ Độ Np B-NP 
+là C O 
+cháu Nc B-NP 
+họ P B-NP 
+, CH O 
+được V B-VP 
+Trần Lý Np B-NP 
+nuôi nấng V B-VP 
+từ E B-PP 
+nhỏ A B-AP 
+coi V B-VP 
+như C O 
+con N B-NP 
+. CH O 
+Trần Thừa Np B-NP 
+sinh V B-VP 
+ra V B-VP 
+Trần Liễu Np B-NP 
+và C O 
+Trần Cảnh Np B-NP 
+là V B-VP 
+con trai N B-NP 
+, CH O 
+sau N B-NP 
+có V B-VP 
+mối N B-NP 
+tình N B-NP 
+với E B-PP 
+cô Nc B-NP 
+thôn nữ N B-NP 
+ở E B-PP 
+thôn N B-NP 
+Bà Np B-NP 
+Liệt Np B-NP 
+tên N B-NP 
+là V B-VP 
+Tần Np B-NP 
+, CH O 
+sinh V B-VP 
+ra V B-VP 
+Trần Bá Liệt Np B-NP 
+. CH O 
+Dưới E B-PP 
+sự N B-NP 
+đạo diễn N B-NP 
+của E B-PP 
+Trần Thủ Độ Np B-NP 
+, CH O 
+lúc N B-NP 
+đó P B-NP 
+là V B-VP 
+Điện Tiền Np B-NP 
+chỉ huy V B-VP 
+sứ N B-NP 
+, CH O 
+ngày N B-NP 
+21 M B-NP 
+tháng N B-NP 
+10 M B-NP 
+năm N B-NP 
+Ất Dậu Np B-NP 
+- CH O 
+1225 N B-NP 
+, CH O 
+Lý Chiêu Np B-NP 
+Hoàng Np B-NP 
+xuống V B-VP 
+chiếu N B-NP 
+nhường ngôi V B-VP 
+cho E B-PP 
+chồng N B-NP 
+là V B-VP 
+Trần Cảnh Np B-NP 
+. CH O 
+Ngày N B-NP 
+11 M B-NP 
+tháng N B-NP 
+12 M B-NP 
+năm N B-NP 
+Ất Dậu Np B-NP 
+- CH O 
+1225 N B-NP 
+, CH O 
+Trần Cảnh Np B-NP 
+chính thức A B-AP 
+lên ngôi V B-VP 
+Hoàng đế N B-NP 
+, CH O 
+đổi V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Kiến Trung Np B-NP 
+, CH O 
+phong N B-NP 
+Lý Chiêu Hoàng Np B-NP 
+làm V B-VP 
+Chiêu Thánh Np B-NP 
+Hoàng hậu V B-VP 
+, CH O 
+phong Trần Thủ Độ N B-NP 
+là V B-VP 
+Thái sư N B-NP 
+thống V B-VP 
+quốc N B-NP 
+hành quân vụ V B-VP 
+chinh N B-NP 
+thảo V B-VP 
+sự N B-NP 
+. CH O 

@@ -1,0 +1,169 @@
+Đinh Np B-NP 
+Tiên Hoàng Np I-NP 
+( CH O 
+Đinh Bộ Lĩnh Ny B-NP 
+968 M B-NP 
+- CH O 
+979 N B-NP 
+) CH O 
+Đinh Bộ Lĩnh Np B-NP 
+người N B-NP 
+động V B-VP 
+Hoa Lư Np B-NP 
+, CH O 
+châu N B-NP 
+Đại Hoàng Np I-NP 
+( CH O 
+Hoa Lư Np B-NP 
+, CH O 
+Ninh Bình Np B-NP 
+) CH O 
+, CH O 
+con trai N B-NP 
+ông Nc B-NP 
+Đinh Công Trứ Np B-NP 
+, CH O 
+một M B-NP 
+nha N B-NP 
+tướng N B-NP 
+của E B-PP 
+Dương Đình Nghệ Np B-NP 
+, CH O 
+giữ V B-VP 
+chức N B-NP 
+thứ sử N B-NP 
+Châu Hoan Np B-NP 
+. CH O 
+Cha N B-NP 
+mất V B-VP 
+sớm A B-AP 
+, CH O 
+Đinh Bộ Lĩnh Np B-NP 
+theo V B-VP 
+mẹ N B-NP 
+về V B-VP 
+quê N B-NP 
+ở V B-VP 
+, CH O 
+thường R O 
+đi V B-VP 
+chăn V B-VP 
+trâu N B-NP 
+, CH O 
+bắt V B-VP 
+lũ Nc B-NP 
+trẻ N B-NP 
+khoanh tay V B-VP 
+làm V B-VP 
+kiệu N B-NP 
+để E B-PP 
+ngồi V B-VP 
+cho V B-VP 
+chúng P B-NP 
+rước V B-VP 
+và C O 
+lấy V B-VP 
+bông lau N B-NP 
+làm V B-VP 
+cờ N B-NP 
+bày V B-VP 
+trận N B-NP 
+giả A B-AP 
+đánh V B-VP 
+nhau N B-NP 
+. CH O 
+Lớn lên N B-NP 
+rất R O 
+thông minh A B-AP 
+, CH O 
+có V B-VP 
+khí phách N B-NP 
+và C O 
+có V B-VP 
+tài N B-NP 
+thao lược N B-NP 
+. CH O 
+Thấy V B-VP 
+nhân dân N B-NP 
+khổ sở A B-AP 
+vì E B-PP 
+loạn V B-VP 
+12 M B-NP 
+sứ quân N B-NP 
+, CH O 
+Ông Nc B-NP 
+dựng V B-VP 
+cờ nghĩa V B-VP 
+, CH O 
+mong V B-VP 
+lập nghiệp V B-VP 
+lớn A B-AP 
+. CH O 
+Đinh Bộ Lĩnh Np B-NP 
+theo V B-VP 
+về E B-PP 
+dưới E B-PP 
+cờ N B-NP 
+của E B-PP 
+Trần Minh Công Np B-NP 
+( CH O 
+Trần Lãm Np B-NP 
+) CH O 
+ở E B-PP 
+Bố Np B-NP 
+Hải Khẩu Np I-NP 
+, CH O 
+được V B-VP 
+Trần Lãm nhận V B-VP 
+làm V B-VP 
+con nuôi N B-NP 
+. CH O 
+Khi N B-NP 
+Trần Lãm mất N B-NP 
+, CH O 
+Đinh Bộ Lĩnh Np B-NP 
+thay V B-VP 
+quyền N B-NP 
+đem V B-VP 
+quân N B-NP 
+về E B-PP 
+giữ V B-VP 
+Hoa Lư Np B-NP 
+, CH O 
+chiêu mộ V B-VP 
+hào kiệt N B-NP 
+để E B-PP 
+dẹp loạn V B-VP 
+12 M B-NP 
+sứ quân N B-NP 
+. CH O 
+Năm Np B-NP 
+Mậu Thìn Np B-NP 
+( CH O 
+968 M B-NP 
+) CH O 
+sau N B-NP 
+khi N B-NP 
+dẹp V B-VP 
+xong R O 
+loạn V B-VP 
+12 M B-NP 
+sứ quân N B-NP 
+, CH O 
+Đinh Bộ Lĩnh Np B-NP 
+lên ngôi V B-VP 
+Hoàng đế N B-NP 
+lấy V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Tiên Hoàng đế N B-NP 
+, CH O 
+đặt V B-VP 
+quốc hiệu N B-NP 
+là V B-VP 
+Đại Cồ Việt Np B-NP 
+, CH O 
+đóng đô N B-NP 
+ở E B-PP 
+Hoa Lư Np B-NP 
+. CH O 

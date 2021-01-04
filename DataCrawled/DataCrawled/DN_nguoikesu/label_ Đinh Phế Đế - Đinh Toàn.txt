@@ -1,0 +1,76 @@
+Đinh Np B-NP 
+Phế Đế Np I-NP 
+( CH O 
+Đinh Toàn Ny B-NP 
+979 M B-NP 
+- CH O 
+980 N B-NP 
+) CH O 
+Đinh Toàn Np B-NP 
+mới R O 
+lên V B-VP 
+6 M B-NP 
+tuổi N B-NP 
+, CH O 
+được V B-VP 
+triều thần V B-VP 
+đưa V B-VP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+. Nhân V B-VP 
+cơ hội N B-NP 
+đó P B-NP 
+nhà N B-NP 
+Tống Np B-NP 
+cho E B-PP 
+quân N B-NP 
+sang V B-VP 
+xâm lược V B-VP 
+nước N B-NP 
+ta P B-NP 
+. CH O 
+Vì E B-PP 
+lợi ích N B-NP 
+của E B-PP 
+dân tộc N B-NP 
+, CH O 
+Thái hậu N B-NP 
+Dương Vân Nga Np B-NP 
+( CH O 
+vợ N B-NP 
+của E B-PP 
+Đinh Np B-NP 
+Tiên Hoàng Np I-NP 
+, CH O 
+mẹ N B-NP 
+đẻ V B-VP 
+của E B-PP 
+Đinh Toàn Np B-NP 
+) CH O 
+, CH O 
+thể V B-VP 
+theo V B-VP 
+nguyện vọng N B-NP 
+các L B-NP 
+tướng sĩ N B-NP 
+, CH O 
+đã R O 
+trao V B-VP 
+áo N B-NP 
+" CH O 
+Long Cổn Np B-NP 
+" CH O 
+( CH O 
+biểu tượng N B-NP 
+của E B-PP 
+ngôi vua N B-NP 
+) CH O 
+cho E B-PP 
+Thập đạo V B-VP 
+Tướng quân N B-NP 
+Lê Hoàn Np B-NP 
+, CH O 
+tức là X O 
+Lê Đại Hành Np B-NP 
+. CH O 

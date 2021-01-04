@@ -1,0 +1,39 @@
+Năm N B-NP 
+965 M B-NP 
+, CH O 
+Nam Np B-NP 
+Tấn Vương Np B-NP 
+Ngô Xương Văn Np B-NP 
+bị V B-VP 
+bắn V B-VP 
+chết V B-VP 
+trong E B-PP 
+một M B-NP 
+trận N B-NP 
+giao chiến N B-NP 
+ở E B-PP 
+Thái Bình Np B-NP 
+, CH O 
+con Nc B-NP 
+Thiên Sách Vương Np B-NP 
+là V B-VP 
+Ngô Xương Xí Np B-NP 
+nối nghiệp V B-VP 
+làm V B-VP 
+vua N B-NP 
+, CH O 
+thế lực N B-NP 
+ngày càng X O 
+yếu kém V B-VP 
+phải V B-VP 
+lui V B-VP 
+về E B-PP 
+giữ V B-VP 
+đất N B-NP 
+Bình Kiều Np B-NP 
+, CH O 
+từ E B-PP 
+966 N B-NP 
+hình thành V B-VP 
+12 M B-NP 
+sứ quân N B-NP 

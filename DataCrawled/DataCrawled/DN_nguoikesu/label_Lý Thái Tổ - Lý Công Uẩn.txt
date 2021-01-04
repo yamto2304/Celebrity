@@ -1,0 +1,148 @@
+Lý Np B-NP 
+Thái Tổ Np I-NP 
+( CH O 
+1010 N B-NP 
+– CH O 
+1028 N B-NP 
+) CH O 
+Lý Công Uẩn Np B-NP 
+người N B-NP 
+làng N B-NP 
+Cổ Np B-NP 
+Pháp Np B-NP 
+( CH O 
+Từ Sơn Np B-NP 
+, CH O 
+Bắc Ninh Np B-NP 
+) CH O 
+, CH O 
+mẹ N B-NP 
+họ P B-NP 
+Phạm Np B-NP 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+12 M B-NP 
+tháng N B-NP 
+2 M B-NP 
+năm N B-NP 
+Giáp Tuất Np B-NP 
+( CH O 
+974 M B-NP 
+) CH O 
+, CH O 
+mẹ N B-NP 
+chết V B-VP 
+khi N B-NP 
+mới R O 
+sinh V B-VP 
+, CH O 
+thiền sư N B-NP 
+Lý Khánh Văn nhận V B-VP 
+làm V B-VP 
+con nuôi N B-NP 
+, CH O 
+Lý Công Uẩn Np B-NP 
+thông minh A B-AP 
+và C O 
+có V B-VP 
+chí khí N B-NP 
+khác A B-AP 
+người N B-NP 
+ngay T O 
+từ E B-PP 
+nhỏ A B-AP 
+. CH O 
+Nhờ V B-VP 
+sự N B-NP 
+nuôi V B-VP 
+dạy V B-VP 
+của E B-PP 
+nhà sư N B-NP 
+Lý Khánh Văn Np B-NP 
+và C O 
+Lý Vạn Hạnh Np B-NP 
+, CH O 
+Lý Công Uẩn Np B-NP 
+trở thành V B-VP 
+người N B-NP 
+xuất chúng V B-VP 
+, CH O 
+văn võ V B-VP 
+kiêm toàn N B-NP 
+, CH O 
+làm V B-VP 
+đến E B-PP 
+chức Điện V B-VP 
+tiền N B-NP 
+chỉ huy V B-VP 
+sứ N B-NP 
+, CH O 
+khi N B-NP 
+Lê Ngọa Triều Np B-NP 
+mất V B-VP 
+, CH O 
+triều thần N B-NP 
+tôn N B-NP 
+Lý Công Uẩn Np B-NP 
+lên ngôi V B-VP 
+Hoàng đế N B-NP 
+, CH O 
+niên hiệu N B-NP 
+Thuận Thiên Np B-NP 
+, CH O 
+vẫn R O 
+lấy V B-VP 
+Quốc hiệu N B-NP 
+là V B-VP 
+Đại Cồ Việt Np B-NP 
+, CH O 
+đóng đô V B-VP 
+tại E B-PP 
+Hoa Lư Np B-NP 
+. CH O 
+Tháng N B-NP 
+7 M B-NP 
+năm N B-NP 
+1010 M B-NP 
+, CH O 
+vua N B-NP 
+Lý Np B-NP 
+Thái Tổ Np I-NP 
+cho E B-PP 
+dời V B-VP 
+đô N B-NP 
+về V B-VP 
+thành V B-VP 
+Đại La Np B-NP 
+, CH O 
+một M B-NP 
+buổi N B-NP 
+sáng N B-NP 
+đẹp A B-AP 
+trời T O 
+, CH O 
+thuyền N B-NP 
+vừa R O 
+cập V B-VP 
+bến N B-NP 
+, CH O 
+Nhà Vua Np B-NP 
+thấy V B-VP 
+Rồng Np B-NP 
+vàng N B-NP 
+bay V B-VP 
+lên V B-VP 
+, CH O 
+do đó C O 
+đặt V B-VP 
+tên N B-NP 
+là C O 
+Kinh đô N B-NP 
+Thăng Long Np B-NP 
+( CH O 
+tức là X O 
+Hà Nội Np B-NP 
+ngày nay N B-NP 
+) CH O 
+. CH O 

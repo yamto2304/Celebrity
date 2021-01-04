@@ -1,0 +1,87 @@
+Lý Thái Tông Np B-NP 
+( CH O 
+1028 N B-NP 
+– CH O 
+1054 N B-NP 
+) CH O 
+Vua Np B-NP 
+Lý Np I-NP 
+Thái Tổ sinh V B-VP 
+các L B-NP 
+hoàng tử N B-NP 
+: CH O 
+Thái tử N B-NP 
+Phật Mã Np B-NP 
+, CH O 
+Dực Np B-NP 
+Thánh Vương Np I-NP 
+, CH O 
+Khai Quốc Vương Np B-NP 
+Bồ Np I-NP 
+, CH O 
+Đông Np B-NP 
+Chính Np B-NP 
+Vương Lực Np B-NP 
+, CH O 
+Võ Đức Vương Np B-NP 
+Hoàng Np I-NP 
+. CH O 
+Khi N B-NP 
+Vua Np B-NP 
+Thái Tổ Np B-NP 
+vừa R O 
+mất V B-VP 
+, CH O 
+chưa R O 
+kịp A B-AP 
+làm V B-VP 
+lễ tang N B-NP 
+, CH O 
+các L B-NP 
+hoàng tử N B-NP 
+Võ Đức Vương Np B-NP 
+, CH O 
+Dực Np B-NP 
+Thánh Vương Np I-NP 
+, CH O 
+Đông Np B-NP 
+Chính Np B-NP 
+Vương Np B-NP 
+đem V B-VP 
+quân N B-NP 
+vây V B-VP 
+Hoàng thành N B-NP 
+để E B-PP 
+tranh V B-VP 
+ngôi vua V B-VP 
+với E B-PP 
+Thái tử N B-NP 
+, CH O 
+nhờ V B-VP 
+có V B-VP 
+Lê Phụng Hiểu Np B-NP 
+trung dũng V B-VP 
+xông V B-VP 
+ra V B-VP 
+chém N B-NP 
+chết V B-VP 
+Võ Đức Vương Np B-NP 
+, CH O 
+hai M B-NP 
+hoàng tử N B-NP 
+kia P B-NP 
+bỏ V B-VP 
+chạy V B-VP 
+. CH O 
+Triều thần V B-VP 
+cùng C O 
+Lê Phụng Hiểu Np B-NP 
+phò V B-VP 
+Thái tử N B-NP 
+Phật Mã Np B-NP 
+lên ngôi V B-VP 
+Hoàng đế N B-NP 
+, CH O 
+niên hiệu N B-NP 
+Lý Thái Tông Np B-NP 
+. CH O 

@@ -1,0 +1,89 @@
+Khúc Np B-NP 
+Thừa Dụ Np B-NP 
+( CH O 
+905 M B-NP 
+- CH O 
+907 N B-NP 
+) CH O 
+quê N B-NP 
+ở E B-PP 
+Cúc Bồ Np B-NP 
+( CH O 
+Ninh Thanh Np B-NP 
+, CH O 
+Hải Dương Np B-NP 
+) CH O 
+, CH O 
+vốn R O 
+là V B-VP 
+một M B-NP 
+hào phú N B-NP 
+, CH O 
+tính V B-VP 
+khoan hoà N B-NP 
+, CH O 
+được V B-VP 
+nhân dân N B-NP 
+kính phục V B-VP 
+. CH O 
+Thấy V B-VP 
+nhân dân N B-NP 
+ta P B-NP 
+vô cùng R O 
+thống khổ V B-VP 
+dưới E B-PP 
+ách N B-NP 
+đô hộ N B-NP 
+của E B-PP 
+nhà N B-NP 
+Đường Np B-NP 
+, CH O 
+ông Nc B-NP 
+khởi binh V B-VP 
+tiến V B-VP 
+công thành N B-NP 
+Tống Bình Np B-NP 
+( CH O 
+Hà Nội Np B-NP 
+) CH O 
+, CH O 
+đuổi V B-VP 
+giặc N B-NP 
+về V B-VP 
+nước N B-NP 
+tự xưng N B-NP 
+là V B-VP 
+Tiết độ N B-NP 
+sứ V B-VP 
+. Thế N B-NP 
+cùng A B-AP 
+, CH O 
+nhà N B-NP 
+Đường Np B-NP 
+buộc V B-VP 
+phải V B-VP 
+công nhận V B-VP 
+Khúc Np B-NP 
+Thừa Dụ Np I-NP 
+là V B-VP 
+người N B-NP 
+đứng V B-VP 
+đầu N B-NP 
+đất N B-NP 
+Việt Np B-NP 
+. CH O 
+Ngày N B-NP 
+23/7/907 M B-NP 
+, CH O 
+Khúc Np B-NP 
+Thừa Dụ Np I-NP 
+mất V B-VP 
+, CH O 
+giao V B-VP 
+quyền N B-NP 
+lại V B-VP 
+cho E B-PP 
+con N B-NP 
+là V B-VP 
+Khúc Hạo Np B-NP 
+. CH O 

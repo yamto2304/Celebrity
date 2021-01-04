@@ -1,0 +1,37 @@
+Ngô Quyền Np B-NP 
+làm V B-VP 
+Vua N B-NP 
+được V B-VP 
+5 M B-NP 
+năm N B-NP 
+( CH O 
+939 M B-NP 
+- CH O 
+944 N B-NP 
+) CH O 
+thì C O 
+mất V B-VP 
+, CH O 
+thọ N B-NP 
+48 M B-NP 
+tuổi N B-NP 
+. CH O 
+Ngô Quyền Np B-NP 
+mất V B-VP 
+, CH O 
+em N B-NP 
+vợ N B-NP 
+là V B-VP 
+Dương Tam Kha Np B-NP 
+cướp ngôi V B-VP 
+tự lập N B-NP 
+làm V B-VP 
+vua N B-NP 
+là V B-VP 
+Dương Bình Vương Np B-NP 
+( CH O 
+944 M B-NP 
+- CH O 
+950 M B-NP 
+) CH O 
+. CH O 

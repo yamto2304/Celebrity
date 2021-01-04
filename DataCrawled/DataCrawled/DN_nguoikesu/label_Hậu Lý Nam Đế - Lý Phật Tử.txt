@@ -1,0 +1,76 @@
+Diệt Np B-NP 
+xong V B-VP 
+Triệu Việt Vương Np B-NP 
+, CH O 
+Lý Phật Tử xưng N B-NP 
+là V B-VP 
+hậu A B-AP 
+Lý Nam Đế Np B-NP 
+, CH O 
+đóng đô N B-NP 
+ở E B-PP 
+Phong Châu Np B-NP 
+( CH O 
+Bạch Hạc Ny B-NP 
+- CH O 
+Phú Thọ Np B-NP 
+) CH O 
+. CH O 
+Trong E B-PP 
+lúc N B-NP 
+Lý Phật Tử Np B-NP 
+làm V B-VP 
+vua N B-NP 
+ở E B-PP 
+nước N B-NP 
+ta P B-NP 
+, CH O 
+thì C O 
+bên N B-NP 
+Trung Quốc Np B-NP 
+Tuỳ Văn Đế Np B-NP 
+dẹp yên V B-VP 
+được R O 
+Nam Bắc triều V B-VP 
+, CH O 
+thống nhất V B-VP 
+được V B-VP 
+đất nước N B-NP 
+Trung Hoa Np B-NP 
+. CH O 
+Năm Np B-NP 
+Nhâm Tuất Np B-NP 
+( CH O 
+602 M B-NP 
+) CH O 
+nhà N B-NP 
+Tuỳ sai V B-VP 
+danh tướng N B-NP 
+Lưu Phương Np B-NP 
+đem V B-VP 
+quân N B-NP 
+sang V B-VP 
+xâm lược V B-VP 
+nước N B-NP 
+ta P B-NP 
+. CH O 
+Lý Np B-NP 
+Phật Tử Np I-NP 
+hèn nhát V B-VP 
+đầu hàng N B-NP 
+, CH O 
+dâng V B-VP 
+nước N B-NP 
+ta P B-NP 
+cho E B-PP 
+giặc N B-NP 
+. CH O 
+Từ E B-PP 
+đó P B-NP 
+nước N B-NP 
+ta P B-NP 
+lại R O 
+bị V B-VP 
+nhà N B-NP 
+Tuỳ Np B-NP 
+đô hộ M B-NP 

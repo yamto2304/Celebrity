@@ -1,0 +1,92 @@
+Họ P B-NP 
+Triệu Np B-NP 
+, CH O 
+nhân E B-PP 
+lúc N B-NP 
+nhà N B-NP 
+Tần Np B-NP 
+suy V B-VP 
+loạn N B-NP 
+, CH O 
+giết V B-VP 
+trưởng N B-NP 
+lại V B-VP 
+Tần Np B-NP 
+, CH O 
+chiếm giữ V B-VP 
+đất N B-NP 
+Lĩnh Nam Np B-NP 
+, CH O 
+xưng đế N B-NP 
+, CH O 
+đòi V B-VP 
+ngang A B-AP 
+với E B-PP 
+nhà N B-NP 
+Hán Np B-NP 
+, CH O 
+hưởng V B-VP 
+nước N B-NP 
+truyền ngôi V B-VP 
+100 M B-NP 
+năm N B-NP 
+mới R O 
+mất V B-VP 
+, CH O 
+cũng R O 
+là V B-VP 
+bậc N B-NP 
+vua N B-NP 
+anh hùng N B-NP 
+. CH O 
+Họ Triệu Np B-NP 
+, CH O 
+tên N B-NP 
+húy V B-VP 
+là Đà N B-NP 
+, CH O 
+người N B-NP 
+huyện N B-NP 
+Chân Định Np B-NP 
+nước N B-NP 
+Hán Np B-NP 
+, CH O 
+đóng đô N B-NP 
+ở E B-PP 
+Phiên Ngung Np B-NP 
+( CH O 
+nay P B-NP 
+ở E B-PP 
+tỉnh N B-NP 
+Quảng Đông Np I-NP 
+) CH O 
+. CH O 
+Giáp Ngọ Np B-NP 
+, CH O 
+năm N B-NP 
+thứ N B-NP 
+1 M B-NP 
+[ N B-NP 
+207 V B-VP 
+TCN ] N B-NP 
+, CH O 
+( CH O 
+Tần Np B-NP 
+Nhị Thế Np I-NP 
+năm N B-NP 
+thứ N B-NP 
+3 M B-NP 
+) CH O 
+. Vua V B-VP 
+chiếm V B-VP 
+lấy V B-VP 
+đất N B-NP 
+Lâm Ấp Np B-NP 
+và C O 
+Tượng Quận Np B-NP 
+, CH O 
+tự lập N B-NP 
+làm V B-VP 
+Nam Np B-NP 
+Việt Vương Np I-NP 
+. CH O 

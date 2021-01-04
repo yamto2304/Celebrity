@@ -1,0 +1,84 @@
+Tân Np B-NP 
+Mùi Np B-NP 
+, CH O 
+[ V B-VP 
+110 N B-NP 
+TCN ] N B-NP 
+, CH O 
+( CH O 
+Hán Nguyên Phong Ny B-NP 
+năm N B-NP 
+thứ N B-NP 
+1 M B-NP 
+) CH O 
+. CH O 
+Nước N B-NP 
+Việt Np B-NP 
+ta P B-NP 
+đã R O 
+thuộc V B-VP 
+về E B-PP 
+nhà N B-NP 
+Hán Np B-NP 
+. CH O 
+Nhà Hán Np B-NP 
+cho E B-PP 
+Thạch Đái Np B-NP 
+làm V B-VP 
+Thái Thú Np B-NP 
+9 M B-NP 
+quận N B-NP 
+. CH O 
+( CH O 
+Chế độ N B-NP 
+nhà N B-NP 
+Hán Np B-NP 
+lấy V B-VP 
+châu N B-NP 
+lãnh V B-VP 
+quận N B-NP 
+, CH O 
+trừ V B-VP 
+hai M B-NP 
+quận N B-NP 
+Châu Nhai Np B-NP 
+, CH O 
+Đạm Nhĩ Np B-NP 
+đều R O 
+ở E B-PP 
+giữa N B-NP 
+biển N B-NP 
+, CH O 
+còn C O 
+7 M B-NP 
+quận N B-NP 
+thuộc V B-VP 
+về E B-PP 
+Giao Châu Np B-NP 
+, CH O 
+Đái Np B-NP 
+làm V B-VP 
+châu Thái N B-NP 
+thú63 V B-VP 
+. CH O 
+Thời Tây Hán Np B-NP 
+, CH O 
+trị sở N B-NP 
+của E B-PP 
+Thái Thú Np B-NP 
+đặt V B-VP 
+tại E B-PP 
+Long Uyên Np B-NP 
+, CH O 
+tức là X O 
+Long Biên Np B-NP 
+, CH O 
+thời N B-NP 
+Đông Hán Np B-NP 
+đặt V B-VP 
+tại E B-PP 
+Mê Linh Np B-NP 
+tức là X O 
+Yên Lăng Np B-NP 
+. CH O 
+) CH O 

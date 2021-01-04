@@ -1,0 +1,126 @@
+Lê Kính Tông Np B-NP 
+( CH O 
+1600 M B-NP 
+- CH O 
+1619 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Duy Tân Np B-NP 
+, CH O 
+con thứ N B-NP 
+của E B-PP 
+Lê Thế Tông Np B-NP 
+, CH O 
+ngày N B-NP 
+27 M B-NP 
+tháng N B-NP 
+Tám M B-NP 
+năm N B-NP 
+Kỷ Hợi Np B-NP 
+- CH O 
+1599 N B-NP 
+được V B-VP 
+Trịnh Tùng Np B-NP 
+lập V B-VP 
+làm V B-VP 
+vua N B-NP 
+, CH O 
+khi N B-NP 
+đó P B-NP 
+mới R O 
+11 M B-NP 
+tuổi N B-NP 
+. CH O 
+Từ E B-PP 
+đầu N B-NP 
+thế kỷ N B-NP 
+17 M B-NP 
+, CH O 
+sau N B-NP 
+khi N B-NP 
+đánh tan V B-VP 
+nhà N B-NP 
+Mạc Np B-NP 
+, CH O 
+giành V B-VP 
+lại R O 
+được V B-VP 
+kinh đô N B-NP 
+Đông Đô Np B-NP 
+( CH O 
+dư đảng V B-VP 
+nhà N B-NP 
+Mạc Np B-NP 
+phải V B-VP 
+rút V B-VP 
+lên Cao Bằng N B-NP 
+) CH O 
+quyền lực N B-NP 
+của E B-PP 
+Trịnh Tùng Np B-NP 
+ngày càng X O 
+lớn A B-AP 
+, CH O 
+triều đình N B-NP 
+chỉ R O 
+biết V B-VP 
+phục vụ V B-VP 
+nhà N B-NP 
+chúa V B-VP 
+. CH O 
+Trước E B-PP 
+tình hình N B-NP 
+đó P B-NP 
+, CH O 
+vua N B-NP 
+Lê Kính Tông Np B-NP 
+cùng C O 
+với E B-PP 
+Trịnh Xuân Np B-NP 
+- CH O 
+con thứ N B-NP 
+của E B-PP 
+Trịnh Tùng Np B-NP 
+- CH O 
+mưu N B-NP 
+giết V B-VP 
+Trịnh Tùng Np B-NP 
+. CH O 
+Việc N B-NP 
+bại lộ N B-NP 
+, CH O 
+Trịnh Xuân Np B-NP 
+bị V B-VP 
+bắt V B-VP 
+giam V B-VP 
+, CH O 
+còn C O 
+Kính Tông Np B-NP 
+bị V B-VP 
+bức V B-VP 
+thắt cổ N B-NP 
+chết V B-VP 
+vào E B-PP 
+ngày N B-NP 
+12 M B-NP 
+tháng N B-NP 
+Năm M B-NP 
+năm M B-NP 
+Kỷ Np B-NP 
+Mùi Np B-NP 
+- CH O 
+1619 V B-VP 
+. CH O 
+Lê Kính Tông Np B-NP 
+ở E B-PP 
+ngôi N B-NP 
+được R O 
+19 M B-NP 
+năm N B-NP 
+, CH O 
+thọ N B-NP 
+32 M B-NP 
+tuổi N B-NP 
+. CH O 

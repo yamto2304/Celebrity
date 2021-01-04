@@ -1,0 +1,55 @@
+Khúc Np B-NP 
+Thừa Np B-NP 
+Mỹ Np B-NP 
+( CH O 
+917 M B-NP 
+- CH O 
+923 N B-NP 
+) CH O 
+thay V B-VP 
+cha N B-NP 
+nhậm chức V B-VP 
+Tiết độ sứ N B-NP 
+của E B-PP 
+nhà N B-NP 
+Lương Np B-NP 
+, CH O 
+chứ C O 
+không R O 
+phục V B-VP 
+nhà N B-NP 
+Nam Hán Np B-NP 
+. CH O 
+Năm N B-NP 
+923 M B-NP 
+, CH O 
+vua N B-NP 
+Nam Hán Np B-NP 
+sai A B-AP 
+tướng N B-NP 
+là V B-VP 
+Lý Khắc Np B-NP 
+Chính T O 
+đem V B-VP 
+quân N B-NP 
+sang V B-VP 
+đánh V B-VP 
+và C O 
+bắt V B-VP 
+được R O 
+Khúc Np B-NP 
+Thừa Np B-NP 
+Mỹ Np B-NP 
+, CH O 
+rồi C O 
+sai A B-AP 
+Lý Tiến Np B-NP 
+sang V B-VP 
+cùng C O 
+với C O 
+Lý Khắc Np B-NP 
+Chính T O 
+làm V B-VP 
+thứ sử N B-NP 
+Giao Châu Np B-NP 
+. CH O 

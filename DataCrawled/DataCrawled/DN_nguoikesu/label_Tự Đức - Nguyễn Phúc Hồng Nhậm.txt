@@ -1,0 +1,56 @@
+Tự Đức Np B-NP 
+( CH O 
+1847 M B-NP 
+- CH O 
+1883 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Hồng Nhiệm Np B-NP 
+, CH O 
+sinh V B-VP 
+ngày N B-NP 
+25 M B-NP 
+tháng N B-NP 
+8 M B-NP 
+nǎm N B-NP 
+Kỷ Sửu Np B-NP 
+( CH O 
+1829 M B-NP 
+) CH O 
+là V B-VP 
+con N B-NP 
+thứ N B-NP 
+hai M B-NP 
+của E B-PP 
+Thiệu Trị Np B-NP 
+và C O 
+bà Nc B-NP 
+Phạm Thị Hằng Np B-NP 
+- CH O 
+con gái N B-NP 
+Thượng thư N B-NP 
+Bộ Lễ Np B-NP 
+Phạm Đǎng Hưng Np B-NP 
+. CH O 
+Tháng N B-NP 
+10 M B-NP 
+nǎm N B-NP 
+1847 N B-NP 
+, CH O 
+Hồng Nhiệm Np B-NP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+, CH O 
+đặt V B-VP 
+niên hiệu N B-NP 
+là V B-VP 
+Tự Đức Np B-NP 
+, CH O 
+lúc N B-NP 
+đó P B-NP 
+19 M B-NP 
+tuổi N B-NP 
+. CH O 

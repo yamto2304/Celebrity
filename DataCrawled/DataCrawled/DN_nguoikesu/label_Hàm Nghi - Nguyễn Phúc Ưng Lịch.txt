@@ -1,0 +1,64 @@
+Hàm Nghi Np B-NP 
+( CH O 
+1884 M B-NP 
+- CH O 
+1885 M B-NP 
+) CH O 
+Sau N B-NP 
+khi N B-NP 
+Kiến Np B-NP 
+Phúc Np B-NP 
+bị V B-VP 
+giết V B-VP 
+, CH O 
+ngày N B-NP 
+1/8/1884 M B-NP 
+Ưng Lịch Np B-NP 
+mới R O 
+13 M B-NP 
+tuổi N B-NP 
+được V B-VP 
+đưa V B-VP 
+lên V B-VP 
+ngôi Nc B-NP 
+vua N B-NP 
+, CH O 
+niên hiệu N B-NP 
+là V B-VP 
+Hàm Nghi Np B-NP 
+. CH O 
+Lúc N B-NP 
+đó P B-NP 
+, CH O 
+Hoà ước N B-NP 
+Giáp Thân Np B-NP 
+( CH O 
+6/6/1884 N B-NP 
+) CH O 
+đã R O 
+được V B-VP 
+ký kết V B-VP 
+. Lễ N B-NP 
+đǎng N B-NP 
+quang N B-NP 
+của E B-PP 
+Hàm Nghi Np B-NP 
+không R O 
+được V B-VP 
+Nam Np B-NP 
+triều V B-VP 
+thông báo V B-VP 
+cho E B-PP 
+Khâm sứ N B-NP 
+Pháp Np B-NP 
+tại E B-PP 
+Trung kỳ N B-NP 
+biết V B-VP 
+, CH O 
+nên C O 
+Rê-na Np B-NP 
+không R O 
+thừa nhận V B-VP 
+vua N B-NP 
+mới A B-AP 
+. CH O 

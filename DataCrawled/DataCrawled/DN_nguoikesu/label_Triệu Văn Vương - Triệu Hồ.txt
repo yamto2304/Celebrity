@@ -1,0 +1,129 @@
+Triệu Np B-NP 
+Văng Np B-NP 
+Vương Np B-NP 
+Tên Np B-NP 
+húy V B-VP 
+là V B-VP 
+Hồ Np B-NP 
+, CH O 
+con trai N B-NP 
+Trọng Thủy Np B-NP 
+, CH O 
+cháu Nc B-NP 
+Vũ Đế Np B-NP 
+. CH O 
+Vua N B-NP 
+lấy V B-VP 
+nghĩa N B-NP 
+để E B-PP 
+cảm V B-VP 
+nước N B-NP 
+láng giềng A B-AP 
+, CH O 
+đánh lui V B-VP 
+địch N B-NP 
+, CH O 
+yên A B-AP 
+biên cảnh T O 
+, CH O 
+cũng R O 
+gọi V B-VP 
+là C O 
+bậc N B-NP 
+vua N B-NP 
+có V B-VP 
+ý muốn N B-NP 
+thịnh trị V B-VP 
+vậy P B-NP 
+. CH O 
+Bính Ngọ Np B-NP 
+, CH O 
+năm N B-NP 
+thứ N B-NP 
+2 M B-NP 
+[ N B-NP 
+135 M B-NP 
+TCN ] N B-NP 
+, CH O 
+( CH O 
+Hán Kiến Nguyên Ny B-NP 
+năm N B-NP 
+thứ N B-NP 
+6 M B-NP 
+) CH O 
+. CH O 
+Mùa thu V B-VP 
+, CH O 
+tháng N B-NP 
+8 M B-NP 
+, CH O 
+có V B-VP 
+sao Chổi N B-NP 
+mọc V B-VP 
+ở E B-PP 
+phương đông N B-NP 
+, CH O 
+đuôi N B-NP 
+dài A B-AP 
+hết V B-VP 
+trời N B-NP 
+. CH O 
+Mân Np B-NP 
+Việt Np B-NP 
+Vương Sính Np B-NP 
+xâm lấn V B-VP 
+biên N B-NP 
+ấp N B-NP 
+nước N B-NP 
+ta P B-NP 
+. CH O 
+Vua N B-NP 
+giữ V B-VP 
+ước V B-VP 
+với E B-PP 
+nhà N B-NP 
+Hán Np B-NP 
+, CH O 
+không R O 
+tự tiện V B-VP 
+dấy quân N B-NP 
+, CH O 
+sai A B-AP 
+người N B-NP 
+đem V B-VP 
+thư N B-NP 
+nói V B-VP 
+việc N B-NP 
+đó P B-NP 
+với E B-PP 
+nhà N B-NP 
+Hán Np B-NP 
+. CH O 
+Nhà N B-NP 
+Hán Np B-NP 
+khen V B-VP 
+là V B-VP 
+nghĩa N B-NP 
+, CH O 
+vì E B-PP 
+vua N B-NP 
+mà C O 
+phát V B-VP 
+đại binh N B-NP 
+, CH O 
+sai A B-AP 
+Vương Khôi Np B-NP 
+xuất quân V B-VP 
+từ E B-PP 
+Dự Chương Np B-NP 
+, CH O 
+Hàn An Quốc Np B-NP 
+xuất quân V B-VP 
+từ E B-PP 
+Cối Kê Np B-NP 
+, CH O 
+để E B-PP 
+đánh V B-VP 
+Mân Np B-NP 
+Việt Np I-NP 
+. CH O 

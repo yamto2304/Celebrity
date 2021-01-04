@@ -1,0 +1,168 @@
+Lê Thế Tông Np B-NP 
+( CH O 
+1573 M B-NP 
+- CH O 
+1599 N B-NP 
+) CH O 
+tên N B-NP 
+huý V B-VP 
+là V B-VP 
+Duy Đàm Np B-NP 
+, CH O 
+sinh V B-VP 
+tháng N B-NP 
+11/1567 M B-NP 
+. CH O 
+Tháng N B-NP 
+1/1573 M B-NP 
+được R O 
+lập V B-VP 
+làm V B-VP 
+vua N B-NP 
+khi N B-NP 
+mới R O 
+7 M B-NP 
+tuổi N B-NP 
+, CH O 
+quyền hành V B-VP 
+tất cả P B-NP 
+ở E B-PP 
+trong E B-PP 
+tay N B-NP 
+tả V B-VP 
+tướng N B-NP 
+Trịnh Tùng Np B-NP 
+. CH O 
+Sau N B-NP 
+gần A B-AP 
+50 M B-NP 
+năm N B-NP 
+nội chiến M B-NP 
+Nam Np B-NP 
+- CH O 
+Bắc Triều Np B-NP 
+với E B-PP 
+gần A B-AP 
+40 M B-NP 
+trận N B-NP 
+đánh V B-VP 
+lớn nhỏ A B-AP 
+, CH O 
+hàng R O 
+vạn M B-NP 
+dân N B-NP 
+lành N B-NP 
+bị V B-VP 
+bắt V B-VP 
+vào E B-PP 
+lính N B-NP 
+, CH O 
+phục vụ V B-VP 
+cho E B-PP 
+các L B-NP 
+cuộc N B-NP 
+tàn sát V B-VP 
+khủng khiếp A B-AP 
+. CH O 
+Có V B-VP 
+trận N B-NP 
+mỗi L B-NP 
+bên N B-NP 
+huy động V B-VP 
+hàng R O 
+chục M B-NP 
+vạn M B-NP 
+quân N B-NP 
+, CH O 
+hai M B-NP 
+bên N B-NP 
+giằng co N B-NP 
+khá R O 
+quyết liệt A B-AP 
+, CH O 
+mãi R O 
+đến E B-PP 
+năm N B-NP 
+1591 M B-NP 
+, CH O 
+Trịnh Tùng Np B-NP 
+huy động V B-VP 
+tổng lực V B-VP 
+đánh trận N B-NP 
+quyết định V B-VP 
+ở E B-PP 
+Đông Kinh Np B-NP 
+, CH O 
+tháng N B-NP 
+11/1592 M B-NP 
+bắt V B-VP 
+được R O 
+Mạc Np B-NP 
+Mậu Hợp Np I-NP 
+, CH O 
+chiếm V B-VP 
+được R O 
+kinh thành V B-VP 
+. Tháng V B-VP 
+2/1593 N B-NP 
+, CH O 
+Trịnh Tùng Np B-NP 
+đón V B-VP 
+Lê Thế Tông Np B-NP 
+về E B-PP 
+kinh đô N B-NP 
+Đông Đô Np B-NP 
+. CH O 
+Công cuộc N B-NP 
+Lê Trung Hưng Np B-NP 
+đã R O 
+hoàn thành V B-VP 
+. CH O 
+Trịnh Tùng Np B-NP 
+tự xưng V B-VP 
+là C O 
+Đô Np B-NP 
+Nguyên suý V B-VP 
+Tổng quốc N B-NP 
+chính T O 
+Thượng phụ N B-NP 
+Bình an N B-NP 
+vương V B-VP 
+toàn quyền N B-NP 
+quyết định V B-VP 
+. Vua V B-VP 
+chỉ R O 
+ngồi V B-VP 
+chắp tay V B-VP 
+làm V B-VP 
+vì E B-PP 
+, CH O 
+bắt đầu V B-VP 
+thời kỳ N B-NP 
+" CH O 
+vua N B-NP 
+Lê chúa Trịnh N B-NP 
+" CH O 
+. CH O 
+Ngày N B-NP 
+24 M B-NP 
+tháng N B-NP 
+Tám M B-NP 
+năm N B-NP 
+Kỷ Hợi Np B-NP 
+- CH O 
+1599 N B-NP 
+, CH O 
+Lê Thế Tông Np B-NP 
+mất V B-VP 
+, CH O 
+ở E B-PP 
+ngôi N B-NP 
+được R O 
+26 M B-NP 
+năm N B-NP 
+, CH O 
+thọ N B-NP 
+33 M B-NP 
+tuổi N B-NP 
+. CH O 

@@ -1,0 +1,253 @@
+Mạc Np B-NP 
+Đăng Dung Np B-NP 
+( CH O 
+1527 M B-NP 
+- CH O 
+1529 N B-NP 
+) CH O 
+Mạc Np B-NP 
+Đăng Dung Np B-NP 
+quê N B-NP 
+ở E B-PP 
+làng N B-NP 
+Cổ Trai Np B-NP 
+, CH O 
+huyện N B-NP 
+Nghi Dương Np I-NP 
+( CH O 
+Hải Dương Np B-NP 
+) CH O 
+là V B-VP 
+cháu Nc B-NP 
+bảy M B-NP 
+đời N B-NP 
+của E B-PP 
+trạng nguyên N B-NP 
+Mạc Np B-NP 
+Đĩnh Chi Np B-NP 
+làm quan V B-VP 
+đến E B-PP 
+chức N B-NP 
+Nhập nội N B-NP 
+hành khiển N B-NP 
+( CH O 
+Tể tướng M B-NP 
+) CH O 
+thời N B-NP 
+Trần Np B-NP 
+, CH O 
+bố N B-NP 
+là V B-VP 
+Mạc Hịch Np B-NP 
+, CH O 
+mẹ N B-NP 
+là V B-VP 
+Đặng Thị Hiến Np B-NP 
+. CH O 
+Ông bà N B-NP 
+Mạc Hịch Np B-NP 
+- CH O 
+Đặng Thị Hiến sinh N B-NP 
+được V B-VP 
+3 M B-NP 
+người Nc B-NP 
+con trai N B-NP 
+là V B-VP 
+: CH O 
+Mạc Np B-NP 
+Đăng Dung Np I-NP 
+, CH O 
+Mạc Np B-NP 
+Đăng Đốc Np I-NP 
+và C O 
+Mạc Np B-NP 
+Đăng Quyết Np I-NP 
+. CH O 
+Mạc Np B-NP 
+Đăng Dung Np I-NP 
+sinh V B-VP 
+ngày N B-NP 
+23 M B-NP 
+tháng N B-NP 
+11 M B-NP 
+năm N B-NP 
+Quý Mão Np B-NP 
+- CH O 
+1483 N B-NP 
+. CH O 
+Thời N B-NP 
+trẻ A B-AP 
+, CH O 
+Mạc Đăng Dung Np B-NP 
+có V B-VP 
+sức khoẻ N B-NP 
+phi thường A B-AP 
+, CH O 
+tướng mạo V B-VP 
+khôi ngô N B-NP 
+. CH O 
+Ông Nc B-NP 
+xuất thân V B-VP 
+từ E B-PP 
+một M B-NP 
+thanh niên N B-NP 
+nghèo A B-AP 
+, CH O 
+làm V B-VP 
+nghề N B-NP 
+đánh cá V B-VP 
+, CH O 
+trong E B-PP 
+một M B-NP 
+dịp N B-NP 
+đi V B-VP 
+thi V B-VP 
+võ N B-NP 
+ở E B-PP 
+kinh đô N B-NP 
+đã R O 
+trúng V B-VP 
+Đô lực sĩ N B-NP 
+và C O 
+được V B-VP 
+sung V B-VP 
+vào E B-PP 
+Châu Np B-NP 
+túc vệ N B-NP 
+chuyên A B-AP 
+cầm V B-VP 
+dù C O 
+đi V B-VP 
+theo V B-VP 
+vua N B-NP 
+. CH O 
+Mạc Np B-NP 
+Đăng Dung Np I-NP 
+tiến V B-VP 
+rất R O 
+nhanh A B-AP 
+trên E B-PP 
+con Nc B-NP 
+đường N B-NP 
+hoan V B-VP 
+lộ V B-VP 
+, CH O 
+năm N B-NP 
+1511 M B-NP 
+mới R O 
+29 M B-NP 
+tuổi N B-NP 
+đã R O 
+được V B-VP 
+phong tước V B-VP 
+Vũ xuyên V B-VP 
+bá N B-NP 
+. CH O 
+Năm N B-NP 
+1516 M B-NP 
+, CH O 
+Mạc Np B-NP 
+Đăng Dung Np I-NP 
+được R O 
+cử V B-VP 
+làm V B-VP 
+Trấn thủ V B-VP 
+Sơn Nam Np B-NP 
+với E B-PP 
+chức N B-NP 
+Phó tướng N B-NP 
+tả V B-VP 
+đô đốc V B-VP 
+. CH O 
+Trải V B-VP 
+qua V B-VP 
+3 M B-NP 
+đời vua N B-NP 
+Lê Np B-NP 
+, CH O 
+Mạc Np B-NP 
+Đăng Dung Np I-NP 
+được R O 
+phong Thái sư V B-VP 
+Nhân Np B-NP 
+quốc công V B-VP 
+rồi C O 
+đến V B-VP 
+An hưng V B-VP 
+vương N B-NP 
+. CH O 
+Lợi dụng V B-VP 
+lúc N B-NP 
+vua N B-NP 
+Lê Cung Hoàng Np B-NP 
+ươn hèn V B-VP 
+, CH O 
+tháng N B-NP 
+6 M B-NP 
+năm N B-NP 
+1527 M B-NP 
+, CH O 
+Mạc Np B-NP 
+Đăng Dung Np I-NP 
+từ E B-PP 
+Cổ Trai Np B-NP 
+đem V B-VP 
+quân N B-NP 
+về E B-PP 
+kinh đô N B-NP 
+ép V B-VP 
+vua N B-NP 
+nhường ngôi N B-NP 
+, CH O 
+lập V B-VP 
+lên V B-VP 
+triều N B-NP 
+Mạc Np B-NP 
+. CH O 
+Cũng R O 
+như C O 
+nhà N B-NP 
+Trần Np B-NP 
+, CH O 
+tháng N B-NP 
+12 M B-NP 
+năm N B-NP 
+1529 M B-NP 
+, CH O 
+Mạc Đăng Dung Np B-NP 
+nhường ngôi V B-VP 
+cho E B-PP 
+con N B-NP 
+là V B-VP 
+Mạc Np B-NP 
+Đăng Doanh Np I-NP 
+làm V B-VP 
+vua N B-NP 
+, CH O 
+còn C O 
+mình P B-NP 
+làm V B-VP 
+Thái thượng hoàng N B-NP 
+. CH O 
+Lúc N B-NP 
+đó P B-NP 
+Mạc Np B-NP 
+Đăng Dung Np I-NP 
+mới R O 
+46 M B-NP 
+tuổi N B-NP 
+. CH O 
+Mạc Np B-NP 
+Đăng Dung Np I-NP 
+mất V B-VP 
+tháng N B-NP 
+8 M B-NP 
+năm N B-NP 
+Tân Sửu Np B-NP 
+- CH O 
+1541 N B-NP 
+, CH O 
+thọ N B-NP 
+59 M B-NP 
+tuổi N B-NP 
+. CH O 
