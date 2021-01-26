@@ -17,3 +17,5 @@ Work Progess :
 - Sử dụng thư viện PyVi, Pandas của python để gán nhãn từ loại 
 
 	https://pypi.org/project/pyvi/
+- Google colab 
+	https://colab.research.google.com/drive/1BOeMVDQXPOlABzae20z_UavZg_PcwbUc#scrollTo=1kJQ5bmN227w
